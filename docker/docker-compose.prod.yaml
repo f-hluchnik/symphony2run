@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: ../backend
+    env_file:
+      - ../.env
+    restart: always
+
+  frontend:
+    build:
+      context: ../frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    restart: always
