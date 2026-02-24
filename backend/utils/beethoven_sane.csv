@@ -1,0 +1,267 @@
+work,num_movements,duration,duration_ms,stat_used,count_with_length,count_total
+"Fidelio, op. 72",40,3:20:27,12027000,median,1222,1266
+"Symphony no. 9 in D minor, op. 125 “Choral”",10,2:27:02,8822000,median,2247,2299
+Leonore,39,2:17:19,8239000,median,140,140
+"Christus am Ölberge for 3 Solo Voices, Chorus, and Orchestra, op. 85",24,1:35:13,5713000,median,274,274
+"Missa solemnis D-Dur, op. 123",19,1:33:42,5622000,median,355,376
+"Missa Solemnis D‐Dur, op. 123",5,1:12:20,4340000,median,351,356
+"Symphony no. 3 in E-flat major, op. 55 “Eroica”",6,1:11:27,4287000,median,12,12
+"Twenty-Five Scottish Songs, op. 108",25,1:10:24,4224000,median,199,199
+"Die Geschöpfe des Prometheus, op. 43, Hess 90",18,1:06:41,4001000,median,21,21
+"25 Irish Songs, WoO 152",25,1:04:37,3877000,median,155,155
+"The Creatures of Prometheus, op. 43",18,1:01:58,3718000,median,293,293
+"Symphony no. 9 in D minor, op. 125 “Choral”, S. 464 no. 9",4,1:00:47,3647000,median,28,28
+20 Irish Songs WoO 153,20,53:52,3232000,median,111,112
+"33 Variations for Piano in C major on a Waltz by Anton Diabelli, op. 120",34,52:46,3166000,median,2659,2693
+"Symphony no. 9 in D minor, op. 125, S. 657 “Choral”",4,52:23,3143000,median,19,19
+"Symphony no. 3 in E-flat major, op. 55 “Eroica”, S. 464 no. 3",4,51:36,3096000,median,33,33
+"Symphony no. 3 in E‐flat major, op. 55 “Eroica”",4,48:33,2913000,median,1441,1478
+"Egmont, op. 84",11,47:05,2825000,median,483,495
+"Symphony no. 7 in A major, S. 463d",4,46:50,2810000,median,4,4
+"10 National Airs with Variations, op. 107",10,44:33,2673000,median,123,123
+"String Quartet no. 8 in E minor, op. 59 no. 2",5,44:13,2653000,median,292,296
+"String Quartet no. 15 in A minor, op. 132",5,43:51,2631000,median,456,471
+"Concerto for Violin and Orchestra in D major, op. 61",3,43:43,2623000,median,781,821
+"Sonata for Piano no. 29 in B-flat major, op. 106 ""Hammer-Klavier""",4,43:20,2600000,median,655,655
+"Symphony no. 7 in A major, op. 92",6,43:02,2582000,median,1478,1515
+"Sonata no. 29 in B-flat major, op. 106 ""Hammer-Klavier""",4,43:01,2581000,median,14,14
+"Concerto for Piano and Orchestra in D major, op. 61a",3,42:38,2558000,median,77,77
+"Beethovens Septett, S. 465",6,42:21,2541000,median,6,6
+"Symphony no. 7 in A major, op. 92, S. 464 no. 7",4,41:59,2519000,median,41,41
+"Symphony no. 6 in F major, op. 68 “Pastorale”",5,41:50,2510000,median,1864,1919
+"String Quartet no. 13 in B‐flat major, op. 130",6,41:14,2474000,median,542,549
+"Septett for Violin, Viola, Clarinet, Horn, Bassoon, Cello, and Double Bass in E-flat major, op. 20",6,40:46,2446000,median,258,265
+"Mass for 4 Solo Voices, Chorus, and Orchestra in C major, op. 86",5,40:29,2429000,median,170,171
+"String Quartet no. 14 in C-sharp minor, op. 131",7,40:28,2428000,median,22,22
+"Sonata for Cello and Piano no. 9 in A major, op. 47 “Kreutzer”",3,40:26,2426000,median,7,7
+"String Quartet no. 7 in F major, op. 59 no. 1",4,40:02,2402000,median,323,323
+"Cello Sonata in E-flat major, op. 64",6,39:53,2393000,median,19,19
+"Symphony no. 1 in C major, op. 21",6,39:50,2390000,median,982,996
+"Trio for Piano, Violin, and Cello no. 7 in B-flat major, op. 97 ""Archduke""",4,39:42,2382000,median,300,305
+"Cantata on the Death of Emperor Joseph II, WoO 87",7,39:39,2379000,median,63,63
+"Trio for Violin, Viola, and Cello in E‐flat major, op. 3",6,39:36,2376000,median,143,143
+"Trio in E-flat major, op. 38",6,39:30,2370000,median,96,102
+"String Quartet no. 13 in B-flat major, op. 130",7,39:20,2360000,median,8,8
+"Symphony no. 5 in C minor, S. 463a",4,39:18,2358000,median,8,8
+Die Weihe des Hauses,10,39:07,2347000,median,38,38
+"Die Ruinen von Athen, op. 113",11,38:50,2330000,median,187,187
+"String Quartet no. 14 in C‐sharp minor, op. 131",7,38:41,2321000,median,627,627
+"Concerto for Piano and Orchestra no. 5 in E-flat major, op. 73 “Emperor”",3,38:33,2313000,median,994,1036
+"String Quartet no. 12 in E‐flat major, op. 127",4,37:14,2234000,median,334,334
+"Triple Concerto, op. 56",3,37:07,2227000,median,3,3
+"Symphony no. 5 in C minor, op. 67",5,37:04,2224000,median,2082,2145
+"Sonata for Piano no. 21 in C major, op. 53 “Waldstein”",4,36:53,2213000,median,599,613
+12 Irish Songs WoO 154,12,36:08,2168000,median,75,75
+"Concerto for Piano and Orchestra no. 1 in C major, op. 15",3,36:02,2162000,median,628,644
+"Cantata for 4 Solo Voices, Chorus, and Orchestra, op. 136 ""The Moment of Glory""",6,35:45,2145000,median,36,36
+"Concerto for Piano and Orchestra no. 3 in C minor, op. 37",3,35:40,2140000,median,712,723
+"Concerto for Piano, Violin, Cello and Orchestra in C major, op. 56 “Triple Concerto”",3,35:27,2127000,median,305,314
+"Twelve Various Folksongs, WoO 157",12,35:10,2110000,median,67,67
+"Symphony no. 2 in D major, op. 36, S. 464 no. 2",4,34:55,2095000,median,29,29
+"Symphony no. 5 in C minor, S. 464 no. 5",4,34:44,2084000,median,41,41
+"Sonata for Violin and Piano no. 9 in A major, op. 47 “Kreutzer”",3,34:33,2073000,median,479,493
+"Symphony no. 6 in F major, S. 463b ""Pastorale""",4,34:14,2054000,median,4,4
+"Sonata for Piano no. 21 in C major, op. 53 “Waldstein” (inVersion)",5,34:09,2049000,median,5,5
+"Trio nach der 2. Sinfonie, op. 36",4,33:54,2034000,median,40,40
+"Symphony no. 4 in B-flat major, op. 60",4,33:45,2025000,median,954,967
+"Concerto for Piano and Orchestra no. 4 in G major, op. 58",3,33:41,2021000,median,787,813
+"Trio for Piano, Violin, and Cello no. 2 in G major, op. 1 no. 2",4,33:23,2003000,median,147,147
+"Symphony no. 2 in D major, op. 36",4,33:17,1997000,median,909,932
+"Quintet for 2 Violins, 2 Violas, and Cello in C major, op. 29",4,33:16,1996000,median,85,85
+"Symphony no. 6 in F major, op. 68 ""Pastoral"", S. 464 no. 6",4,33:01,1981000,median,41,41
+"Symphony no. 4 in B-flat major, op. 60, S. 464 no. 4",4,32:56,1976000,median,24,24
+"Quintet for 2 Violins, 2 Violas, and Cello in E-flat major, op. 4 (arranged for bassoon, clarinet and strings)",4,32:41,1961000,median,4,4
+String Quintet in G major,4,32:38,1958000,median,4,4
+"Sonata for Piano no. 30 in E major, op. 109",10,31:50,1910000,median,686,689
+"Symphony no. 6 in F major, op. 68 ""Pastorale""",4,31:49,1909000,median,5,5
+"String Quartet no. 9 in C major, op. 59 no. 3",4,31:31,1891000,median,343,344
+"String Quartet no. 16 in F major, op. 135",5,31:19,1879000,median,382,391
+"Trio for Piano, Clarinet [or Violin], and Cello no. 4 in B-flat major, op. 11",14,31:12,1872000,median,204,213
+"String Quartet no. 10 in E-flat major, op. 74 ""Harp""",4,31:10,1870000,median,307,308
+"String Quintet in C minor, op. 104",4,30:54,1854000,median,32,32
+"Trio for Piano, Violin, and Cello no. 1 in E-flat major, op. 1 no. 1",4,30:39,1839000,median,161,165
+"Trio for Piano, Violin, and Cello no. 6 in E-flat major, op. 70 no. 2",4,30:33,1833000,median,162,162
+"Piano Trio in E-flat major, op. 63",4,30:32,1832000,median,8,8
+A Fidelio Symphony,3,30:31,1831000,median,3,3
+"String Quartet in F major, Hess 32",4,30:20,1820000,median,16,16
+"String Quintet in E‐flat major, op. 4",4,30:16,1816000,median,30,30
+"Septet in E-flat major, op. 20",6,29:27,1767000,median,31,31
+"Trio for Piano, Violin, and Cello no. 3 in C minor, op. 1 no. 3",4,29:21,1761000,median,192,196
+"Concerto for Piano and Orchestra no. 2 in B-flat major, op. 19",3,29:10,1750000,median,602,614
+"Twelve Scottish Folksongs, WoO 156",12,28:58,1738000,median,64,64
+"Symphony No. 5 in C Minor, Op. 67 (Arr. for Orchestra by Gustav Mahler)",4,28:49,1729000,median,4,4
+"Sonata for Piano no. 4 in E‐flat major, op. 7",4,28:48,1728000,median,447,451
+"15 Variations and a Fugue for Piano in E-flat major on an Original Theme, op. 35 ""Eroica Variations""",19,28:46,1726000,median,731,731
+"String Quartet no. 1 in F major, op. 18 no. 1",4,28:40,1720000,median,340,340
+"Quartet for 2 Violins, Viola, Cello no. 5 in A major, op. 18 no. 5",4,28:02,1682000,median,301,309
+"Notturno, op. 42",7,27:25,1645000,median,38,38
+"Sonata for Violin and Piano no. 10 in G major, op. 96",4,27:17,1637000,median,356,356
+"Symphony no. 8 in F major, op. 93, S. 464 no. 8",4,27:01,1621000,median,24,24
+"Concerto for Piano and Orchestra in E-flat major, WoO 4 (reconstruction from Piano part",4,26:49,1609000,median,21,24
+"Piano Concerto in E‐flat major, WoO 4",3,26:32,1592000,median,20,20
+"Sonata for Orchestra in C minor, op. 30 no. 2b",4,26:26,1586000,median,4,4
+"Trio for Piano, Violin, and Cello no. 5 in D major, op. 70 no. 1 “Ghost”",3,26:18,1578000,median,244,250
+"Sonata for Piano no. 32 in C minor, op. 111",2,26:14,1574000,median,490,501
+"Symphony no. 1 in C major, op. 21, S. 464 no. 1",4,26:07,1567000,median,24,24
+"Sonata for Piano no. 3 in C major, op. 2 no. 3",4,26:04,1564000,median,573,578
+"Quintet for Piano, Oboe, Clarinet, Horn, and Bassoon in E-flat major, op. 16",3,26:01,1561000,median,134,134
+"Cantata on the Accession of Emperor Leopold II for Solo Voices, Chorus, and Orchestra, WoO 88",6,25:59,1559000,median,39,39
+"Symphony no. 8 in F major, op. 93",4,25:56,1556000,median,1034,1067
+"Mehrstimmige italienische Gesänge, WoO 99",24,25:55,1555000,median,25,25
+"12 Minuets for Orchestra, WoO 7",12,25:52,1552000,median,85,85
+"Trio for Piano, Flute, and Bassoon in G major, WoO 37",3,25:50,1550000,median,40,40
+"Symphony in C major ""Jena""",4,25:44,1544000,median,14,18
+"Sonata for Cello and Piano no. 1 in F major, op. 5 no. 1, arr. for Cello Quintet by Ferdinand Ries",3,25:37,1537000,median,3,3
+"Sonata for Violin and Piano no. 7 in C minor, op. 30 no. 2",4,25:25,1525000,median,377,381
+"Sonata for Cello and Piano no. 3 in A major, op. 69",3,25:18,1518000,median,343,346
+"König Stephan, op. 117",9,25:08,1508000,median,94,95
+"Trio for Violin, Viola, and Cello in G major, op. 9 no. 1",4,25:07,1507000,median,124,124
+"24 Variations on ""Venni Amore"", WoO 65",25,25:04,1504000,median,39,39
+"Sonata for Piano no. 11 in B-flat major, op. 22",4,24:56,1496000,median,412,413
+"Piano Concerto in E-flat major, WoO 4",3,24:50,1490000,median,6,6
+"Quartet for 2 Violins, Viola, Cello no. 6 in B-flat major, op. 18 no. 6",4,24:44,1484000,median,324,336
+"String Quartet no. 3 in D major, op. 18 no. 3",4,24:33,1473000,median,312,312
+"Sonata for Piano no. 23 in F minor, op. 57 “Appassionata”",3,24:27,1467000,median,911,936
+"Sonata for Flute and Piano in B-flat major, Anh. 4",4,24:26,1466000,median,37,37
+"Sonata for Piano no. 15 in D major, op. 28 ""Pastorale""",4,24:24,1464000,median,474,474
+"Quartet for Piano, Violin, Viola, and Cello in E-flat major, op. 16a",3,24:14,1454000,median,45,45
+"Sonata for Piano no. 12 in A-flat major, op. 26 ""Funeral March""",10,24:12,1452000,median,448,449
+"Sonata for Cello and Piano no. 1 in F major, op. 5 no. 1",4,24:11,1451000,median,233,233
+"Serenade for Flute, Violin, and Viola in D major, op. 25",6,24:04,1444000,median,123,124
+"Sonata for Piano no. 2 in A major, op. 2 no. 2",4,23:50,1430000,median,456,456
+"Trio for Violin, Viola, and Cello in C minor, op. 9 no. 3",4,23:43,1423000,median,125,125
+"Serenade for Flute & Piano, op. 41",7,23:42,1422000,median,50,50
+"String Quartet no. 2 in G major, op. 18 no. 2",4,23:42,1422000,median,292,292
+"Quartet for 2 Violins, Viola, Cello no. 4 in C minor, op. 18 no. 4",4,23:38,1418000,median,353,357
+"Sonata for Piano no. 16 in G major, op. 31 no. 1",3,23:27,1407000,median,311,311
+"Sonata for Piano no. 7 in D major, op. 10 no. 3",4,23:14,1394000,median,590,598
+"Sonata for Piano no. 17 in D minor, op. 31 no. 2 ""Tempest""",3,22:59,1379000,median,554,554
+"Trio for Violin, Viola, and Cello in D major, op. 9 no. 2",4,22:56,1376000,median,104,104
+"Sonata for Violin and Piano no. 6 in A major, op. 30 no. 1",3,22:43,1363000,median,267,267
+"Sonata for Piano no. 18 in E-flat major, op. 31 no. 3",4,22:21,1341000,median,575,579
+"String Quartet in F minor, op. 95",4,22:00,1320000,median,48,48
+"Trio for 2 Oboes and English Horn in C major, op. 87",4,21:49,1309000,median,36,36
+"Quartet for Piano, Violin, Viola, and Cello, WoO 36 no. 1 in E-flat major",3,21:36,1296000,median,40,40
+"Octet for 2 Oboes, 2 Clarinets, 2 Horns, and 2 Bassoons in E-flat major, op. 103",4,21:24,1284000,median,108,108
+Dovemansoren,4,21:02,1262000,median,4,4
+"32 Variations for Piano in C minor on an Original Theme, WoO 80",33,20:54,1254000,median,325,325
+"String Quartet no. 11 in F minor, op. 95",4,20:53,1253000,median,342,342
+"Sonata for Piano no. 28 in A major, op. 101",4,20:52,1252000,median,655,661
+"Sonata no. 28 in A major, op. 101",4,20:49,1249000,median,4,4
+"Sonata for Violin and Piano no. 1 in D major, op. 12 no. 1",3,20:33,1233000,median,269,269
+"11 Bagatelles, op. 119",14,20:27,1227000,median,367,367
+"7 Bagatelles, op. 33",7,20:20,1220000,median,270,270
+"Sonata for Violin and Piano no. 4 in A minor, op. 23",3,20:16,1216000,median,244,244
+"10 Variations for Piano, Violin, and Cello in G major on Wenzel Müller’s Lied “Ich bin der Schneider Kakadu”, op. 121a",13,20:06,1206000,median,106,106
+"Sonata for Cello and Piano no. 5 in D major, op. 102 no. 2",3,20:00,1200000,median,255,255
+"National Airs with Variations for Flute and Piano, op. 105",6,19:58,1198000,median,64,64
+"Sextet for 2 Clarinets, 2 Horns, and 2 Bassoons in E-flat major, op. 71",4,19:46,1186000,median,72,72
+"12 German Dances, WoO 8",12,19:40,1180000,median,76,76
+"Quartet for Piano, Violin, Viola, and Cello, WoO 36 no. 2 in D major",3,19:37,1177000,median,34,34
+String Quintet in B-flat major,3,19:25,1165000,median,3,3
+"Eleven Viennese Dances, WoO 17",11,19:12,1152000,median,38,38
+"Sonata for Violin and Piano no. 3 in E-flat major, op. 12 no. 3",3,19:10,1150000,median,243,243
+"6 Bagatelles, op. 126",6,18:54,1134000,median,412,419
+"Serenade for Violin, Viola, and Cello in D major, op. 8",5,18:50,1130000,median,168,170
+"5 Pieces for Mechanical Clock, WoO 33",5,18:30,1110000,median,47,47
+"Sonata for Piano no. 8 in C minor, op. 13 “Pathétique”",4,18:18,1098000,median,1114,1143
+"Sonata for Piano no. 5 in C minor, op. 10 no. 1",3,17:54,1074000,median,343,343
+"Sonata for Piano no. 1 in F minor, op. 2 no. 1",4,17:53,1073000,median,494,503
+"Sonata for Cello and Piano no. 2 in G minor, op. 5 no. 2",2,17:49,1069000,median,256,256
+"Sonata for Violin and Piano no. 8 in G major, op. 30 no. 3",3,17:46,1066000,median,312,312
+"Sonata for Piano no. 31 in A-flat major, op. 110",3,17:30,1050000,median,702,712
+"Sextet for 2 Horns, 2 Violins, Viola, and Cello in E-flat major, op. 81b",3,17:15,1035000,median,46,52
+"Sonata for Violin and Piano no. 2 in A major, op. 12 no. 2",3,16:55,1015000,median,223,223
+"Sonata for Violin and Piano no. 5 in F major, op. 24 ""Spring""",3,16:51,1011000,median,435,446
+"Sonata for Piano no. 26 in E‐flat major, op. 81a “Les Adieux”",3,16:39,999000,median,470,476
+"Sonata for Piano in D major, WoO 47 no. 3 “Kurfürsten”",3,16:13,973000,median,33,33
+"Quartet for Piano, Violin, Viola, and Cello, WoO 36 no. 3 in C major",3,16:11,971000,median,36,36
+Symphony no. 10 in E‐flat major,1,16:04,964000,median,5,5
+"Sonata for Piano no. 13 in E-flat major, op. 27 no. 1",4,15:53,953000,median,475,479
+Briefe an die unsterbliche Geliebte,3,15:50,950000,median,6,6
+"Sonata for Piano no. 10 in G major, op. 14 no. 2",3,15:39,939000,median,337,341
+"Piano Trio in E-flat major, op. 81b",3,15:28,928000,median,3,3
+"Beethovens Lieder von Goethe, S. 468",6,15:27,927000,median,13,13
+"Sonata for Piano no. 14 in C‐sharp minor, op. 27 no. 2 “Moonlight”",3,15:24,924000,median,1393,1441
+"Horn Quintet, op. 17",3,15:18,918000,median,3,3
+"11 New Bagatelles, op. 119",11,14:56,896000,median,37,37
+"3 Marches for Piano 4 Hands, op. 45",3,14:54,894000,median,24,24
+"Sonata for Horn and Piano in F major, op. 17",3,14:53,893000,median,81,87
+"14 Variations for Piano, Violin, and Cello in E-flat major, op. 44",16,14:43,883000,median,93,93
+"Trio for Piano, Violin, and Cello in E-flat major, WoO 38",3,14:40,880000,median,62,63
+"Sonata for Piano no. 14 in C-sharp minor, op. 27 no. 2 “Moonlight” (inVersion)",3,14:32,872000,median,3,3
+"Geistliche Lieder, S. 467",6,14:28,868000,median,15,15
+"Sonata for Cello and Piano in F major, op. 17",3,14:24,864000,median,53,53
+"Sonata for Piano in F minor, WoO 47 no. 2 “Kurfürsten”",3,14:22,862000,median,38,38
+"Sonata for Piano no. 6 in F major, op. 10 no. 2",3,14:12,852000,median,371,371
+"6 Menuets for Orchestra, WoO 10",6,13:48,828000,median,11,11
+"Quintet in E-flat major for three horns, oboe, and bassoon, Hess 19",3,13:36,816000,median,27,27
+"Sonata for Piano no. 9 in E major, op. 14 no. 1",3,13:32,812000,median,345,345
+"An die ferne Geliebte, op. 98",6,13:29,809000,median,110,117
+"12 Variations for Piano in C major on “Menuett à la Viganò” from Hailbel’s “Le nozze disturbate”, WoO 68",13,13:28,808000,median,65,65
+"6 Variations for Piano in F major on an Original Theme, op. 34",7,13:25,805000,median,131,131
+"Minuet for 2 Violins and Bass, WoO 9",6,13:25,805000,median,26,26
+"2 Sonatinas for Piano, Anh.5",6,13:22,802000,median,59,61
+"Duo for Viola and Cello in E-flat major, WoO 32 ""Duet with two obbligato eyeglasses""",2,13:21,801000,median,24,24
+"Piano Sonata in D major, Unv 12 / Biamonti 213",2,13:19,799000,median,2,2
+"String Quartet in E major, Hess 34",3,13:16,796000,median,45,45
+String Quintet in F major,3,13:09,789000,median,3,3
+"Sonata for Piano no. 27 in E minor, op. 90",2,13:01,781000,median,265,272
+"Cello Sonata no. 3, op. 69",1,12:58,778000,median,1,1
+"6 Minuets for Piano, WoO 10",6,12:51,771000,median,46,50
+"An die ferne Geliebte, S. 469",6,12:34,754000,median,33,33
+"Duo for clarinet & bassoon in B-flat major, WoO 27 no. 3",2,12:14,734000,median,15,15
+"Wellington's Victory, op. 91",2,12:09,729000,median,2,2
+Beethoven's Heiligenstädter Testament,1,12:08,728000,median,1,1
+"Piano Trio in E-flat major, Hess 47",1,12:06,726000,median,1,1
+"Twelve Variations in G major on a Theme from ""Judas Maccabaeus"", WoO 45",13,12:04,724000,median,277,290
+"9 Variations for Piano on a March by Ernst Christoph Dressler, WoO 63",10,11:53,713000,median,41,41
+"Leonore Prohaska, WoO 96",4,11:42,702000,median,25,25
+"12 Variations for Piano in A major on a Russian Dance from Paul Wranitzky's ballet ""Das Waldmädchen""",13,11:41,701000,median,52,52
+"Sonata for Piano in E-flat major, WoO 47 no. 1 “Kurfürsten”",3,11:38,698000,median,34,34
+"Sonata for Cello and Piano no. 4 in C major, op. 102 no. 1",2,11:32,692000,median,228,228
+"12 Contredances for Orchestra, WoO 14",12,11:30,690000,median,170,175
+"Sonata for Piano no. 22 in F major, op. 54",2,11:28,688000,median,220,221
+"5 Lieder, op. 82",5,11:10,670000,median,41,41
+"7 Variations for Piano in F major on the Quartet ""Kind, willst du ruhig schlafen?"" from Peter Winter's opera ""Das unterbrochene Opferfest""",8,11:06,666000,median,33,33
+"10 Variations for Piano in B-flat major on the Duet ""La stessa, la stessissima"" from Antonio Salieri's opera ""Falstaff""",11,11:03,663000,median,46,46
+"Vesta's Fire (opera fragment), Hess 115",1,10:56,656000,median,3,3
+"Duo for clarinet & bassoon in C major, WoO 27 no. 1",3,10:46,646000,median,41,41
+"Musik zu einem Ritterballett, WoO 1",8,10:37,637000,median,41,49
+"Missa Solemnis D-Dur, op. 123",3,10:32,632000,median,36,39
+"Sonata no. 31 in A-flat, op. 110",2,10:31,631000,median,4,4
+"Die Weihe des Hauses, op. 124",1,10:29,629000,median,62,62
+Trio for three flutes in G major (spurious),3,10:17,617000,median,3,3
+"Duo for clarinet & bassoon in F major, WoO 27 no. 2",3,10:14,614000,median,12,12
+"Variations for 2 Oboes and English Horn in C major on ""Là ci darem la mano"" from Mozart's opera ""Don Giovanni"", WoO 28",10,10:01,601000,median,40,40
+"Sonata for Piano no. 24 in F-sharp major, op. 78 ""A Thérèse""",2,10:00,600000,median,235,241
+"10 Variations for Piano in B-flat major on the Duet ""La stessa, la stessissima"" from Antonio Salieri's opera ""Falstaff"", WoO 73",,10:08,608000,median,8,8
+"12 German Dances for Piano, Hess 100 (dances for orchestra WoO 8, for piano)",,14:21,861000,median,2,2
+"12 Minuets for Piano, Hess 101 (minuets for orchestra WoO 7, for piano)",,21:02,1262000,median,1,1
+"12 Variations for Piano in A major on a Russian Dance from Paul Wranitzky's ballet ""Das Waldmädchen"", WoO 71",,11:32,692000,median,17,17
+"12 Variations for Piano in C major on the ""Menuett à la Viganò"" from Jakob Hailbel, tirè du ballet ""Le nozze disturbate"", WoO 68",,12:55,775000,median,8,8
+"7 Variations for Piano in F major on the Quartet ""Kind, willst du ruhig schlafen?"" from Peter Winter's opera ""Das unterbrochene Opferfest"", WoO 75",,11:11,671000,median,7,7
+"9 Variations for Piano in C minor on a March by Ernst Christoph Dressler, WoO 63",,13:00,780000,median,6,6
+Abertura leonora,,14:40,880000,median,1,1
+"Adélaïde, S. 466b",,13:56,836000,median,1,1
+"Aria for Soprano and Orchestra, WoO 92 - ""Primo Amore""",,14:06,846000,median,3,3
+Beethoven,,17:35,1055000,median,1,1
+"Cadenza for the Allegro of Mozart's Piano Concerto no. 20, WoO 58 no. 1",,14:09,849000,median,11,11
+"Composition for Piano in D major, Bia. 213",,14:41,881000,median,2,2
+"Concerto Fragment for Piano and Orchestra in D major, Hess 15",,13:57,837000,median,1,1
+"Concerto for Piano and Orchestra no. 6 in D major, Fragment",,14:00,840000,median,2,2
+"Concerto for Violin and Orchestra in C major, WoO 5",,15:52,952000,median,1,1
+Fidelio/Leonore Overture op. 72/72a/72b/72c/138,,13:38,818000,median,6,6
+"Große Fuge for String Quartet in B‐flat major, op. 133",,15:37,937000,median,121,122
+"Große Fuge in B-flat major, op. 133",,16:24,984000,median,2,2
+"Große Fugue for 2 Pianos in B‐flat major, op. 134",,14:26,866000,median,15,15
+"Marche funèbre de la Symphonie héroïque de Beethoven, S. 463e",,16:43,1003000,median,1,1
+Memento Vitae,,11:23,683000,median,2,2
+"Missa solemnis D‐Dur, op. 123",,1:24:19,5059000,median,1,1
+"National Airs with Variations for Flute and Piano, op. 107",,44:36,2676000,median,1,1
+"Overture “Leonore” no. 2 in C major, op. 72a",,14:04,844000,median,86,88
+"Overture “Leonore” no. 3 in C major, op. 72b",,13:51,831000,median,187,192
+Piano Concerto in D Major,,12:28,748000,median,1,1
+"Scene and Aria for Soprano and Orchestra, WoO 92 ""Primo amore""",,14:06,846000,median,4,4
+"Scene and Aria for Soprano and Orchestra, op. 65 ""Ah! perfido""",,12:57,777000,median,43,44
+"Wellingtons Sieg oder die Schlacht bei Vittoria, for piano, Hess 97",,17:07,1027000,median,1,1
