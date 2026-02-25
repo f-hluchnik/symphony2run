@@ -1,0 +1,252 @@
+work,num_movements,duration,duration_ms,stat_used,count_with_length,count_total
+"Messiah, HWV 56",173,8:39:40,31180000,median,5395,5524
+"Belshazzar, HWV 61",143,7:11:35,25895000,median,197,197
+"Agrippina, HWV 6",131,5:34:15,20055000,median,368,368
+"Giulio Cesare in Egitto, HWV 17",90,4:30:31,16231000,median,604,604
+"Flavio, re de' longobardi, HWV 16",62,4:08:07,14887000,median,132,132
+"Alcina, HWV 34",87,3:54:33,14073000,median,530,532
+"Samson, HWV 57",85,3:44:28,13468000,median,298,299
+"Saul, HWV 53",94,3:35:55,12955000,median,634,634
+"Alessandro, HWV 21",75,3:30:52,12652000,median,147,147
+"Faramondo, HWV 39",85,3:28:10,12490000,median,130,130
+"Floridante, HWV 14",75,3:14:03,11643000,median,78,78
+"Hercules, HWV 60",59,3:05:44,11144000,median,191,191
+"Judas Maccabaeus, HWV 63",71,3:05:28,11128000,median,453,456
+"Rinaldo, HWV 7a",82,2:59:38,10778000,median,437,440
+"Theodora, HWV 68",75,2:59:28,10768000,median,573,573
+Il trionfo del Tempo e della Verità,71,2:59:02,10742000,median,71,71
+"Serse, HWV 40",98,2:55:51,10551000,median,1228,1235
+"Jephtha, HWV 70",72,2:50:51,10251000,median,369,369
+"Rodelinda, regina de' Longobardi, HWV 19",58,2:42:55,9775000,median,221,223
+"Orlando, HWV 31",46,2:42:12,9732000,median,136,136
+"Solomon, HWV 67",66,2:40:23,9623000,median,567,568
+"Der Messias, K. 572",60,2:31:48,9108000,median,188,188
+"Israel in Egypt, HWV 54",54,2:23:20,8600000,median,458,458
+"Deborah, HWV 51",65,2:16:09,8169000,median,66,66
+"L’Allegro, il Penseroso ed il Moderato, HWV 55",50,2:13:45,8025000,median,155,206
+"La Resurrezione, HWV 47",51,1:58:01,7081000,median,261,261
+"Alexander's Feast, HWV 75",36,1:41:09,6069000,median,213,213
+"Passion nach dem Evangelisten Johannes, IGB 6",68,1:35:54,5754000,median,66,66
+"Acis and Galatea, HWV 49",32,1:35:27,5727000,median,271,271
+"Das Alexander-Fest, K. 591",38,1:26:51,5211000,median,36,36
+"Ariodante, HWV 33",21,1:19:00,4740000,median,239,239
+The Four Coronation Anthems,15,1:03:27,3807000,median,268,268
+"Alceste, HWV 45",21,1:02:16,3736000,median,25,25
+Giulio Cesare,7,59:23,3563000,median,14,14
+"Aminta e Fillide, HWV 83",22,57:47,3467000,median,40,40
+"Susanna, HWV 66",11,55:06,3306000,median,48,48
+"La resurrezione, HWV 47",2,54:52,3292000,median,4,4
+"Semele, HWV 58",15,53:34,3214000,median,141,141
+"The Triumph of Time & Truth, HWV 71, Act I",19,49:43,2983000,median,19,19
+"The Choice of Hercules, HWV 69",24,49:42,2982000,median,40,40
+"Tamerlano, HWV 18",13,48:59,2939000,median,186,186
+"Water Music, Suite no. 1 in F major, HWV 348",14,47:28,2848000,median,1054,1078
+Love In Bath,21,47:13,2833000,median,43,43
+"Ode auf St. Caecilia, K. 592",15,47:06,2826000,median,15,15
+"Agrippina condotta a morire, HWV 110",17,46:59,2819000,median,65,65
+"Apollo e Dafne, HWV 122",19,45:37,2737000,median,59,59
+"Ode for St Cecilia's Day, HWV 76",11,45:20,2720000,median,150,150
+"Ottone, re di Germania, HWV 15",11,43:59,2639000,median,155,155
+"The Triumph of Time & Truth, HWV 71, Act II",18,43:56,2636000,median,18,18
+"Te Deum, HWV 283",18,43:33,2613000,median,108,108
+"Amadigi di Gaula, HWV 11",10,43:18,2598000,median,97,97
+"The Ways of Zion Do Mourn, HWV 264",11,40:57,2457000,median,25,25
+"Admeto, re di Tessaglia, HWV 22",12,39:45,2385000,median,15,15
+"The Triumph of Time & Truth, HWV 71, Act III",16,38:57,2337000,median,16,16
+"Clori, Tirsi e Fileno, HWV 96, Prima Parte",14,38:36,2316000,median,43,43
+"Clori, Tirsi e Fileno, HWV 96, Seconda Parte",15,37:40,2260000,median,51,51
+"Suite de pièce in D minor, Vol. 1 no. 3, HWV 428",12,35:58,2158000,median,211,211
+"Berenice, HWV 38",9,35:45,2145000,median,28,28
+"Arianna in Creta, HWV 32",10,35:11,2111000,median,14,14
+"Delirio amoroso, HWV 99",12,34:12,2052000,median,59,59
+"Dixit Dominus in G minor, HWV 232",9,33:56,2036000,median,246,247
+"Il trionfo del Tempo e del Disinganno, HWV 46a",8,33:51,2031000,median,24,24
+"Olinto, pastore arcade, HWV 143",19,33:27,2007000,median,19,19
+"Semele, oratorio, HWV 58",10,32:53,1973000,median,52,52
+"Atalanta, HWV 35",9,30:49,1849000,median,31,31
+"Chandos Anthem no. 10 “The Lord is my light”, HWV 255",9,29:10,1750000,median,29,29
+"Chandos Anthem no. 8 ""O come, let us sing unto the Lord"", HWV 253",8,28:30,1710000,median,24,24
+"Ah! Crudel, Nel Pianto Mio, HWV 78",6,28:14,1694000,median,17,17
+Anthem for the Foundling Hospital,7,28:03,1683000,median,21,21
+"Cecilia, volgi un sguardo, HWV 89",8,27:59,1679000,median,8,8
+"The Occasional Oratorio, HWV 62",10,27:05,1625000,median,69,69
+"Silete venti, HWV 242",5,27:04,1624000,median,32,32
+"Suite in C major, HWV 443",6,27:04,1624000,median,12,12
+"The Alchymist, HWV 43",8,25:36,1536000,median,16,16
+"Chandos Anthem no. 9 in E-flat major ""O Praise the Lord With One Consent"", HWV 254",8,24:50,1490000,median,24,24
+"Chandos Anthem no. 2, HWV 247 “In the Lord put I my trust”",8,24:33,1473000,median,17,17
+"Ode for the Birthday of Queen Anne, HWV 74",8,24:27,1467000,median,52,53
+"Teseo, HWV 9",9,23:56,1436000,median,8,8
+"Amarilli Vezzosa, HWV 82",13,23:50,1430000,median,37,37
+"Chandos Anthem no. 5 ""I Will Magnify Thee"", HWV 250a",8,23:39,1419000,median,16,16
+Suite in G minor,9,23:39,1419000,median,9,9
+"Utrecht Te Deum, HWV 278",10,23:28,1408000,median,51,51
+"Joshua, HWV 64",9,23:23,1403000,median,78,80
+"Ero e Leandro, HWV 150",7,23:06,1386000,median,21,21
+"Radamisto, HWV 12",8,22:41,1361000,median,18,18
+"Alexander Balus, HWV 65",6,22:39,1359000,median,46,46
+"Suite from ""Il pastor fido"", HWV 8c",11,22:08,1328000,median,12,12
+Gloria,8,21:44,1304000,median,61,61
+"Suite in D minor, HWV 448",6,21:35,1295000,median,19,19
+"Music for the Royal Fireworks, HWV 351",7,21:26,1286000,median,653,679
+"Chandos Anthem no. 11a in B-flat major ""Let God Arise"", HWV 256a",8,21:09,1269000,median,32,32
+"Laudate pueri, HWV 236",8,21:08,1268000,median,10,10
+"Il pastor fido, HWV 8a",6,20:51,1251000,median,12,12
+"Giustino, HWV 37",6,20:43,1243000,median,6,6
+"Chandos Anthem no. 7 in G major ""My Song Shall Be Alway"", HWV 252",8,20:16,1216000,median,16,16
+Concerto in F major for Organ,5,20:15,1215000,median,5,5
+"Chandos Anthem no. 6 “As pants the hart”, HWV 251b",7,20:11,1211000,median,35,35
+"La Lucrezia, HWV 145",10,20:09,1209000,median,69,69
+"Suite de pièce in G minor, Vol. 1 no. 7, HWV 432",6,20:04,1204000,median,177,179
+Riccardo Primo,5,20:03,1203000,median,6,6
+"Chandos Anthem no. 3, HWV 248 “Have mercy upon me, O God”",8,19:43,1183000,median,16,16
+"Organ Concerto no. 7 in B-flat major, op. 7 no. 1, HWV 306",6,19:43,1183000,median,101,101
+"Chandos Anthem no. 1, HWV 246 “O be joyful in the Lord”",8,19:40,1180000,median,8,8
+"Semele, HWV 58, Act I Scene 1",10,19:39,1179000,median,45,45
+"Lotario, HWV 26",6,19:28,1168000,median,65,65
+"Keyboard Suite in D minor, HWV 449",7,19:19,1159000,median,22,22
+"Sosarme, re di Media, HWV 30",5,18:57,1137000,median,29,51
+"O luceniti, o sereni occhi, HWV 144",10,18:46,1126000,median,10,10
+"Jubilate, HWV 279",7,18:13,1093000,median,16,17
+"Laudate pueri Dominum, HWV 237",8,18:09,1089000,median,48,48
+"Saeviat tellus inter rigores, HWV 240",6,17:54,1074000,median,12,12
+"Crudel tiranno Amor, HWV 97",5,17:52,1072000,median,5,5
+"Zwölf Fantasien und vier Stücke, HWV deest",3,17:39,1059000,median,3,3
+"Tu Fedel? Tu Costante?, HWV 171",9,17:37,1057000,median,46,46
+"Concerto grosso in A major, op. 6 no. 11, HWV 329",5,17:33,1053000,median,152,152
+"The Triumph of Time and Truth, HWV 71",3,17:20,1040000,median,8,8
+"Suite de pièce in E major, Vol. 1 no. 5, HWV 430",10,17:18,1038000,median,209,212
+"Tra le fiamme, HWV 170",7,17:13,1033000,median,67,67
+"Suite de pièce in G major, Vol. 2 no. 8, HWV 441",7,17:03,1023000,median,70,71
+"Notte Placida e Cheta, HWV 142",8,16:53,1013000,median,20,20
+"Trio Sonata in G major, op. 5 no. 4, HWV 399",6,16:47,1007000,median,27,27
+"Concerto a due cori no. 3 in F major, HWV 334",6,16:43,1003000,median,85,85
+Sing Unto God,6,16:42,1002000,median,7,7
+"Sonata for Trumpet, Violoncello and Basso Continuo in H minor, op. 1 no. 9",7,16:41,1001000,median,7,7
+Water Music Suite,6,16:33,993000,median,69,73
+"Organ Concerto in D minor, op. 7 no. 4, HWV 309",4,16:32,992000,median,100,108
+"Organ Concerto in G minor, op. 4 no. 1, HWV 289",4,16:32,992000,median,147,154
+"Chandos Anthem no. 4 “O sing unto the Lord a new song”, HWV 249b",8,16:21,981000,median,15,15
+"Armida Abbandonata, HWV 105",7,16:11,971000,median,36,36
+"Concerto a due cori no. 2 in F major, HWV 333",6,16:09,969000,median,92,92
+"Suite de pièce in G major, Vol. 2 no. 9, HWV 442",2,16:06,966000,median,10,10
+"Tamerlano, HWV 18, Act II Scene X",10,16:01,961000,median,10,10
+"Concerto grosso in D major, op. 6 no. 5, HWV 323",6,15:55,955000,median,247,247
+"Concerto grosso in G minor, op. 6 no. 6, HWV 324",5,15:53,953000,median,213,213
+"Organ Concerto in A major, HWV 296a",4,15:52,952000,median,48,48
+Suite in G-Dur für Cembalo,8,15:50,950000,median,8,8
+"Te Deum in A Major, HWV 282",8,15:47,947000,median,8,8
+"Athalia, HWV 52",5,15:34,934000,median,96,96
+"Concerto grosso in D minor, op. 6 no. 10, HWV 328",6,15:34,934000,median,226,226
+"Un’ alma innamorata, HWV 173",6,15:28,928000,median,33,33
+Mira Lilla gentile,6,15:13,913000,median,12,12
+"Organ Concerto in F major, op. 4 no. 4, HWV 292",4,15:13,913000,median,187,195
+"Suite de pièce in D minor, Vol. 2 no. 3, HWV 436",5,15:13,913000,median,47,47
+Occasional Suite in D major,5,15:01,901000,median,5,5
+"Concerto grosso in C minor, op. 6 no. 8, HWV 326",6,14:54,894000,median,191,191
+"Concerto for Oboe d'Amore ""Verdi prati""",4,14:49,889000,median,5,5
+"Flute Sonata in B minor, HWV 367b",7,14:48,888000,median,86,86
+"The King Shall Rejoice, HWV 265",5,14:48,888000,median,7,7
+"Recorder Sonata in D minor, HWV 367a",7,14:45,885000,median,105,105
+"Concerto a due cori no. 1 in B-flat major, HWV 332",7,14:33,873000,median,85,85
+"Concerto grosso in B-flat major, op. 6 no. 7, HWV 325",5,14:28,868000,median,174,174
+"Concerto for Flute and English Horn ""Amabile beltà""",4,14:26,866000,median,4,4
+"Organ Concerto in A major, op. 7 no. 2, HWV 307",4,14:22,862000,median,95,95
+"Concerto for Oboe, Bassoon and Harpsichord ""Piagge serene""",4,14:10,850000,median,4,4
+"Partita in A major, HWV 454",4,14:10,850000,median,8,8
+"Organ Concerto in B-flat major, op. 7 no. 3, HWV 308",4,14:09,849000,median,81,86
+"Publio Cornelio Scipione, HWV 20",5,14:02,842000,median,5,5
+"Concerto grosso in F major, op. 6 no. 9, HWV 327",6,14:01,841000,median,165,165
+Music for the Royal Fireworks,4,13:58,838000,median,21,21
+"Suite in G minor, HWV 453",5,13:50,830000,median,16,16
+"Semele, HWV 58, Act II Scene 3",7,13:40,820000,median,33,33
+"Suite de pièce in E minor, Vol. 1 no. 4, HWV 429",5,13:40,820000,median,119,119
+"Clori, mia bella Clori, HWV 92",8,13:36,816000,median,16,16
+"Harp Concerto in B‐flat major, op. 4 no. 6, HWV 294",3,13:32,812000,median,105,110
+Muzio Scevola,4,13:28,808000,median,7,7
+"Lungi n'andò Fileno, HWV 128",4,13:26,806000,median,4,4
+"Terpsichore, HWV 8b",6,13:25,805000,median,9,9
+"Tolomeo, rè d'Egitto, HWV 25",5,13:24,804000,median,68,68
+"Harp Concerto in B-flat major, op. 4 no. 6, HWV 294",3,13:21,801000,median,3,3
+Pirro e Demetrio,3,13:15,795000,median,3,3
+"Suite de pièce in G minor, Vol. 2 no. 6, HWV 439",3,13:13,793000,median,28,28
+"Organ Concerto in G minor, op. 7 no. 5, HWV 310",4,13:08,788000,median,85,89
+"Violin Sonata in F major, op. 1 no 12, HWV 370",4,13:07,787000,median,66,67
+"Concerto grosso in C major, HWV 318 ""Alexander's Feast""",4,13:01,781000,median,83,83
+Viola da Gamba Sonata in C major,4,12:58,778000,median,4,4
+"Sonate pour violon en fa majeur, op. 1 no. 12",4,12:45,765000,median,4,4
+"Cantata, HWV 132b ""Mi palpita il cor""",4,12:37,757000,median,36,36
+"Organ Concerto no. 13 in F major, HWV 295 “The Cuckoo and the Nightingale”",4,12:32,752000,median,142,142
+"Partita in G major, HWV 450",6,12:30,750000,median,12,12
+"Sonata for 2 violins and continuo in E major, HWV 394",4,12:30,750000,median,4,4
+"Alessandro Severo, HWV A13",4,12:28,748000,median,59,59
+"Suite de pièce in F minor, Vol. 1 no. 8, HWV 433",5,12:26,746000,median,126,126
+"Flute Sonata in E minor, HWV 379",5,12:25,745000,median,21,21
+"Violin Sonata in D major, op. 1 no. 13, HWV 371",4,12:25,745000,median,144,144
+"Rinaldo, HWV 7b",78,12:24,744000,median,4,4
+"Concerto grosso in B minor, op. 6 no. 12, HWV 330",5,12:18,738000,median,178,178
+"Organ Concerto in D minor, HWV 304",3,12:17,737000,median,34,34
+"Organ Concerto in B-flat major, op. 4 no. 6, HWV 294",3,12:10,730000,median,83,90
+"Concerto grosso in B-flat major, op. 3 no. 2, HWV 313",5,12:07,727000,median,137,137
+"Tamerlano, HWV 18, Act III Scene I",2,12:07,727000,median,2,2
+"Figlio D'Alte Speranze, HWV 113",6,12:04,724000,median,15,15
+"Cœlestis dum spirat aura, HWV 231",6,12:02,722000,median,6,6
+"Trio Sonata in F major, HWV 392",4,11:54,714000,median,16,16
+"Trio Sonata in F major, op. 5 no. 6, HWV 401 ",5,11:53,713000,median,20,20
+"Concerto grosso in G major, op. 6 no. 1, HWV 319",5,11:51,711000,median,264,265
+"O qualis de cœlo sonus, HWV 239",6,11:49,709000,median,6,6
+"Concerto grosso in F major, op. 6 no. 2, HWV 320",4,11:46,706000,median,135,135
+"Rodelinda, regina de’ Longobardi, HWV 19",3,11:44,704000,median,25,26
+"Suite de pièce in A major, Vol. 1 no. 1, HWV 426",4,11:44,704000,median,99,99
+"Concerto grosso in E minor, op. 6 no. 3, HWV 321",5,11:43,703000,median,166,166
+"Nisi Dominus, HWV 238",6,11:38,698000,median,36,36
+"Trio Sonata in F major, op. 2 no. 4, HWV 389",5,11:33,693000,median,45,45
+"Suite for 2 keyboards in C minor, HWV 446",4,11:31,691000,median,9,9
+"Trio Sonata in B-flat major, op. 5 no. 7, HWV 402 ",6,11:25,685000,median,23,23
+"Concerto for Recorder in B-flat major, op. 4 no. 6, HWV 294",3,11:22,682000,median,11,11
+Dance Suite,7,11:20,680000,median,9,9
+Water Music,4,11:17,677000,median,11,11
+"Trio Sonata in B-flat major, op. 2 no. 3, HWV 388",4,11:16,676000,median,28,32
+"Tamerlano, HWV 18, Act I Scene VIII",3,11:15,675000,median,4,4
+"Concerto grosso in F major, op. 3 no. 4, HWV 315",4,11:10,670000,median,97,97
+"Concerto grosso in A minor, op. 6 no. 4, HWV 322",4,11:04,664000,median,196,197
+"Trio Sonata in B minor, op. 2 no. 1, HWV 386b",4,11:03,663000,median,48,48
+"Concerto for Oboe ""Voli per l'aria""",4,11:02,662000,median,4,4
+"Trio Sonata in C minor, HWV 386a",4,11:02,662000,median,20,20
+"Suite de pièce in B-flat major, Vol. 2 no. 1, HWV 434",4,10:57,657000,median,47,47
+"Tamerlano, HWV 18, Act III Scene IX",4,10:57,657000,median,5,5
+Sonata in G minor for Cello and Piano,4,10:47,647000,median,4,4
+"Suite no. 2 in D-major ex ""Water Music""",3,10:46,646000,median,4,4
+"Recorder Sonata in C major, HWV 365, op. 1 no. 7",5,10:44,644000,median,121,126
+"Trio Sonata in G minor, HWV 393",4,10:43,643000,median,40,40
+"Trio Sonata in G minor, op. 5 no. 5, HWV 400",6,10:43,643000,median,18,18
+"Recorder Sonata in A minor, op. 1 no. 4, HWV 362",4,10:38,638000,median,92,96
+"Trio Sonata in G minor, op. 2 no. 5, HWV 390",4,10:37,637000,median,24,24
+"Aci, Galatea e Polifemo, HWV 72",1,10:28,628000,median,5,5
+"Esther, HWV 50b",6,10:28,628000,median,11,11
+"Organ Concerto in B-flat major, op. 4 no. 2, HWV 290",4,10:28,628000,median,139,145
+"Organ Concerto in G minor, op. 4 no. 3, HWV 291",4,10:26,626000,median,105,113
+"Semele, HWV 58, Act III Scene 1",6,10:25,625000,median,27,27
+"Rodrigo, HWV 5",4,10:24,624000,median,12,12
+"Organ Concerto in F major, HWV 305a",4,10:23,623000,median,16,20
+"Ditemi, o piante, HWV 107",4,10:17,617000,median,4,4
+"Water Music, Suite no. 3 in G major, HWV 350",5,10:14,614000,median,323,327
+"Sinfonia in B-flat major, HWV 339",3,10:13,613000,median,12,12
+Concerto for Recorder in F Major,5,10:11,611000,median,5,5
+"Concerto in F major, HWV 331/316",3,10:10,610000,median,3,3
+"Concerto grosso in D minor, op. 3 no. 5, HWV 316",5,10:09,609000,median,106,106
+"Flute Sonata in A minor, HWV 374 ""Halle Sonata no. 1""",4,10:08,608000,median,33,33
+Terpsichore-Suite,3,10:06,606000,median,3,3
+"Water Music, Suite no. 2 in D major, HWV 349",5,10:06,606000,median,449,456
+"Sans y penser, HWV 155",7,10:01,601000,median,7,7
+"Flute Sonata in B minor, op. 1 no. 9b, HWV 367b",,14:43,883000,median,1,1
+"Flute Sonata in E minor, op. 1 no. 1a, HWV 379",,11:51,711000,median,1,1
+"Gloria, HWV deest",,15:15,915000,median,1,1
+"Look down, harmonious saint, HWV 124",,10:00,600000,median,3,3
+"Recorder Sonata in C major, op. 1 no. 7, HWV 365",,11:20,680000,median,2,2
+"Recorder Sonata in D minor, op. 1 no. 9a, HWV 367a",,14:18,858000,median,2,2
+"Sento là che ristretto, HWV 161a",,12:54,774000,median,1,1
+"Te Deum ""Dettingen"", HWV 283",,27:05,1625000,median,3,3
+"Trio Sonata in F major, op. 5 no. 6, HWV 401",,12:20,740000,median,1,1
+"Trio Sonata in G minor, op. 2 no. 8, HWV 393",,10:34,634000,median,1,1
+乜鬼都買,,13:29,809000,median,3,3
