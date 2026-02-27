@@ -1,32 +1,44 @@
-from fastapi import FastAPI
+import random
+from fastapi import FastAPI, Depends
+from sqlalchemy.orm import Session
+from .models import Work
+from .database import get_db
+from .schemas import WorkSchema
 from fastapi.middleware.cors import CORSMiddleware
+from typing import List
 
 app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"], # The address where Vue runs
+    allow_origins=['http://localhost:5173'], # The address where Vue runs
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=['*'],
+    allow_headers=['*'],
 )
 
-@app.get("/")
+@app.get('/')
 async def root():
-    return {"message": "Welcome. Please enter the duration of your run."}
+    return {'message': 'Welcome. Please enter the duration of your run.'}
 
-fake_symphonies = {
-    "Beethoven Symphony in A major": 40,
-    "Mozart Symphony in C minor": 43,
-    "Beethoven Symphony in G minor": 31,
-    "Mozart Symphony in G minor": 49,
-}
+@app.get('/search/', response_model=List[WorkSchema])
+async def get_symphony(run_duration: int, db: Session = Depends(get_db)) -> str:
+    run_duration_ms = run_duration * 60000
+    min_duration = int(run_duration_ms * 0.95)
+    max_duration = int(run_duration_ms * 1.05)
+    skip = 0
+    limit = 100
+    results = (
+        db.query(Work)
+        .filter(Work.duration_ms.between(min_duration, max_duration))
+        .offset(skip)
+        .limit(limit)
+        .all()
+    )
+    results_sample = random.sample(results, min(5, len(results)))
 
-@app.get("/run/")
-async def get_symphony(run_duration: int) -> str:
-    for name, duration in fake_symphonies.items():
-        min = run_duration - 3
-        max = run_duration + 3
-        if min <= duration <= max:
-            return f'For your {run_duration} minutes run, we recommend {name} with length of {duration} minutes.'
-    return 'There is no suitable symphony for your run.'
+    return results_sample
+
+@app.get('/works/')
+def read_works(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):
+    return db.query(Work).offset(skip).limit(limit).all()
