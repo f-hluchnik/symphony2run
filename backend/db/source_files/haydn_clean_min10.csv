@@ -1,0 +1,491 @@
+work,num_movements,duration,duration_ms,stat_used,count_with_length,count_total
+"Il ritorno di Tobia, Hob. XXI:1",31,3:11:49,11509000,median,93,93
+"Die Schöpfung, Hob XXI:2",30,1:37:24,5844000,median,1248,1250
+The Seven Last Words of Christ on the Cross,9,1:16:17,4577000,median,9,9
+"Missa Cellensis C-Dur, Hob. XXII:5",17,1:07:45,4065000,median,187,187
+The Seven Last Words of Our Saviour on the Cross,9,1:03:38,3818000,median,18,18
+"Stabat Mater, Hob. XXa:1",14,1:02:12,3732000,median,102,102
+"Septem Verba Christi in Cruce, Hob. XX:1C",9,1:01:39,3699000,median,46,46
+"The Seven Last Words of Our Savior on the Cross, Hob XX:2",10,58:48,3528000,median,78,78
+"Missa angustiis, Hob. XXII:11 ""Nelsonmesse""",14,58:29,3509000,median,195,195
+"Septem Verba Christi in Cruce, Hob. XX:1",9,57:55,3475000,median,95,95
+Hob. IX:16,24,57:47,3467000,median,24,24
+"Harmoniemesse, Hob. XXII:14",12,56:58,3418000,median,171,171
+"Schöpfungsmesse, Hob. XXII:13",12,56:45,3405000,median,111,111
+"The Seven Last Words of Our Saviour on the Cross, op. 51",9,55:34,3334000,median,213,213
+"Die sieben letzten Worte unseres Erlösers am Kreuze, original version, Hob. XX:01",9,54:55,3295000,median,9,9
+"Theresienmesse, Hob. XXII:12",16,54:49,3289000,median,116,116
+"Die Jahreszeiten, Der Sommer",12,38:56,2336000,median,277,277
+"Missa Sancti Bernardi von Offida, Hob. XXII:10 ""Heiligmesse""",13,36:32,2192000,median,83,83
+"Die Jahreszeiten, Der Herbst",10,33:13,1993000,median,275,275
+"Symphony no. 92 in G major, Hob. I:92 ""Oxford""",5,30:54,1854000,median,192,193
+"Die Jahreszeiten, Der Winter",11,29:28,1768000,median,310,310
+"Symphony no. 103 in E-flat major, Hob. I:103 “Drumroll”",4,29:02,1742000,median,260,267
+"Symphony no. 57 in D major, Hob. I:57",4,28:45,1725000,median,32,32
+"String Quartet in E major, op. 17 no. 1, Hob. III:25",4,28:38,1718000,median,28,28
+"Symphony no. 31 in D major, Hob. I:31 “Hornsignal”",4,28:18,1698000,median,73,74
+"Symphony no. 68 in B-flat major, Hob. I:68",4,28:12,1692000,median,36,36
+"Symphony no. 54 in G major, Hob. I:54",4,28:05,1685000,median,38,38
+"Symphony no. 56 in C major, Hob. I:56",4,28:01,1681000,median,39,40
+"Symphony no. 98 in B-flat major, Hob. I:98",4,27:52,1672000,median,162,163
+"Mass in E-flat major, Hob. XXII:4 ""Große Orgelmesse""",6,27:48,1668000,median,52,52
+"Symphony no. 22 in E-flat major, Hob. I:22 “Der Philosoph”",7,27:42,1662000,median,105,105
+"Symphony no. 101 in D major, Hob. I:101 “Clock”",4,27:41,1661000,median,371,375
+"12 Minuets, Hob. IX:11",12,27:40,1660000,median,15,15
+"Symphony no. 104 in D major, Hob. I:104 “London”",4,27:40,1660000,median,450,454
+"Flute Sonata after String Quartet in C major, Hob. III:72",3,27:36,1656000,median,3,3
+"Symphony no. 99 in E-flat major, Hob. I:99",4,27:15,1635000,median,182,186
+"Die Jahreszeiten, Der Frühling",8,26:55,1615000,median,211,211
+"Symphony no. 86 in D major, Hob. I:86",4,26:54,1614000,median,88,88
+"Symphony no. 48 in C major, Hob. I:48 ""Maria Theresia""",4,26:24,1584000,median,86,90
+"Symphony no. 42 in D major, Hob. I:42",4,26:19,1579000,median,56,56
+"Symphony no. 97 in C major, Hob. I:97",4,25:39,1539000,median,139,139
+"Symphony no. 60 in C major, Hob. I:60 ""Il Distratto""",6,25:38,1538000,median,104,104
+"Symphony no. 82 in C major, Hob. I:82 ""L'Ours""",4,25:36,1536000,median,128,128
+"Symphony no. 91 in E-flat major, Hob. I:91",4,25:31,1531000,median,61,61
+"String Quartet in F major, op. 77 no. 2, Hob. III:82",4,25:30,1530000,median,103,103
+"Symphony no. 67 in F major, Hob. I:67",4,25:28,1528000,median,46,46
+"Symphony no. 71 in B-flat major, Hob. I:71",4,25:21,1521000,median,28,28
+"Symphony no. 90 in C major, Hob. I:90",4,25:19,1519000,median,57,57
+"Divertimento no. 3 in C major, Hob. II:17",6,25:11,1511000,median,10,10
+"Symphony no. 66 in B-flat major, Hob. I:66",4,25:08,1508000,median,32,32
+"String Quartet in G minor, op. 20 no. 3, Hob. III:33",4,24:59,1499000,median,69,69
+"Piano Concerto no. 2 in D major, Hob. XVIII:2",3,24:58,1498000,median,37,37
+"Cello Concerto no. 2 in D major, Hob. VIIb:2, op. 101",3,24:54,1494000,median,227,228
+"String Quartet in F minor, op. 55 no. 2, Hob. III:61 ""The Razor""",4,24:54,1494000,median,44,44
+"Symphony no. 61 in D major, Hob. I:61",4,24:45,1485000,median,29,29
+"Mass in C major, Hob. XXII:8 ""Missa Cellensis (no. 2)""",6,24:28,1468000,median,57,57
+"String Quartet in C major, op. 76 no. 3 Hob. III:77 “Kaiser”",4,24:28,1468000,median,255,261
+"String Quartet in D major, op. 20 no. 4, Hob. III:34",4,24:26,1466000,median,98,98
+"Symphony no. 102 in B-flat major, Hob. I:102",4,24:24,1464000,median,212,212
+"Symphony no. 84 in E-flat major, Hob. I:84",4,24:15,1455000,median,88,88
+"String Quartet in F minor, op. 20 no. 5, Hob. III:35",4,24:12,1452000,median,89,89
+"Cello Concerto no. 1 in C major, Hob. VIIb:1",3,24:10,1450000,median,243,246
+"String Quartet in C minor, op. 17 no. 4, Hob. III:28",4,24:10,1450000,median,33,33
+"18 Menuetti, Hob. IX:20",18,24:02,1442000,median,18,18
+"Violin Concerto in A major, Hob. VIIa:3 ""Melker Konzert""",3,23:59,1439000,median,36,36
+"Symphony no. 45 in F-sharp minor, Hob. I:45 ""Abschiedssymphonie""",4,23:57,1437000,median,202,210
+"String Quartet in B-flat major, op. 9 no. 5, Hob. III:23",4,23:48,1428000,median,28,28
+"Symphony no. 62 in D major, Hob. I:62",4,23:43,1423000,median,28,28
+"Symphony no. 76 in E-flat major, Hob. I:76",4,23:42,1422000,median,32,32
+"String Quartet in E-flat major, op. 76 no. 6, Hob. III:80",4,23:41,1421000,median,97,97
+"Symphony no. 100 in G major, Hob. I:100 ""Military""",4,23:41,1421000,median,284,297
+"String Quartet in E-flat major, op. 20 no. 1, Hob. III:31",4,23:33,1413000,median,76,76
+"Symphony no. 83 in G minor, Hob. I:83 ""La Poule""",4,23:22,1402000,median,130,130
+"Symphony no. 81 in G major, Hob. I:81",4,23:21,1401000,median,40,40
+"String Quartet in G major, op. 77 no. 1, Hob. III:81",4,23:20,1400000,median,126,126
+"Divertimento (Cassation) no. 13 in G major, Hob. II:1",4,23:14,1394000,median,4,4
+"Symphony no. 87 in A major, Hob. I:87",4,23:13,1393000,median,90,90
+"String Quartet in C major, op. 74 no. 1, Hob. III:72",4,23:12,1392000,median,85,85
+"Symphony no. 43 in E-flat major, Hob. I:43 ""Merkur""",4,23:11,1391000,median,105,105
+"Symphony no. 94 in G major, Hob. I:94 “Surprise”",4,23:11,1391000,median,477,494
+"String Quartet in E-flat major, op. 17 no. 3, Hob. III:27",4,23:04,1384000,median,28,28
+"String Quartet in E major, op. 54 no. 3, Hob. III:59",4,23:03,1383000,median,56,56
+"Symphony no. 74 in E-flat major, Hob. I:74",4,23:00,1380000,median,28,28
+"Symphony no. 85 in B-flat major, Hob. I:85 ""La Reine""",4,22:58,1378000,median,116,120
+"String Quartet in B-flat major, op. 76 no. 4, Hob. III:78 ""Sunrise""",4,22:54,1374000,median,160,160
+"String Quartet in C major, op. 9 no. 1, Hob. III:19",4,22:53,1373000,median,27,27
+"String Quartet in C major, op. 20 no. 2, Hob. III:32",4,22:51,1371000,median,95,95
+"Symphony no. 52 in C minor, Hob. I:52",4,22:51,1371000,median,52,56
+"Symphony no. 7 in C major, Hob. I:7 “Le Midi”",4,22:48,1368000,median,95,95
+"Symphony no. 49 in F minor, Hob. I:49 ""La Passione""",4,22:47,1367000,median,148,152
+"Symphony no. 53 in D major, Hob. I:53 “L'Impériale”",4,22:38,1358000,median,68,68
+"String Quartet in F major, op. 74 no. 2, Hob. III:73",4,22:36,1356000,median,68,68
+"Konzert für Oboe und Orchester in C-Dur, Hob. VIIg:C1",3,22:34,1354000,median,36,36
+"Symphony no. 72 in D major, Hob. I:72",4,22:34,1354000,median,24,24
+"Symphony no. 93 in D major, Hob. I:93",4,22:34,1354000,median,144,148
+"Symphony no. 8 in G major, Hob. I:8 “Le Soir”",4,22:26,1346000,median,90,90
+"Symphony no. 73 in D major, Hob. I:73 ""La Chasse""",4,22:25,1345000,median,67,67
+"Symphony no. 96 in D major, Hob. I:96 ""Miracle""",4,22:22,1342000,median,185,189
+"String Quartet in E-flat major, op. 71 no. 3, Hob. III:71",4,22:21,1341000,median,65,65
+"Armida, Hob. XXVIII:12",5,22:19,1339000,median,43,43
+"Symphony no. 80 in D minor, Hob. I:80",4,22:15,1335000,median,52,52
+"Symphony no. 69 in C major, Hob. I:69 ""Laudon""",4,22:11,1331000,median,40,40
+"String Quartet in B-flat major, op. 64 no. 3, Hob. III:67",4,22:08,1328000,median,71,71
+"String Quartet in D major, op. 50 no. 6, Hob. III:49",4,22:02,1322000,median,68,68
+"Symphony no. 13 in D major, Hob. I:13",4,22:01,1321000,median,36,36
+"String Quartet in C major, op. 64 no. 1, Hob. III:65",4,22:00,1320000,median,64,64
+"String Quartet in C major, op. 50 no. 2, Hob. III:45",4,21:51,1311000,median,44,44
+Concerto for Flute and Orchestra no. 1 in D major,3,21:49,1309000,median,3,3
+"Cello Concerto no. 4 in D major, Hob. VIIb:4",3,21:42,1302000,median,12,12
+"Missa in tempore belli, Hob. XXII:9 ""Paukenmesse""",6,21:39,1299000,median,163,163
+"String Quartet in G major, op. 76 no. 1, Hob. III:75",4,21:36,1296000,median,117,117
+"Symphony no. 55 in E-flat major, Hob. I:55 ""Der Schulmeister""",4,21:35,1295000,median,57,57
+"Die Schöpfung, Hob. XX1:2",7,21:30,1290000,median,332,332
+"Symphony no. 44 in E minor, Hob. I:44 ""Trauersymphonie""",4,21:24,1284000,median,162,167
+"Symphony no. 51 in B-flat major, Hob. I:51",4,21:21,1281000,median,45,45
+"String Quartet in G minor, op. 74 no. 3, Hob. III:74 ""The Rider""",4,21:20,1280000,median,104,105
+"Keyboard Concerto in C major, Hob. XVIII:1",3,21:17,1277000,median,46,46
+"String Quartet in B-flat major, op. 71 no. 1, Hob. III:69",4,21:17,1277000,median,69,69
+"Symphony no. 6 in D major, Hob. I:6 “Le Matin”",4,21:16,1276000,median,93,93
+"Symphony no. 47 in G major, Hob. I:47",4,21:14,1274000,median,68,72
+"String Quartet in B-flat major, op. 50 no. 1, Hob. III:44",4,21:11,1271000,median,57,57
+"Symphony no. 75 in D major, Hob. I:75",4,21:10,1270000,median,32,32
+"Symphony no. 89 in F major, Hob. I:89",4,21:09,1269000,median,49,49
+"String Quartet in B-flat major, op. 55 no. 3, Hob. III:62",4,21:07,1267000,median,44,44
+"Piano Trio in A-flat minor, Hob. XV no. 14",3,21:01,1261000,median,19,22
+"Divertimento in D major, Hob. II:8, ""Cassation""",5,20:57,1257000,median,10,10
+"String Quartet in F major, op. 17 no. 2, Hob. III:26",4,20:56,1256000,median,28,28
+"Sinfonia Concertante for Violin, Cello, Oboe & Bassoon in B-flat major, Hob. I:105",3,20:55,1255000,median,99,105
+La vera costanza,9,20:51,1251000,median,52,52
+"Piano Concerto no. 4 in G major, Hob. XVIII:4",3,20:46,1246000,median,70,70
+"Symphony no. 88 in G major, Hob. I:88",4,20:44,1244000,median,213,213
+"String Quartet in D minor, op. 9 no. 4, Hob. III:22",4,20:40,1240000,median,33,33
+Flute Concerto in D major (Badley D1),3,20:39,1239000,median,36,36
+"Symphony no. 79 in F major, Hob. I:79",4,20:39,1239000,median,34,34
+"Symphony no. 11 in E-flat major, Hob. I:11",4,20:36,1236000,median,28,28
+"String Quartet in C major, op. 33 no. 3, Hob. III:39 ""The Bird""",4,20:35,1235000,median,121,122
+"Symphony no. 95 in C minor, Hob. I:95",4,20:35,1235000,median,177,177
+"Symphony no. 78 in C minor, Hob. I:78",4,20:32,1232000,median,40,40
+"String Quartet in B minor, op. 33 no. 1, Hob. III:37",4,20:27,1227000,median,92,92
+"Symphony no. 34 in D minor, Hob. I:34",4,20:24,1224000,median,32,32
+"String Quartet in E major, op. 2 no. 2, Hob. III:8",5,20:22,1222000,median,39,39
+"Piano Trio in E-flat major, Hob. XV:22",3,20:20,1220000,median,22,22
+"String Quartet in D minor, op. 76 no. 2, Hob. III:76 ""Fifths""",4,20:14,1214000,median,184,185
+"Divertimento (Cassation) a 5 in G major, Hob. II:2",6,20:13,1213000,median,12,12
+"String Quartet in E-flat major, op. 50 no. 3, Hob. III:46",4,20:09,1209000,median,56,56
+"String Quartet in G major, op. 1 no. 4, Hob. III:4",5,20:00,1200000,median,30,30
+"Sonata no. 31 in A-flat major, Hob. XVI:46",3,19:58,1198000,median,103,103
+"Symphony no. 33 in C major, Hob. I:33",4,19:58,1198000,median,32,32
+"Piano Sonata no. 62 in E-flat major, Hob. XVI:52",3,19:55,1195000,median,174,187
+"String Quartet in F-sharp minor, op. 50 no. 4, Hob. III:47",4,19:55,1195000,median,48,48
+"Symphony no. 59 in A major, Hob. I:59 ""Feuersymphonie""",4,19:51,1191000,median,94,98
+"Arietta con 12 variazioni in A major, Hob. XVII:2",13,19:49,1189000,median,15,15
+"Piano Concerto no. 3 in F major, Hob. XVIII:3",3,19:49,1189000,median,50,51
+"Symphony no. 35 in B-flat major, Hob. I:35",4,19:44,1184000,median,48,48
+"Symphony no. 63 in C major, Hob. I:63 ""La Roxelane""",4,19:44,1184000,median,49,49
+"Divertimento a otto voci n° 4 G-dur, Hob. X:4",3,19:43,1183000,median,9,9
+"String Quartet in G major, op. 54 no. 1, Hob. III:58",4,19:43,1183000,median,60,61
+"Trio for Flute, Cello and Piano in G major, Hob. XV:15",3,19:43,1183000,median,7,7
+"Piano Trio in D minor, Hob. XV:23",3,19:35,1175000,median,15,15
+"Piano Sonata no. 59 in E-flat major, Hob. XVI:49",3,19:30,1170000,median,137,141
+"String Quartet in C major, op. 54 no. 2, Hob. III:57",4,19:27,1167000,median,97,97
+"Symphony no. 36 in E-flat major, Hob. I:36",4,19:25,1165000,median,32,32
+"Piano Concerto no. 11 in D major, Hob. XVIII:11",3,19:24,1164000,median,193,197
+"Symphony no. 77 in B-flat major, Hob. I:77",4,19:22,1162000,median,32,32
+"String Quartet in F major, op. 2 no. 4, Hob. III:10",5,19:21,1161000,median,20,20
+"String Quartet in D major, op. 76 no. 5, Hob. III:79",4,19:18,1158000,median,120,120
+"Symphony no. 41 in C major, Hob. I:41",4,19:17,1157000,median,45,45
+"Divertimento in E-flat major, Hob. II:Es13",4,19:14,1154000,median,4,8
+"String Quartet in G major, op. 54 no. 1, Hob. III:57",4,19:14,1154000,median,13,13
+"Piano Sonata no. 33 in C minor, Hob. XVI:20",3,19:12,1152000,median,120,126
+"Divertimento a otto voci n° 1 D-dur, Hob. X:2",3,19:11,1151000,median,9,9
+"Violin Concerto in C major, Hob. VIIa:1",3,19:11,1151000,median,127,127
+"Flute Sonata After String Quartet in E-flat major, Hob. III:80",3,19:08,1148000,median,3,3
+"Flute Sonata after String Quartet in G major, Hob. III:81",3,19:06,1146000,median,3,3
+"Symphony no. 46 in B major, Hob. I:46",4,19:04,1144000,median,85,89
+"Symphony no. 65 in A major, Hob. I:65",4,19:01,1141000,median,48,48
+"Symphony no. 29 in E major, Hob. I:29",4,18:59,1139000,median,28,28
+"Sonata no. 30 in D major, Hob. XVI:19",3,18:53,1133000,median,48,48
+"Concerto for Violin, Piano and Strings in F major, Hob. XVIII:6",3,18:52,1132000,median,54,54
+"String Quartet in B minor, op. 64 no. 2, Hob. III:68",4,18:48,1128000,median,60,60
+"Divertimento in F major, Hob. II:20",5,18:41,1121000,median,10,10
+"Divertimento (Cassation) in G major, Hob. II:9",5,18:38,1118000,median,5,5
+"String Quartet in G major, op. 33 no. 5, Hob. III:41",4,18:38,1118000,median,92,92
+"String Quartet in D major, op. 17 no. 6, Hob. III:30",4,18:35,1115000,median,27,27
+"Symphony no. 15 in D major, Hob. I:15",4,18:34,1114000,median,32,32
+"Concerto for Two Horns in E-flat major, Hob. VIId:5",3,18:33,1113000,median,12,12
+"String Quartet in G major, op. 17 no. 5, Hob. III:29",4,18:29,1109000,median,32,32
+"Symphony no. 24 in D major, Hob. I:24",4,18:29,1109000,median,40,40
+"Violin Concerto in G major, Hob. VIIa:4",3,18:29,1109000,median,72,72
+"Piano Trio in E minor, Hob. XV no. 12",3,18:28,1108000,median,27,30
+Konzert für Klavier und Streicher Nr. 11 D-Dur,3,18:27,1107000,median,3,3
+"Piano Concerto no. 9 in G major, Hob. XVIII:9",3,18:26,1106000,median,15,15
+"Piano Trio In G major, Hob. XV:15",3,18:25,1105000,median,12,12
+"Symphony no. 64 in A major, Hob. I:64 ""Tempora mutantur""",4,18:25,1105000,median,45,45
+"String Quartet in A major, op. 9 no. 6, Hob. III:24",4,18:16,1096000,median,29,29
+"Divertimento in F major, Hob. II:F7",4,18:14,1094000,median,4,4
+"Symphony no. 40 in F major, Hob. I:40",4,18:10,1090000,median,24,24
+"Symphony no. 28 in A major, Hob. I:28",4,18:08,1088000,median,31,35
+"Symphony no. 50 in C major, Hob. I:50",4,18:07,1087000,median,60,60
+"String Quartet in B-flat major, op. 2 no. 6, Hob. III:12",5,18:06,1086000,median,20,20
+"Symphony no. 5 in A major, Hob. I:5",4,18:05,1085000,median,39,39
+"String Quartet in G major, op. 64 no. 4, Hob. III:66",4,18:04,1084000,median,73,73
+"String Quartet in G major, op. 9 no. 3, Hob. III:21",4,18:04,1084000,median,32,32
+"Trio in D Major, Hob. XI:97",7,18:04,1084000,median,28,28
+"String Quartet in C major, op. 3 no. 2, Hob. III:14",3,18:03,1083000,median,3,3
+"Symphony no. 70 in D major, Hob. I:70",4,17:57,1077000,median,36,36
+"String Quartet in B-flat major, op. 33 no. 4, Hob. III:40",4,17:56,1076000,median,81,81
+"Divertimento no. 11 in E-flat major, Hob. II:21",5,17:55,1075000,median,9,9
+"Piano Trio in C major, Hob. XV:27",3,17:52,1072000,median,64,70
+"String Quartet in D major, op. 64 no. 5, Hob. III:63 “The Lark”",4,17:49,1069000,median,165,169
+"Symphony no. 39 in G minor, Hob. I:39",4,17:49,1069000,median,65,65
+"String Quartet in C major, op. 1 no. 6, Hob. III:6",5,17:48,1068000,median,36,36
+"Symphony no. 23 in G major, Hob. I:23",4,17:47,1067000,median,27,27
+"String Quartet in E-flat major, op. 1 no. 2, Hob. III:2",5,17:45,1065000,median,31,31
+"String Quartet in A major, op. 2 no. 1, Hob. III:7",5,17:44,1064000,median,26,26
+"String Quartet in D major, op. 71 no. 2, Hob. III:70",4,17:42,1062000,median,73,73
+"String Quartet in A major, op. 20 no. 6, Hob. III:36",4,17:37,1057000,median,79,79
+"Symphony no. 38 in C major, Hob. I:38 “Echo”",4,17:35,1055000,median,44,44
+"String Quartet in E-flat major, op. 1 no. 0, Hob. II:6",5,17:31,1051000,median,15,15
+"Divertimento in A minor, Hob. X:3",3,17:29,1049000,median,9,9
+"Symphony no. 12 in E major, Hob. I:12",3,17:27,1047000,median,27,27
+"String Quartet in D major, op. 33 no. 6, Hob. III:42",4,17:26,1046000,median,77,77
+"String Quartet in F major, op. 50 no. 5, Hob. III:48",4,17:25,1045000,median,47,47
+"Divertimento no. 12 in D major, Hob. II:22",5,17:24,1044000,median,5,5
+"String Quartet in E-flat major, op. 64 no. 6, Hob. III:64",4,17:24,1044000,median,85,85
+"Klaviertrio Es-dur, Hob. XV:30",3,17:23,1043000,median,18,18
+"Trio for Baryton, Viola, and Cello No. 17 in D major",3,17:23,1043000,median,3,3
+"Piano Sonata no. 29 in E-flat major, Hob. XVI:45",3,17:21,1041000,median,36,36
+"String Quartet in E-flat major, op. 9 no. 2, Hob. III:20",4,17:21,1041000,median,28,28
+"Sonate für Klavier zu vier Händen in F-dur, Hob. XVIIa:1 ""Il maestro e lo scolare""",9,17:19,1039000,median,12,12
+"Symphony no. 20 in C major, Hob. I:20",4,17:12,1032000,median,28,28
+"Symphony no. 58 in F major, Hob. I:58",4,17:10,1030000,median,44,44
+"Salve Regina in G minor, Hob. XXIIIb:2",3,17:04,1024000,median,13,13
+"Symphony no. 32 in C major, Hob. I:32",4,17:04,1024000,median,28,28
+"String Quartet in A major, op. 55 no. 1, Hob. III:60",4,17:03,1023000,median,44,44
+"Horn Concerto no. 1 in D major, Hob.VIId:3",3,16:49,1009000,median,64,64
+"String Quartet in E-flat major, op. 33 no. 2, Hob. III:38 “The Joke”",4,16:49,1009000,median,114,114
+"Piano Sonata no. 60 in C major, Hob. XVI:50",3,16:48,1008000,median,153,161
+"Symphony no. 3 in G major, Hob. I:3",4,16:45,1005000,median,47,47
+"Symphony no. 21 in A major, Hob. I:21",4,16:40,1000000,median,37,37
+"Trio for Flute, Cello and Piano in D major, Hob. XV:16",3,16:37,997000,median,30,30
+"Divertimento in E-flat major, Hob. II:6",5,16:34,994000,median,21,21
+"Symphony no. 17 in F major, Hob. I:17",3,16:34,994000,median,24,24
+"String Quartet in E-flat major, op. 2 no. 3, Hob. III:9",5,16:32,992000,median,5,5
+"Missa Sancti Nicolai in G Major, Hob. XXII:6, ""Nikolaimesse"" ",4,16:23,983000,median,37,37
+"Piano Trio in G, Hob. XV no. 41",4,16:21,981000,median,24,24
+"Divertimento (Cassation) in G major, Hob. II:G1",5,16:19,979000,median,5,5
+"Konzert für Flöte, Oboe und Orchester in C-Dur",3,16:16,976000,median,4,4
+"Klaviertrio Es-dur, Hob. XV:29",3,16:12,972000,median,41,41
+"String Quartet in B-flat major, op. 1 no. 1, Hob. III:1 “La Chasse”",5,16:12,972000,median,64,65
+"Notturno no. 7 in F major, Hob. II:28",3,16:10,970000,median,6,6
+"Missa brevis Sancti Joannis de Deo in B-flat major, Hob. XXII:7 ""Kleine Orgelmesse""",6,16:08,968000,median,94,94
+"Klaviertrio E-dur, Hob. XV:28",3,16:06,966000,median,50,50
+"Piano Trio in C minor, Hob. XV no. 13",2,16:02,962000,median,14,16
+"String Quartet in G major, op. 3 no. 3, Hob. III:15",4,15:57,957000,median,4,4
+"Piano Trio no. 32 In A, Hob. XV no. 18",3,15:55,955000,median,22,22
+"Sonate für Klavier Nr. 44 F-dur, Hob. XVI:29",3,15:55,955000,median,40,41
+"Arietta Nr. 1 mit 12 Variationen in Es-dur, Hob. XVII:3",13,15:54,954000,median,41,54
+"Divertimento a otto voci n° 5 D-dur, Hob. X:1",3,15:52,952000,median,9,9
+"Partita für Cembalo Nr. 18 in Es-dur, Hob. XVI:Es3",3,15:46,946000,median,9,9
+"Symphony no. 14 in A major, Hob. I:14",4,15:40,940000,median,23,23
+"Trio for Flute, Cello and Piano in F major, Hob. XV:17",2,15:40,940000,median,6,6
+"Hornkonzert Nr. 2 D-Dur, Hob. VIId:4",3,15:39,939000,median,32,32
+"Symphony no. 10 in D major, Hob. I:10",3,15:39,939000,median,28,28
+"Symphony no. 37 in C major, Hob. I:37",4,15:37,937000,median,29,29
+"Sinfonie Nr. 2 D-Dur, op. 73",1,15:35,935000,median,209,211
+"String Quartet in A major, op. 3 no. 6, Hob. III:18",4,15:34,934000,median,4,4
+"12 Minuets, Hob. IX:8",12,15:32,932000,median,14,14
+"Sonata no. 13 in G major, Hob. XVI:6",4,15:26,926000,median,69,69
+"Divertimento no. 14 in C major, Hob. II:11, ""Der Geburtstag""",4,15:24,924000,median,8,8
+"Sonate für Klavier Nr. 34 D-dur, Hob. XVI:33",3,15:21,921000,median,39,39
+"Concerto no. 4 in F major, Hob.:VIIh/4",3,15:13,913000,median,15,15
+"Concerto no. 3 in G major, Hob.:VIIh/3 ""Romance""",3,15:12,912000,median,15,15
+"Piano Sonata no. 52 in G major, Hob. XVI:39",3,15:10,910000,median,45,45
+"Baryton Octet in G major, Hob. X:5",3,15:09,909000,median,6,6
+"Piano Sonata no. 36 in C major, Hob. XVI:21",3,15:07,907000,median,33,33
+"Symphony no. 26 in D minor, Hob. I:26 “Lamentatione”",3,15:07,907000,median,53,53
+"Piano Trio no. 33 In G minor, Hob. XV no. 19",3,15:06,906000,median,37,37
+"Qual dubbio ormai, Hob. XXIVa:4",4,15:04,904000,median,4,4
+"String Quartet in D major, op. 1 no. 3, Hob. III:3",5,15:03,903000,median,36,36
+"Variationen in G-dur, Hob. XVII:2",21,15:03,903000,median,21,21
+"Sonata no. 11 in B-flat major, Hob. XVI:2",3,14:59,899000,median,45,45
+"Piano Trio in F-sharp minor, Hob. XV:26",3,14:57,897000,median,45,45
+"Concerto no. 1 in C major, Hob.:VIIh/1",3,14:45,885000,median,19,19
+"Divertimento a otto voci n° 6 A-dur, Hob. X:6",3,14:45,885000,median,9,9
+"String Quartet no. 35 in D minor, op. 42, Hob. III:43",4,14:44,884000,median,56,56
+"12 Minuets and 4 Trios, Hob. IX:3",12,14:43,883000,median,13,13
+"Notturno in G major, Hob. II:27",3,14:43,883000,median,12,12
+"Piano Sonata no. 48 in C major, Hob. XVI:35",3,14:43,883000,median,65,68
+"Konzert für Trompete und Orchester Es-Dur, Hob. VIIe:1",3,14:41,881000,median,263,271
+"Divertimento ['Quintet'] in D major, Hob. X:10",3,14:39,879000,median,6,6
+"Trumpet Concerto no. 1 in E-flat major, Hob. VIIe:1",3,14:37,877000,median,13,13
+"Piano Trio no. 39 in G major, Hob. XV:25",3,14:35,875000,median,90,90
+"Symphony no. 4 in D major, Hob. I:4",3,14:35,875000,median,36,36
+"Sonata no. 38 in F major, Hob. XVI:23",3,14:34,874000,median,100,107
+"Piano Trio no. 1 in F major, Hob. XV no. 37",3,14:28,868000,median,13,13
+"Symphony no. 18 in G major, Hob. I:18",3,14:22,862000,median,22,25
+"Divertimento for Violin, Viola and Violoncello in B-flat major, Hob. V:8",3,14:19,859000,median,3,3
+Lo speziale,4,14:17,857000,median,7,7
+"Trio for Baryton, Viola, and Cello No. 60 in A major",3,14:15,855000,median,3,3
+"Sonate für Klavier Nr. 57 in F-dur, Hob. XVI:47",3,14:14,854000,median,21,21
+"Piano Sonata no. 43 in E-flat major, Hob. XVI:28",3,14:08,848000,median,35,35
+"Piano Sonata no. 45 in A major, Hob. XVI:30",3,14:05,845000,median,41,41
+"Salve Regina in E major, Hob. XXIIIb:1",5,14:05,845000,median,15,15
+"Piano Trio no. 35 in C, Hob. XV no. 21",3,14:03,843000,median,17,17
+"String Quartet in D major, op. 2 no. 5, Hob. III:11",5,14:03,843000,median,5,5
+"Piano Trio no. 5 in G minor, Hob. XV no. 1",3,14:02,842000,median,18,18
+"Piano Trio in A, Hob. XV no. 35",3,14:01,841000,median,15,15
+"Piano Trio in F, Hob. XV no. 6",2,14:01,841000,median,12,12
+"Symphony no. 30 in C major, Hob. I:30 “Alleluja”",3,13:57,837000,median,37,37
+"Symphony no. 16 in B-flat major, Hob. I:16",3,13:56,836000,median,27,27
+"Trio for Baryton, Viola, and Cello No. 50 in D major",3,13:55,835000,median,3,3
+"Notturno no. 1 in C major, Hob. II:25",4,13:53,833000,median,10,10
+"Piano Trio no. 34 in B-flat, Hob. XV no. 20",3,13:53,833000,median,20,21
+"Symphony in B-flat major, Hob. I:107 ""A""",3,13:53,833000,median,21,21
+"Missa Brevis in F Major, Hob. XXII:1, ""Jugendmesse""",6,13:51,831000,median,37,37
+"String Quartet in F major, op. 3 no. 5, Hob. III:17",4,13:50,830000,median,79,81
+"Piano Trio in G, Hob. XV no. 5",3,13:43,823000,median,12,12
+"Divertimento a 8 in F major, Hob. II:16, ""Feld-Parthie""",5,13:42,822000,median,5,5
+"Piano Sonata no. 53 in E minor, Hob. XVI:34",3,13:42,822000,median,92,95
+"Symphony in B-flat major, Hob. I:108 ""B""",4,13:42,822000,median,28,28
+"Sonata no. 37 in E major, Hob. XVI:22",3,13:38,818000,median,42,42
+"Concerto no. 2 in G major, Hob.:VIIh/2",3,13:37,817000,median,15,15
+"Symphony no. 27 in G major, Hob. I:27",3,13:37,817000,median,28,28
+"Piano Trio no. 30 In F, Hob. XV no. 17",2,13:36,816000,median,2,2
+"Piano Sonata no. 35 in A-flat major, Hob. XVI:43",3,13:33,813000,median,56,56
+"Divertimento (Cassation) no. 10 in D major, Hob. II:D22",5,13:32,812000,median,5,5
+"Piano Sonata no. 49 in C-sharp minor, Hob. XVI:36",3,13:31,811000,median,74,74
+Flute Duo No. 5 in C major,2,13:29,809000,median,2,2
+"Parthia in E-flat major, Hob. deest",4,13:29,809000,median,4,5
+"Trio for Baryton, Viola, and Cello No. 2 in A major",3,13:29,809000,median,6,6
+"Divertimento in G major, Hob. X:12",3,13:27,807000,median,9,9
+"Piano Sonata no. 47 in B minor, Hob. XVI:32",3,13:26,806000,median,103,103
+"Sonata no. 19 in E minor, Hob. XVI:47bis",3,13:25,805000,median,40,40
+"Piano Trio in F minor, Hob. XV no. f1",3,13:24,804000,median,12,12
+"Piano Trio in D, Hob. XV no. 7",3,13:22,802000,median,18,18
+"Symphony no. 25 in C major, Hob. I:25",3,13:22,802000,median,21,21
+"Baryton Trio in C major, Hob. XI:82",3,13:16,796000,median,6,6
+"Quartetto in G major, op. 5 no. 2, Hob. II:G4",4,13:14,794000,median,4,4
+"Concertino in C major, Hob. XIV:12",3,13:13,793000,median,15,15
+"Piano Sonata no. 32 in G minor, Hob. XVI:44",2,13:13,793000,median,58,60
+"String Quartet in E major, op. 3 no. 1, Hob. III:13",4,13:12,792000,median,4,4
+"Piano Trio in D major, Hob. XV:24",3,13:08,788000,median,33,33
+"Symphony no. 1 in D major, Hob. I:1",3,13:04,784000,median,36,36
+"Piano Trio in E, Hob. XV no. 34",3,13:01,781000,median,9,9
+"Piano Trio in E-flat, Hob. XV no. 11",2,13:00,780000,median,6,6
+"Klaviertrio es-Moll, Hob. XV:31",2,12:58,778000,median,16,16
+"String Duo in C Major, Hob. VI:6",3,12:58,778000,median,3,3
+"Sonata no. 18 in E-flat major, Hob. XVI:deest",3,12:56,776000,median,8,8
+"Trio for Baryton, Viola, and Cello No. 122 in A major",3,12:55,775000,median,3,3
+"Sonata for Violin Solo and Bass Accompaniment No. 4 in E-flat major, op. 23 no. 4/Hob. VI:5",3,12:54,774000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 15 in A major",3,12:53,773000,median,3,3
+"Piano Concerto no. 7 in F major, Hob. XVIII:7",3,12:49,769000,median,23,23
+"Trio for Baryton, Viola, and Cello no. 96 in B minor, Hob. XI:96",3,12:48,768000,median,9,9
+"Divertimento in E-flat major, Hob. XIV:1",3,12:47,767000,median,12,12
+"Trio in A Minor, Hob XI:87",3,12:46,766000,median,9,9
+"Baryton Trio in D major, Hob. XI:113",3,12:45,765000,median,9,12
+Flute Duo No. 4 in G major,2,12:45,765000,median,2,2
+"Piano Sonata no. 51 in E-flat major, Hob. XVI:38",3,12:44,764000,median,43,43
+"Piano Trio in B-flat, Hob. XV no. 38",3,12:44,764000,median,17,17
+"Piano Trio no. 3 in G major, Hob. XIV no. 6/Hob. XVI no. 6",3,12:43,763000,median,6,6
+"Trio for Baryton, Viola, and Cello No. 42 in D major",3,12:42,762000,median,3,3
+Violin Sonata no. 1 in G major,2,12:39,759000,median,6,6
+"Trio for Baryton, Viola, and Cello No. 44 in D major",3,12:37,757000,median,6,6
+"Trio for Baryton, Viola, and Cello No. 83 in F major",3,12:36,756000,median,3,3
+"Keyboard Concerto in C major, Hob. XVIII:10",3,12:34,754000,median,34,34
+"Piano Trio in B-flat, Hob. XV no. 8",2,12:34,754000,median,8,8
+"Symphony no. 19 in D major, Hob. I:19",3,12:34,754000,median,24,24
+"Sonata for Violin Solo and Bass Accompaniment No. 2 in A major, op. 23 no. 2/Hob. VI:2",3,12:33,753000,median,3,3
+"Concerto no. 5 in F major, Hob. VIIh:5",3,12:32,752000,median,15,15
+"Sonata no. 17 in E-flat major, Hob. deest",3,12:32,752000,median,12,12
+"Ariana a Naxos, Hob. XXVib:2",3,12:30,750000,median,17,17
+"Trio for Baryton, Viola, and Cello No. 115 in D major",3,12:28,748000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 105 in G major",3,12:23,743000,median,3,3
+"Piano Trio in A, Hob. XV no. 9",2,12:22,742000,median,6,6
+"Symphony no. 9 in C major, Hob. I:9",3,12:21,741000,median,24,24
+"Piano Sonata no. 42 in G major, Hob. XVI:27",3,12:19,739000,median,36,36
+"Sonata no. 16 in D major, Hob. XVI:14",3,12:16,736000,median,36,36
+"Trio for Baryton, Viola, and Cello No. 36in D major",3,12:16,736000,median,3,3
+"Divertimento in C major, Hob. XIV:C1",4,12:15,735000,median,8,8
+"Piano Trio no. 31 In G, Hob. XV no. 32",2,12:15,735000,median,11,11
+"String Duo in F Major, Hob. VI:1",3,12:11,731000,median,3,3
+"Sonata for Violin Solo and Bass Accompaniment No. 3 in C major, op. 23 no. 3/Hob. VI:6",3,12:09,729000,median,3,3
+"Sonate für Klavier Nr. 56 D-dur, Hob. XVI:42",2,12:09,729000,median,28,28
+"Sonata for Violin Solo and Bass Accompaniment No. 1 in B-flat major, op. 23 no. 1/Hob. VI:3",3,12:08,728000,median,3,3
+"String Duo in A Major, Hob. VI:2",3,12:08,728000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 77 in G major",3,12:08,728000,median,3,3
+"Divertimento in G major, Hob. XIV:6",3,12:01,721000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 47 in G major",3,12:01,721000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 88 in A major",3,12:00,720000,median,3,3
+"Keyboard Concerto in C major, Hob. XVIII:5",3,11:57,717000,median,21,21
+"Piano Sonata no. 58 in C major, Hob. XVI:48",2,11:57,717000,median,82,88
+"Trio for Baryton, Viola, and Cello No. 14 in D major",3,11:54,714000,median,6,6
+"Trio for Baryton, Viola, and Cello No. 29 in A major",3,11:54,714000,median,3,3
+"Antiphon for Soprano, Chorus, Organ & Orchestra in A major, Hob. XXIIIb:3",3,11:53,713000,median,3,3
+"Keyboard Concerto in C major, Hob. XVIII:8",3,11:53,713000,median,39,39
+"Trio for Baryton, Viola, and Cello No. 8 in A major",3,11:53,713000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 33 in A major",3,11:51,711000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 68 in A major",3,11:50,710000,median,3,3
+"Baryton Trio in C major, Hob. XI:109",3,11:49,709000,median,6,6
+"Piano Trio in D major, Hob. deest",2,11:49,709000,median,4,4
+"Trio for Baryton, Viola, and Cello No. 74 in D major",3,11:45,705000,median,3,3
+"Notturno in C major, Hob. II:32",3,11:42,702000,median,9,9
+"Trio for Baryton, Viola, and Cello No. 9 in A major",3,11:41,701000,median,6,6
+"Trio for Baryton, Viola, and Cello No. 72 in D major",3,11:37,697000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 12 in A major",3,11:36,696000,median,3,3
+La fedeltà premiata,4,11:35,695000,median,64,64
+"Partita für Cembalo Nr. 17 in Es-dur, Hob. XVI:Es2",3,11:35,695000,median,6,6
+"Piano Trio in E-flat, Hob. XV no. 36",3,11:35,695000,median,12,12
+"Trio for Baryton, Viola, and Cello No. 39 in D major",3,11:33,693000,median,3,3
+Flute Duo No. 6 in D major,2,11:30,690000,median,2,2
+"Piano Trio no. 2 in C major, Hob. XV no. C1",3,11:28,688000,median,18,18
+"Trio for Baryton, Viola, and Cello No. 123 in G major",3,11:26,686000,median,3,3
+"Sonata no. 39 in D major, Hob. XVI:24",3,11:23,683000,median,57,61
+"Sonata for Violin Solo and Bass Accompaniment No. 6 in F major, op. 23 no. 6/Hob. VI:1",3,11:21,681000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 66 in A major",3,11:19,679000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 61 in D major",3,11:18,678000,median,9,9
+"Trio for Baryton, Viola, and Cello No. 117 in F major",3,11:17,677000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 28 in D major",3,11:15,675000,median,3,3
+"Trio in G Major, Hob XI:124",3,11:15,675000,median,6,6
+"String Duo in E-Flat Major, Hob. VI:5",3,11:11,671000,median,3,3
+"Concerto for Piano and Orchestra no. 1 in C major, op. 15",1,11:05,665000,median,217,222
+"Divertimento in D major for Cello and Piano, After Hob. XI:113",3,11:04,664000,median,4,4
+"Piano Trio in F, Hob. XV no. 40",3,11:03,663000,median,13,13
+"Trio for Baryton, Viola, and Cello No. 106 in D major",3,10:55,655000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 6 in A major",3,10:54,654000,median,6,6
+"Baryton Trio in F major, Hob. XI:100",3,10:53,653000,median,6,6
+"Divertimento für Cembalo in D-dur, Hob. XIV:5",2,10:53,653000,median,6,6
+"Piano Sonata no. 46 in E major, Hob. XVI:31",3,10:53,653000,median,55,55
+"Divertimento for two flutes and cello in C major, Hob. IV:1",3,10:50,650000,median,9,9
+"Trio for Baryton, Viola, and Cello No. 45 in D major",3,10:50,650000,median,3,3
+"Parthia no. 2 in E-flat major, Hob. deest",4,10:47,647000,median,4,4
+"Notturno no. 7 in C major, Hob. II:31",3,10:46,646000,median,9,9
+"Piano Trio in F major, Hob. XV:39",5,10:46,646000,median,15,15
+"String Quartet in D minor, op. 103, Hob. III:83",2,10:46,646000,median,37,37
+"Trio for Baryton, Viola, and Cello No. 94 in A major",3,10:46,646000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 56 in D major",3,10:45,645000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 86 in A major",3,10:44,644000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 11 in D major",3,10:43,643000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 10 in A major",3,10:41,641000,median,3,3
+"Piano Sonata no. 50 in D major, Hob. XVI:37",3,10:40,640000,median,113,113
+"Trio for Baryton, Viola, and Cello No. 95 in D major",3,10:39,639000,median,3,3
+"Motetti De Venerabili Sacramento, Hob. XXIIIc",5,10:38,638000,median,4,4
+"Le stagioni, H. 21/3",5,10:37,637000,median,11,11
+"Trio for Baryton, Viola, and Cello No. 31 in D major",3,10:37,637000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 84 in G major",3,10:37,637000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 108 in A major",3,10:36,636000,median,3,3
+"String Duo in D Major, Hob. VI:4",3,10:35,635000,median,3,3
+"""London"" Trio no. 3 for Flute, Violin and Cello in G major, Hob. IV:3",3,10:34,634000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 7 in A major",3,10:32,632000,median,3,3
+"Divertimento in B-flat major, Hob. II:46",4,10:31,631000,median,17,17
+"Trio for Baryton, Viola, and Cello No. 38in A major",3,10:30,630000,median,3,3
+"Sonata no. 20 in B-flat major, Hob. XVI:18",2,10:29,629000,median,20,20
+"Trio for Baryton, Viola, and Cello No. 107 in D major",3,10:29,629000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 125 in G major",3,10:27,627000,median,3,3
+"Concertino in F major, Hob.XVIII:F2",3,10:26,626000,median,15,15
+"Trio for Baryton, Viola, and Cello No. 79 in D major",3,10:26,626000,median,3,3
+"Notturno no. 2 in F major, Hob. II:26",3,10:25,625000,median,6,6
+"Trio for Baryton, Viola, and Cello No. 63 in D major",3,10:25,625000,median,3,3
+"Piano Trio in E-flat, Hob. XV no. 10",2,10:23,623000,median,12,12
+"Trio for Baryton, Viola, and Cello No. 69 in D major",3,10:22,622000,median,6,6
+"Divertimento für 2 Oboen, 2 Hörner und 2 Fagotte G-dur, Hob. deest",5,10:21,621000,median,5,5
+"Trio for Baryton, Viola, and Cello No. 32 in A major",3,10:20,620000,median,3,3
+"Partita für 2 Cembali in F-dur, Hob. XVIIa:2",2,10:17,617000,median,2,2
+Flute Duo No. 2 in B minor,3,10:16,616000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 81 in D major",3,10:16,616000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 37in G major",3,10:14,614000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 73 in G major",3,10:14,614000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 27 in D major",3,10:13,613000,median,6,6
+"Trio for Baryton, Viola, and Cello No. 52 in D major",3,10:12,612000,median,6,6
+"Trio for Baryton, Viola, and Cello No. 98 in D major",3,10:12,612000,median,3,3
+"Divertimento in C major, Hob. XIV:4",3,10:09,609000,median,6,6
+"Piano Sonata no. 54 in G major, Hob. XVI:40",2,10:09,609000,median,41,43
+"Sonata no. 8 in A major, Hob. XVI:5",3,10:09,609000,median,24,24
+"12 German Dances, Hob. IX:12",12,10:08,608000,median,13,13
+"Trio for Baryton, Viola, and Cello No. 46 in A major",3,10:07,607000,median,3,3
+"Divertimento für 2 Oboen, 2 Hörner und 2 Fagotte G-dur, Hob. II:3",5,10:05,605000,median,15,20
+"Trio for Baryton, Viola, and Cello No. 90 in C major",3,10:05,605000,median,3,3
+"Trio for Baryton, Viola, and Cello No. 40 in D major",3,10:04,604000,median,3,3
+"Baryton Trio in A Major, Hob. XI:71",3,10:00,600000,median,3,3
+"Andante con variazioni in F-moll, Hob. XVII:6 ""Un piccolo divertimento""",,13:09,789000,median,64,65
+"Arianna a Naxos, Hob. XXVIb:2",,18:05,1085000,median,8,8
+"Ave Regina, Hob. XXIIIb:3",,10:10,610000,median,2,2
+"Concerto for Violin and Orchestra in C major, Hob. VIIa:1 – I – Allegro moderato",,10:25,625000,median,1,1
+"Divertimento a quattro in D, Hob. deest, I. Adagio. Thema mit Variationen (I-V)",,13:27,807000,median,1,1
+"Minuet in F major, Hob. XVII:F1",,14:05,845000,median,2,2
+"Missa Brevis in F major, Hob. XXII:1, ""Jugendmesse""",,12:46,766000,median,1,1
+"Quartet for Strings no. 19 in C major, K. 465 ""Haydn Quartetti"", ""Dissonance""",,15:02,902000,median,2,2
+"The Battle of the Nile, Hob. XXVIb:4",,10:38,638000,median,1,1
+"Wind Quintet Divertimento No. 1 in B-flat ""Choral St. Anthony""",,10:23,623000,median,1,1

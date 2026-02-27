@@ -1,0 +1,117 @@
+work,num_movements,duration,duration_ms,stat_used,count_with_length,count_total
+"Swan Lake, op. 20",84,4:35:46,16546000,median,1657,1661
+"Чародейка, TH 9",39,4:33:57,16437000,median,94,95
+"Евгений Онегин, op. 24",41,3:11:24,11484000,median,503,508
+"Черевички, TH 8",40,3:00:23,10823000,median,43,43
+"Опричник, TH 3",47,2:59:39,10779000,median,110,110
+"Мазепа, TH 7",31,2:54:47,10487000,median,129,129
+"Пиковая дама, op. 68",50,2:47:12,10032000,median,358,359
+"The Sleeping Beauty, op. 66",66,2:46:04,9964000,median,1335,1341
+Орлеанская дева,40,2:39:49,9589000,median,105,105
+"Иоланта, op. 69",18,1:38:06,5886000,median,92,107
+"Щелкунчик, op. 71",26,1:35:04,5704000,median,1660,1705
+"The Snow Maiden, op. 12",29,1:27:04,5224000,median,127,127
+"Symphony no. 2 in C minor, op. 17 ""Little Russian""",8,1:13:32,4412000,median,241,241
+"18 Pieces, op. 72",18,1:08:47,4127000,median,164,165
+"Hamlet, op. 67a",23,1:06:38,3998000,median,49,49
+"Symphony no. 5 in E minor, op. 64",5,59:38,3578000,median,854,864
+"Piano Trio in A minor, op. 50 “In Memory of a Great Artist”",15,58:16,3496000,median,391,397
+"Manfred Symphony in B minor, op. 58",4,55:42,3342000,median,149,152
+"Concerto for Piano and Orchestra no. 1 in B-flat minor, op. 23",4,54:43,3283000,median,883,947
+"Liturgy of St. John Chrysostom, op. 41",15,52:09,3129000,median,94,94
+Vespers Opus 52,16,46:14,2774000,median,34,34
+"The Seasons, op. 37",12,45:42,2742000,median,28,28
+"Symphony no. 3 in D major, op. 29 “Polish”",5,45:25,2725000,median,232,232
+"The Seasons, op. 37b",12,45:19,2719000,median,53,53
+"Symphony no. 6 in B minor, op. 74 “Pathétique”",4,45:05,2705000,median,985,1023
+"Symphony no. 1 in G minor, op. 13 ""Winter Daydreams""",4,43:49,2629000,median,215,215
+"The Seasons, op. 37a",12,43:05,2585000,median,669,712
+"Swan Lake Suite, op. 20a",6,42:38,2558000,median,6,6
+"Symphony no. 4 in F minor, op. 36",4,42:36,2556000,median,620,634
+"Piano Concerto no. 2 in G major, op. 44",3,42:30,2550000,median,132,132
+"Souvenir d’un lieu cher, op. 42",8,41:25,2485000,median,92,92
+Nine Church Pieces,9,41:19,2479000,median,25,25
+Symphony no. 7 in E-flat major,4,40:11,2411000,median,16,16
+"Variations on a Rococo Theme for Cello and Orchestra, op. 33",19,38:44,2324000,median,352,354
+"Suite no. 1 in D minor, op. 43",6,38:03,2283000,median,66,75
+"Suite no. 2 in C major, op. 53",5,37:39,2259000,median,51,51
+"String Quartet no. 3 in E-flat minor, op. 30",4,36:51,2211000,median,100,100
+"12 Romances, op. 60",12,36:38,2198000,median,47,48
+"String Quartet no. 2 in F major, op. 22",4,35:37,2137000,median,58,58
+"Souvenir de Florence in D minor, op. 70",4,34:54,2094000,median,202,205
+"Pieces from the Ballet ""The Sleeping Beauty""",11,34:49,2089000,median,11,11
+"Concerto for Violin and Orchestra in D major, op. 35",3,34:40,2080000,median,755,813
+"The Swan Lake (suite from the ballet), op. 20a",9,34:29,2069000,median,387,389
+"Fragments from ""Swan Lake"" by Pyotr Tchaikovsky",12,32:47,1967000,median,12,12
+"Grand Sonata for Piano in G major, op. 37",4,32:41,1961000,median,88,88
+"Concert Suite from the Ballet ""The Sleeping Beauty""",11,30:33,1833000,median,77,77
+"Serenade for Strings in C major, op. 48",4,30:06,1806000,median,544,603
+"Concert Fantasy for Piano and Orchestra, op. 56",2,28:39,1719000,median,27,31
+"String Quartet no. 1 in D major, op. 11",4,28:20,1700000,median,182,186
+"Serenade in C major, op. 48",4,26:27,1587000,median,4,4
+"Children's Album, op. 39",23,26:10,1570000,median,376,380
+"The Sleeping Beauty Suite, op. 66a",7,26:00,1560000,median,328,329
+"Piano Sonata no. 2 in C-sharp minor, op. 80",4,25:40,1540000,median,45,45
+"Eugen Onegin, 1. Akt, 2. Bild",3,25:00,1500000,median,3,3
+"The Nutcracker (suite from the ballet), op. 71a",9,24:45,1485000,median,1439,1473
+"""Moscow"" Cantata",6,24:16,1456000,median,19,19
+"The Nutcracker Suite, op. 71a",8,24:08,1448000,median,21,21
+"Eugen Onegin, 1. Akt, 1. Bild",7,23:40,1420000,median,7,7
+"Suite no. 3 in G major, op. 55",4,22:42,1362000,median,86,99
+The Nutcracker Suite,7,22:17,1337000,median,13,13
+"6 Romances, op. 28",6,21:20,1280000,median,20,21
+"Andante and Finale, op. 79",2,20:35,1235000,median,15,15
+"6 Songs, op. 16",6,19:55,1195000,median,30,30
+Swan Lake,5,19:46,1186000,median,36,37
+"The Voyevoda, op. 3",5,19:21,1161000,median,2,2
+The Nutcracker,4,18:21,1101000,median,12,12
+Klaviersuite aus “Nussknacker”,7,17:38,1058000,median,76,76
+"6 Romances, op. 38",6,17:05,1025000,median,53,56
+"Souvenir d’un lieu cher for Violin and Piano, op. 42",3,16:40,1000000,median,88,91
+Art Nude Piece 1,1,16:14,974000,median,1,1
+"Piano Concerto no. 3 in E-flat major, op. 75",1,15:56,956000,median,23,24
+"Eugen Onegin, 2. Akt, 1. Bild",4,15:53,953000,median,5,5
+"Schwanensee / Swan Lake, Ballett / Ballet",3,15:23,923000,median,5,5
+"6 Romances, op. 63",6,15:22,922000,median,16,17
+"Variations on a Rococo Theme, op. 96",9,15:01,901000,median,5,5
+Theme & variations,10,14:20,860000,median,20,20
+"Suite no. 4 in G major, op. 61 ""Mozartiana""",4,13:15,795000,median,111,139
+Three Dances from The Maid of Orleans,3,13:13,793000,median,3,3
+Romeo and Juliet,1,12:49,769000,median,2,2
+"Souvenir de Hapsal, op. 2",3,11:55,715000,median,27,27
+"Eugen Onegin, 3. Akt, 2. Bild",1,11:39,699000,median,1,1
+"String Quartet, op. 30",1,11:36,696000,median,1,1
+Piano Sonata no. 1 in F minor,1,10:51,651000,median,1,1
+Eugen Onegin,5,10:12,612000,median,8,8
+"Eugen Onegin, 2. Akt, 2. Bild",2,10:04,604000,median,4,4
+Three Romances,3,10:00,600000,median,12,12
+"1812 Overture, op. 49",,11:39,699000,median,1,3
+A State of Mind,,17:01,1021000,median,1,1
+"Andante appassionato pour piano, violon et violoncelle",,14:13,853000,median,1,1
+"Andante funebre, TH 114, ČW 347",,10:26,626000,median,1,1
+"Capriccio Italien, op. 45",,16:23,983000,median,1,2
+"Capriccio italien, op. 45",,15:12,912000,median,195,200
+Cissy's Nussknacker Suite,,12:02,722000,median,1,1
+Encore,,10:55,655000,median,1,1
+"Fatum, op. 77",,17:16,1036000,median,13,13
+"Festive Overture on the Danish National Anthem, op. 15",,12:47,767000,median,5,5
+"Francesca da Rimini, op. 32",,23:29,1409000,median,88,89
+"Hamlet, op. 67",,18:32,1112000,median,22,23
+Le Lac des cygnes,,1:01:50,3710000,median,1,1
+NN#02,,29:58,1798000,median,1,1
+"Overture in F major, TH 39",,13:00,780000,median,5,5
+"Potpourri on Themes from ""The Voyevoda""",,14:16,856000,median,3,3
+"Romeo and Juliet, Fantasy Overture, TH 42, ČW 39",,18:47,1127000,median,335,348
+Shower,,21:30,1290000,median,1,1
+Sonata in F minor,,11:33,693000,median,1,1
+String Quartet in B-flat major,,13:02,782000,median,9,9
+Symphonie n° 5 (finale),,11:30,690000,median,1,1
+"The Storm, op. 76",,14:15,855000,median,9,9
+"The Tempest, op. 18",,21:44,1304000,median,32,33
+"The Voyevoda, symphonic ballad in A minor, op. 78",,11:54,714000,median,14,14
+"The Year 1812, Festival Overture in E-flat major, op. 49",,14:55,895000,median,380,400
+"Theme with Variations in A minor, TH 121, ČW 96",,14:52,892000,median,2,2
+Time And Time Again (Remix),,30:24,1824000,median,1,1
+To The Cabin (Honeymoon),,17:52,1072000,median,1,1
+Untitled No. 1,,25:25,1525000,median,1,1
+ヴァイオリン協奏曲 第一楽章抜粋 (チャイコフスキー),,11:14,674000,median,1,1

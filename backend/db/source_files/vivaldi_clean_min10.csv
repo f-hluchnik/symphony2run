@@ -1,0 +1,367 @@
+work,num_movements,duration,duration_ms,stat_used,count_with_length,count_total
+"Tito Manlio, RV 738-A",89,3:00:12,10812000,median,115,115
+"Juditha triumphans devicta Holofernes barbarie, RV 644",58,2:14:46,8086000,median,611,662
+"Gloria, RV 588",22,55:09,3309000,median,155,156
+"Gloria e Imeneo, RV 687",22,48:54,2934000,median,88,88
+"Serenata a tre ""Mio cor, povero cor"", RV 690, Part I",15,45:05,2705000,median,44,44
+"Beatus Vir, RV 597",14,42:06,2526000,median,93,107
+"Mass in C major, RV Anh. 112",19,42:01,2521000,median,20,20
+The Four Seasons,12,41:14,2474000,median,96,97
+"La verità in cimento, RV 739",14,40:52,2452000,median,83,83
+"Griselda, RV 718",11,38:48,2328000,median,197,197
+"Giustino, RV 717",12,35:03,2103000,median,130,130
+"La Silvia, RV 734",9,34:40,2080000,median,23,23
+"Serenata a tre ""Mio cor, povero cor"", RV 690, Part II",15,33:42,2022000,median,45,45
+Canti della natura,12,33:38,2018000,median,12,12
+"Arsilda, regina di Ponto, RV 700",14,30:24,1824000,median,191,191
+"Gloria, RV 589",12,29:52,1792000,median,60,60
+"Gloria in D major, RV 589",12,29:13,1753000,median,652,655
+"Sonata in D major, op. 1 no. 12",5,28:53,1733000,median,5,5
+"Catone in Utica, RV 705",5,27:44,1664000,median,112,112
+"Dixit Dominus, RV 807",12,26:47,1607000,median,82,82
+"Beatus Vir, RV 795",15,26:43,1603000,median,45,45
+"Il Farnace, RV 711",7,26:34,1594000,median,197,197
+Salmo 109,11,26:20,1580000,median,112,112
+"Guitar Concerto in A major, op. 30",3,25:51,1551000,median,64,64
+"Teuzzone, RV 736",9,25:49,1549000,median,167,167
+"L’Olimpiade, RV 725",7,25:39,1539000,median,51,51
+"Dixit Dominus, RV 595",11,25:38,1538000,median,89,89
+Anno,8,24:04,1444000,median,8,8
+"Laudate pueri in G major, RV 601",9,23:37,1417000,median,55,55
+"La fida ninfa, RV 714",7,23:24,1404000,median,97,97
+Salmo 112,11,23:12,1392000,median,129,129
+"Nisi Dominus, RV 803",8,22:38,1358000,median,24,24
+"La Candace, RV 704",5,22:35,1355000,median,5,5
+"La Senna festeggiante, RV 693",9,22:02,1322000,median,121,121
+"Magnificat, RV 611 (ed. Malipiero)",11,21:44,1304000,median,11,11
+"Orlando Furioso, RV 728",5,20:50,1250000,median,20,20
+"Nisi Dominus, RV 608",9,20:43,1243000,median,267,267
+"L'Atenaide, RV 702",7,20:33,1233000,median,90,90
+"Magnificat, RV 611",11,19:34,1174000,median,84,84
+"Stabat Mater, RV 621",9,19:05,1145000,median,431,431
+"Sum in medio tempestatum, RV 632",4,18:48,1128000,median,16,16
+"Concerto C-Dur (nach A. Vivaldi, RV 208), BWV 594",3,18:32,1112000,median,126,126
+"L’incoronazione di Dario, RV 719",8,17:58,1078000,median,117,117
+"Orlando finto pazzo, RV 727",6,17:51,1071000,median,95,95
+"Laudate pueri, RV 602",9,17:17,1037000,median,19,19
+"Sonata for Violin and Continuo in F major, RV 19",5,17:04,1024000,median,17,20
+Four Seasons Suite,6,16:52,1012000,median,7,7
+"Bajazet, RV 703",7,16:12,972000,median,56,56
+"Antiphon in C minor, RV 616 ""Salve Regina""",6,16:11,971000,median,46,46
+"Sonata in G major, RV 820",7,16:09,969000,median,30,30
+"In turbato mare irato, RV 627",4,16:08,968000,median,24,24
+Concerto for Clarinet and Orchestra no. 1 in B-flat major “Sant’Angelo”,3,16:01,961000,median,3,3
+"Sonata for Violin and Continuo in C major, RV 2",5,15:35,935000,median,30,30
+"Concerto in D, RV 562",3,15:33,933000,median,21,21
+"L'Olimpiade, RV 725",5,15:26,926000,median,92,92
+"Ottone in villa, RV 729",8,15:24,924000,median,140,140
+"Armida al campo d'Egitto, RV 699",7,15:22,922000,median,96,96
+"Concerto in Fa maggiore, RV 97",4,15:18,918000,median,24,24
+"Concerto for 2 Violins, Strings, and Continuo in D major, RV 513",3,15:07,907000,median,15,15
+"Concerto for Violin in D major, RV 208 ""Grosso Mogul""",3,15:02,902000,median,64,67
+"Longe mala, umbrae, terrores, RV 629",4,14:58,898000,median,29,29
+"Concerto for Violin, Strings, and Continuo in E-flat major, RV 254",3,14:56,896000,median,9,9
+"Cantata for Soprano Voice, Violin, and Continuo, RV 680 ""Lungi dal vago volto""",4,14:54,894000,median,36,36
+"Concerto for Violin, Strings and Continuo in E minor, RV 278",3,14:52,892000,median,12,12
+"Concerto in D major, RV 211",3,14:44,884000,median,12,12
+"Concerto for Violin, Strings, and Continuo in C major, RV 189",3,14:34,874000,median,17,18
+"Cantata for Alto Voice, Strings, and Continuo, RV 683 “Amor hai vinto”",4,14:26,866000,median,27,27
+"Cantata for Soprano Voice and Continuo, RV 667 ""Sorge vermiglia in ciel""",4,14:20,860000,median,16,16
+"Magnificat in G minor, RV 610",9,14:14,854000,median,121,121
+"Concerto for Violin, Strings, and Continuo in C major, RV 179a",3,14:13,853000,median,7,7
+"Violin Concerto in E minor, op. 11 no. 2, RV 277 ""Il Favorito""",3,14:12,852000,median,83,83
+"Violin Concerto in D major, RV 212a",3,14:09,849000,median,6,6
+"Sonata for Violin and Continuo in C major, RV 3",4,14:07,847000,median,24,24
+"Sonata for Violin, Oboe, Organ, Chalumeau, and Continuo, RV 779",4,14:07,847000,median,37,37
+"Violin Concerto in D Major, RV 213a ""per Signora Anna Maria""",3,14:07,847000,median,3,3
+"Salve regina, RV 618",6,14:06,846000,median,37,37
+"Sonata in G minor, RV 42",4,14:05,845000,median,68,68
+"Concerto fatto per la Solennita della S. Lingua di S. Antonio in Padova for violin, strings & continuo in D major, RV 212",3,13:59,839000,median,8,8
+"Cello Sonata no. 3 in A minor, RV 43",4,13:56,836000,median,96,96
+"Magnificat, RV 610a",9,13:53,833000,median,58,58
+"Bassoon Concerto in C major, RV 473",3,13:49,829000,median,21,21
+"Concerto for Violin, Strings, and Continuo in C major, RV 191",3,13:49,829000,median,9,9
+"Oboe Concerto in C major, RV 447",3,13:49,829000,median,72,72
+"Concerto in A, RV 552 ""Per eco in lontano""",3,13:48,828000,median,72,72
+"Concerto for Violin, Strings, and Continuo in F major, RV 283",3,13:45,825000,median,6,6
+"Cantata for Soprano Voice and Continuo, RV 799 ""Tremori al braccio""",4,13:38,818000,median,8,8
+"Concerto for Violin, Strings, and Continuo in B-flat major, RV 371",3,13:37,817000,median,12,12
+"Concerto for Violin and Strings in B-flat major, RV 583 “in due cori”",3,13:34,814000,median,16,16
+"Sonata for Violin and Continuo in C minor, RV 6",4,13:34,814000,median,40,40
+"In furore iustissimae irae, RV 626",4,13:33,813000,median,92,92
+"Vestro principi divino, RV 633",5,13:33,813000,median,25,25
+"Concerto for Violin, Strings, and Continuo in A major, RV 342",3,13:32,812000,median,3,3
+"Il Bajazet, Atto II, Scena 10",6,13:31,811000,median,9,9
+"Concerto for Violin, Strings, and Continuo in B-flat major, RV 367",3,13:30,810000,median,12,12
+"Concerto for Violin, Strings, and Continuo in D major, RV 206",3,13:28,808000,median,3,3
+"Cello Sonata no. 4 in B-flat major, RV 45",4,13:27,807000,median,73,73
+"Carae rosae respirate, RV 624",4,13:24,804000,median,4,4
+"Concerto in do maggiore Per la SS. Assunzione di Maria Vergine, RV 581",3,13:22,802000,median,31,31
+"Sonata for Violin and Continuo in C minor, RV 5",4,13:22,802000,median,8,8
+"Concerto for 2 Violins, Strings, and Continuo in C major, RV 507",3,13:21,801000,median,6,6
+"Concerto for Violin, Strings and Continuo in C major, RV 190",3,13:21,801000,median,4,4
+"Concerto for Violin, Strings, and Continuo in B-flat major, RV 365",3,13:20,800000,median,9,9
+"Nulla in mundo pax sincera, RV 630",4,13:20,800000,median,74,74
+"Sonata for Two Violins and Optional Continuo in B-flat major, RV 77",3,13:20,800000,median,18,18
+"Concerto in D major, RV 562a",3,13:18,798000,median,15,15
+"Concerto for 2 violins in D major, RV 511",3,13:17,797000,median,13,13
+"La costanza trionfante degl’amori e degl’odii, RV 706",6,13:16,796000,median,4,4
+"Concerto in F major, RV 286",3,13:15,795000,median,32,32
+Concerto for Clarinet and Orchestra no. 2 in D minor “La Fenice”,3,13:07,787000,median,3,3
+"Concerto for Violin, Strings, and Continuo in D major, RV 205",3,13:07,787000,median,6,6
+"Violin Concerto in F major, RV 296",3,13:07,787000,median,6,6
+Violin Sonata in A major,4,13:07,787000,median,4,4
+"Non in pratis aut in hortis, RV 641",4,13:06,786000,median,13,13
+"Vos invito, barbarae faces, RV 811",4,13:05,785000,median,8,8
+"Concerto in Sol minore, RV 104 ""La Notte""",7,13:01,781000,median,147,147
+"Concerto for Violin, Strings, and Continuo in B-flat major, RV 375",3,12:58,778000,median,12,12
+"Concerto for Violin, Strings and Continuo in G minor, RV 331",3,12:57,777000,median,9,9
+"Violin Concerto in E major, RV 266",3,12:56,776000,median,3,3
+"Sonata for Violin and Continuo in B-flat major, RV 759",4,12:55,775000,median,17,17
+"Concerto for Violin, Strings, and Continuo in E minor, RV 273",3,12:54,774000,median,15,15
+"Concerto for Violin and Double Orchestra in D major, RV 582",3,12:51,771000,median,21,21
+"Concerto for Violin in G minor, RV 333",3,12:51,771000,median,6,6
+"Magnificat, RV 610b",8,12:51,771000,median,14,14
+"Vos aurae per montes, RV 634",4,12:49,769000,median,8,8
+"Concerto for Violin, Strings, and Continuo in C minor, RV 201",3,12:47,767000,median,6,6
+"Cantata for Soprano Voice and Continuo, RV 657 ""Geme l’onda che parte dal fonte""",3,12:44,764000,median,6,6
+"Cantata for Soprano Voice and Continuo, RV 662",3,12:42,762000,median,6,6
+"O qui coeli terraeque serenitas, RV 631",4,12:41,761000,median,46,46
+"Concerto in C major, RV 556 “per la solennità di San Lorenzo”",3,12:40,760000,median,33,33
+"Violin Concerto in G minor, op. 12 no. 1, RV 317",3,12:39,759000,median,75,78
+"Sonata for Violin and Continuo in E minor, RV 17a",4,12:38,758000,median,16,16
+Concerto for Cello and Orchestra in E minor,4,12:36,756000,median,12,12
+"Concerto in F, RV 569",3,12:34,754000,median,31,31
+"Confitebor tibi, Domine, RV 596",6,12:32,752000,median,36,36
+"Motezuma, RV 723, Act II",2,12:31,751000,median,4,4
+"Cantata for Alto voice, Strings, and Continuo, RV 684 “Cessate, omai cessate”",4,12:27,747000,median,44,44
+"Violin Concerto in E-flat major, RV 258",3,12:27,747000,median,6,6
+"Concerto for Violin, Strings, and Continuo in D minor, RV 248",3,12:25,745000,median,12,12
+"Concerto in D major, op. 8 no. 11, RV 210",3,12:25,745000,median,89,92
+"Violin Concerto in B-flat major, RV 372",3,12:23,743000,median,6,6
+"Cantata for Soprano Voice and Continuo, RV 651 ""Amor hai vinto""",4,12:22,742000,median,22,22
+"Concerto for Flute, 2 Violins, and Continuo in G major, RV Anh. 103",5,12:22,742000,median,10,10
+"Cantata for Soprano Voice and Continuo, RV 656 ""Fonti del pianto""",3,12:21,741000,median,12,12
+"Concerto in C major for violin, strings and basso continuo, RV 187",3,12:21,741000,median,18,18
+"Concerto in D minor for Viola d'Amore, Lute, Strings and Continuo, RV 540",3,12:21,741000,median,113,113
+"Concerto for Violin, Strings and Continuo in G major, RV 303",3,12:20,740000,median,3,3
+"Sonata for Two Violins and Optional Continuo in F major, RV 70",3,12:20,740000,median,27,27
+"Concerto per violino in re maggiore, RV 232",3,12:17,737000,median,9,9
+"Cantata for Alto voice and Continuo, RV 677 ""Qual per ignoto calle""",4,12:16,736000,median,16,16
+"Concerto for Viola d'Amore, Strings, and Continuo in D minor, RV 395",4,12:14,734000,median,25,26
+"Sonata for Violin and Continuo in G minor, RV 757",4,12:14,734000,median,16,16
+"Sonata in E minor, RV Anh. 100",4,12:14,734000,median,20,20
+"Concerto for Violin, Strings, and Continuo in G major, RV 314a",3,12:13,733000,median,5,5
+"Trio Sonata in G minor, RV 74",4,12:12,732000,median,12,12
+"Cello Sonata in B-flat major, RV 47",4,12:10,730000,median,76,76
+"Argippo, RV 697",4,12:08,728000,median,41,41
+"Concerto for Violin, Strings, and Continuo in B minor, RV 390",3,12:06,726000,median,21,21
+"Trio Sonata in D minor, op. 1 no. 12, RV 63 ""La follia""",20,12:05,725000,median,62,82
+"Concerto for Violin, Strings, and Continuo in D major, RV 224a",3,12:04,724000,median,3,3
+"Violin Concerto in C minor, op. 11 no. 5, RV 202",3,12:00,720000,median,36,37
+"Sonata for Cello and Continuo in E-flat major, RV 39",4,11:59,719000,median,44,44
+"Concerto in mi bemolle maggiore per due violini, archi e basso continuo, RV 515",3,11:58,718000,median,21,21
+"Violin Concerto in G major, op. 11 no. 4, RV 308",3,11:57,717000,median,33,33
+"Concerto for Viola d'Amore, Strings, and Continuo in A major, RV 396",3,11:55,715000,median,28,28
+"Cantata for Soprano, 2 Violins, and Continuo, RV 681 ""Perché son molli""",3,11:54,714000,median,9,9
+"Concerto for Violin, Strings, and Continuo in B-flat major, RV 369",3,11:54,714000,median,6,6
+Konzert für Violoncello in D-Dur,3,11:52,712000,median,3,3
+"Sonata for Violin and Continuo in G major, RV 22",4,11:52,712000,median,20,20
+"Violin Concerto in C major, RV 177",3,11:52,712000,median,9,9
+"Cantata for Soprano Voice and Continuo, RV 655 ""Era la notte""",4,11:50,710000,median,4,4
+"Cantata for Soprano Voice and Continuo, RV 660 “La farfalletta s’aggira”",3,11:50,710000,median,12,12
+"Concerto for violin, strings and harpsichord in E-flat major, RV 256 ""Il ritiro""",3,11:50,710000,median,15,15
+"Sonata for Violin and Continuo in D minor, RV 15",3,11:50,710000,median,3,3
+"Sonata in F major, op. 2 no. 4, RV 20",4,11:50,710000,median,60,60
+"Bassoon Concerto in B-flat major, RV 504",3,11:49,709000,median,18,18
+"Tito Manlio, RV 738",7,11:49,709000,median,184,184
+"Concerto a-Moll (nach A. Vivaldi, op. 3 Nr. 8), BWV 593",3,11:47,707000,median,178,181
+"Concerto in C major, RV 554",3,11:47,707000,median,20,20
+"Sonata in C major, RV 801",4,11:47,707000,median,20,20
+"Violin Concerto in B-flat major, RV 370",3,11:47,707000,median,12,12
+"Sonata for Violin and Continuo in B minor, RV 37",4,11:46,706000,median,8,8
+"Violin Concerto in B minor, RV 386",3,11:45,705000,median,10,10
+"Concerto for Violin, Strings, and Continuo in F major, RV 287",3,11:44,704000,median,3,3
+"Sonata in D minor, op. 2 no. 3, RV 14",4,11:44,704000,median,84,84
+"Violin Concerto in B minor, RV 389",3,11:40,700000,median,12,12
+"Sonata for Cello and Continuo in F major, RV 41",4,11:38,698000,median,69,69
+"Sonata for Violin and Continuo in G major, RV 25",7,11:38,698000,median,20,20
+"Sonata in C major, op. 13 no. 5",6,11:38,698000,median,31,31
+"Violin Concerto in A major, op. 9 no. 6, RV 348",3,11:38,698000,median,31,34
+"Concerto for violin, cello, organ, strings & continuo in C major, RV 554a",3,11:37,697000,median,19,19
+"Concerto for Violin, Strings, and Continuo in B-flat major, RV 378R",3,11:36,696000,median,3,3
+"Violin Concerto in B minor, op. 9 no. 12, RV 391",3,11:35,695000,median,42,45
+"Violin Sonata in D major, RV 10",4,11:35,695000,median,12,12
+"Concerto for 2 violins, string orchestra and basso continuo in D minor, RV 514",3,11:33,693000,median,44,44
+"Sonata for Two Violins and Optional Continuo in G major, RV 71",3,11:33,693000,median,23,23
+"Concerto for Violin, Strings, and Continuo in D major, RV 222",3,11:31,691000,median,10,10
+"Concerto for Violin, Strings, and Continuo in D major, RV 772",3,11:31,691000,median,3,3
+"Concerto in G major for Two Mandolins, Strings and Continuo, RV 532",3,11:30,690000,median,177,177
+"Sonata for Violin and Continuo in D major, RV 11",4,11:30,690000,median,8,8
+"Concerto for Violin, Strings, and Continuo in A major, RV 763 ""L’Ottavina""",3,11:28,688000,median,3,3
+"Concerto for Violin, Strings, and Continuo in B minor, RV Anh. 108",4,11:27,687000,median,4,4
+"Concerto for 2 Oboes and Violin in F major, RV 574",3,11:26,686000,median,22,22
+"Credo in G major, RV 592",6,11:26,686000,median,8,8
+"Violin Concerto in G minor, RV 327",3,11:26,686000,median,9,9
+"Sonata for Violin and Continuo in A major, RV 758",4,11:24,684000,median,20,20
+"Violin Concerto in D minor, RV 235",3,11:23,683000,median,12,12
+"Sonata for Oboe and Continuo in C minor, RV 53",4,11:19,679000,median,51,55
+"Bassoon Concerto in C major, RV 477",3,11:18,678000,median,21,24
+"Concerto per violino in Do maggiore, RV 176",3,11:18,678000,median,3,3
+"Bassoon Concerto in C major, RV 475",3,11:17,677000,median,12,12
+"Concerto in A minor for Two Violins, Cello and Strings, op. 3 no. 8, RV 522, 'Con due Violini obligati'",3,11:16,676000,median,282,288
+"Sonata in G minor, RV 28",4,11:16,676000,median,24,24
+"Sonata for Violin and Continuo in C major, RV 815",3,11:15,675000,median,3,3
+"Concerto for Violin, Strings, and Continuo in A major, RV 343",3,11:14,674000,median,18,18
+"Bassoon Concerto in E minor, RV 484",3,11:13,673000,median,82,82
+"Cello Sonata in A minor, RV 44",4,11:13,673000,median,52,52
+"Concerto for 2 Violins in A minor, RV 523",3,11:13,673000,median,35,38
+"Clarae stellae, scintillate, RV 625",4,11:12,672000,median,28,28
+"Concerto for Cello, Strings & Continuo in A minor, RV 420",3,11:12,672000,median,36,36
+"Concerto for Violin, Strings and Continuo in D major, RV 217",3,11:12,672000,median,6,6
+Concerto in D minor,3,11:12,672000,median,3,3
+"Sonata in D minor, RV 12",4,11:12,672000,median,28,28
+"Bassoon Concerto in B-flat major, RV 502",3,11:10,670000,median,27,27
+Concerto for Clarinet and Orchestra no. 3 in F major “Il Mezzetino”,4,11:09,669000,median,4,4
+"Concerto for Violin, Strings, and Continuo in A major, RV 349",3,11:09,669000,median,9,9
+"Concerto for Violin, Strings, and Continuo in A major, RV 346",3,11:08,668000,median,9,9
+"Concerto for Violin, Strings, and Continuo in B-flat major, RV 380",3,11:07,667000,median,9,9
+"Concerto in D major for Viola d'Amore, Strings and Continuo, RV 392",3,11:07,667000,median,27,27
+"Sonata for Violin and Continuo in G major, RV Anh. 98",4,11:07,667000,median,4,4
+"Cantata for Soprano Voice and Continuo, RV 659 “Indarno cerca la tortorella”",3,11:05,665000,median,3,3
+"Concerto, op. 4 no. 10 in C minor",3,11:05,665000,median,6,6
+"Concerto for Violin, Strings, and Continuo in D minor, RV 240",3,11:04,664000,median,9,9
+"Concerto for Violin, Strings, and Continuo in G minor, RV 320",3,11:04,664000,median,6,6
+"Concerto in F major, op. 8 no. 3, RV 293 “L’autunno”",3,11:04,664000,median,1251,1285
+"Concerto in re maggiore per flauto traverso, oboe, violino, fagotto e basso continuo, op. 10 no. 3, RV 90 ""Il Gardellino""",3,11:04,664000,median,38,38
+"Flute Concerto in C minor, RV 441",3,11:04,664000,median,158,162
+"Concerto for Violin in E major, RV 268",3,11:02,662000,median,3,3
+"Concerto for Violin, Strings, and Continuo in G major, RV 302",3,11:02,662000,median,4,4
+"Concerto in D major, RV Anh. 102",3,11:02,662000,median,9,9
+"Concerto for Violin and Organ in F major, RV 542",3,11:01,661000,median,42,42
+"Concerto for Violin, Strings, and Continuo in A major, RV 344",3,11:01,661000,median,10,10
+"Violin Concerto in F major, RV 292",3,11:00,660000,median,11,11
+"Bassoon Concerto in C major, RV 469",3,10:59,659000,median,9,9
+"Concerto for Cello in F major, RV 410",3,10:59,659000,median,29,29
+"Concerto for Violin, Strings, and Continuo in E-flat major, RV 260",3,10:59,659000,median,15,15
+"Cello Sonata no. 5 in E minor, RV 40",4,10:58,658000,median,144,148
+"Concerto for 2 Violins in B-flat major, RV 529",3,10:58,658000,median,6,6
+"Concerto for Violin, Strings, and Continuo in E minor, RV 281",3,10:58,658000,median,9,9
+"Concerto in G major, BWV 980",3,10:58,658000,median,45,45
+"Sonata for Violin and Continuo in B minor, RV 760",4,10:58,658000,median,12,12
+"Sonata for Violin and Continuo in D major, RV 755",4,10:58,658000,median,12,12
+"Concerto for Bassoon, Strings, and Continuo in F major, RV 490",3,10:57,657000,median,9,9
+"Concerto for Violin and Strings in E minor, RV 432R",3,10:57,657000,median,3,3
+"Sonata for Violin and Continuo in E-flat major, RV 756",4,10:56,656000,median,12,12
+"Concerto for Two Violins, Strings, and Continuo in C major, RV 506",3,10:54,654000,median,6,6
+"Double Concerto in C major, RV 774",3,10:54,654000,median,6,6
+"Bassoon Concerto in A minor, RV 498",3,10:53,653000,median,44,47
+"Concerto d-Moll nach Antonio Vivaldi, op. 3 no. 11, BWV 596",4,10:53,653000,median,226,226
+"Concerto in C major, RV 184",3,10:53,653000,median,12,12
+"Violin Concerto in D major, op. 7 no. 11, RV 208a",3,10:53,653000,median,18,18
+"Violin Concerto in E-flat major, RV 251",3,10:53,653000,median,6,6
+"Concerto for Violin, Strings, and Continuo in D major, RV 213",3,10:52,652000,median,9,9
+"Orlando Furioso, RV 819",4,10:52,652000,median,5,5
+"Sonata for Recorder and Bassoon in A minor, RV 86",4,10:52,652000,median,76,76
+"Sonata for Violin and Continuo in C major, RV 4",4,10:52,652000,median,4,4
+"Violin Concerto in B-flat major, op. 7 no. 9, RV 373",3,10:52,652000,median,12,12
+"Concerto for Violin, Strings, and Continuo in F major, RV 289",3,10:51,651000,median,3,3
+"Violin Concerto in E major, op. 9 no. 4, RV 263a",3,10:51,651000,median,34,37
+"Concerto for Two Violins, Strings and Basso Continuo in B-flat major, RV 524",3,10:50,650000,median,36,36
+"Violin Concerto in B-flat major, op. 12 no. 6, RV 361",3,10:50,650000,median,21,21
+"Cantata for Alto voice and Continuo, RV 674 ""Perfidissimo cor""",4,10:49,649000,median,12,12
+"Cantata for Soprano Voice, Violin, Strings, and Continuo, RV 679 ""Che giova il sospirar povero core""",4,10:49,649000,median,28,28
+"Concerto for Oboe, Cello, Strings, and Continuo in G minor, RV 812",3,10:49,649000,median,6,6
+"L’Incoronazione di Dario, RV 719",3,10:49,649000,median,4,4
+"Bassoon Concerto in D minor, RV 481",3,10:48,648000,median,42,42
+"Concerto for 2 Oboes & 2 Clarinets in C major, RV 559",3,10:47,647000,median,23,23
+"Bassoon Concerto in C major, RV 470",3,10:45,645000,median,9,9
+"Concerto Grosso in G minor, op. 6 no. 8 “Christmas Concerto”",5,10:45,645000,median,524,531
+"Concerto for Bassoon and Orchestra no. 18 in C major, RV 467",3,10:45,645000,median,18,18
+"Concerto in A major, RV 585",3,10:45,645000,median,24,24
+"Cantata, RV 671 ""Cara selve, amici prati""",3,10:44,644000,median,13,13
+"Concerto for Violin in A major, RV 350",3,10:43,643000,median,6,6
+"Concerto for Violin in E major, RV 271 “L’amoroso”",3,10:43,643000,median,87,90
+"Concerto for Cello in C minor, RV 401",3,10:40,640000,median,85,85
+"Concerto “con molti stromenti” in C major, RV 558",3,10:39,639000,median,65,65
+"Concerto for 2 Violins, String Orchestra and Basso Continuo in D major, RV 512",3,10:38,638000,median,13,13
+"Concerto for Violin, Strings, and Continuo in F major, RV 295",3,10:38,638000,median,4,4
+"Bassoon Concerto in F major, RV 489",3,10:37,637000,median,12,12
+"Flautino Concerto in C major, RV 443",3,10:37,637000,median,235,236
+"Cantata for Soprano Voice and Continuo, RV 653 ""Del suo natio rigore""",4,10:35,635000,median,8,8
+"Concerto for Oboe, Strings, and Continuo in C major, RV 448",3,10:35,635000,median,15,15
+"Concerto for Two Horns in F major, RV 538",3,10:35,635000,median,28,28
+"Concerto in D major, RV 218",3,10:35,635000,median,3,3
+"Oboe Concerto in G minor, op. 11 no. 6, RV 460",3,10:34,634000,median,37,40
+"Concerto for Violin, Strings, and Continuo in D major, RV 225",3,10:33,633000,median,3,3
+"Concerto in E-flat major, RV 257",3,10:33,633000,median,18,18
+"Concerto per violoncello in mi bemolle maggiore, RV 408",3,10:33,633000,median,23,23
+"Concerto for Violin and Cello in F major, RV 544 ""Il Proteo o sia il mondo al rovescio""",3,10:32,632000,median,39,39
+"Concerto for Violin, Strings, and Continuo in A major, RV 341",3,10:32,632000,median,4,4
+"Violin Concerto in G minor, op. 6 no. 1, RV 324",3,10:32,632000,median,48,48
+"Concerto, op. 4 no. 6 in D minor",3,10:31,631000,median,9,9
+"Concerto for Lute in D major, RV 93",3,10:30,630000,median,268,271
+"Concerto for Violin, Strings, and Continuo in C major, RV 172",3,10:30,630000,median,3,3
+"Concerto for Violin & Organ, RV 808",3,10:29,629000,median,6,6
+"Concerto in A minor, RV 445",3,10:29,629000,median,78,78
+"Concerto in G minor, RV 576",3,10:29,629000,median,33,33
+Le Printems de Vivaldi arrangé pour une Flute sans accompagnement,3,10:29,629000,median,4,4
+"Sonata for Violin and Continuo in E minor, RV 17",4,10:29,629000,median,4,4
+"Cantata for Soprano Voice and Continuo, RV 658 ""Il povero mio cor""",3,10:28,628000,median,9,9
+"Sonata in A minor, op. 2 no. 12, RV 32",4,10:28,628000,median,45,45
+"Concerto for Cello in A minor, RV 418",3,10:27,627000,median,42,42
+"Violin Concerto in A major, op. 11 no. 3, RV 336",3,10:27,627000,median,27,27
+"Concerto for 2 Violins, 2 Cellos and Strings in D major, RV 564",3,10:26,626000,median,31,31
+"Concerto in B-flat major, RV 553",3,10:26,626000,median,31,34
+"Concerto, op. 4 no. 5 in A major",3,10:25,625000,median,3,3
+"Violin Concerto in D minor, op. 4 no. 8, RV 249",4,10:25,625000,median,72,79
+"Bassoon Concerto in C major, RV 471",3,10:24,624000,median,12,12
+"Bassoon Concerto in G major, RV 494",3,10:24,624000,median,15,15
+"Concerto for 2 oboes in D minor, RV 535",4,10:24,624000,median,79,83
+"Concerto for 2 violins, string orchestra and basso continuo in A major, RV 521",3,10:24,624000,median,20,20
+"Concerto for 3 violins in F major, RV 551",3,10:24,624000,median,72,75
+"Concerto in D minor, RV 243",3,10:24,624000,median,12,12
+"Credo in E minor, RV 591",4,10:24,624000,median,48,48
+"Concerto in C major, BWV 976",3,10:23,623000,median,61,61
+"Concerto in G minor, op. 8 no. 2, RV 315 “L’estate”",3,10:23,623000,median,1294,1325
+"Concerto in do maggiore per due violini, archi e basso continuo, RV 508",3,10:23,623000,median,15,15
+"Concerto for Violin, Strings, and Continuo in F major, RV 282",3,10:22,622000,median,9,9
+"Concerto for Cello in B minor, RV 424",3,10:21,621000,median,77,77
+"Concerto for Two Cellos in G minor, RV 531",3,10:21,621000,median,152,152
+"Concerto for Violin, Strings, and Continuo in A major, RV 340",3,10:20,620000,median,12,12
+"Cur sagittas, cur tela, RV 637",3,10:20,620000,median,6,6
+"Ottone in Villa, RV 729",2,10:20,620000,median,3,3
+"Concerto for 2 Violins, Strings, and Continuo in C major, RV 505",3,10:19,619000,median,6,6
+"Concerto per violino in Si bemole maggiore, RV 381",3,10:19,619000,median,6,6
+"Sonata for Cello and Continuo in B-flat major, RV 46",4,10:19,619000,median,110,113
+"Bassoon Concerto in A minor, RV 497",3,10:18,618000,median,53,53
+"Concerto per violino in Re minore, RV Anh. 10",5,10:18,618000,median,5,5
+"Bassoon Concerto in C major, RV 472",3,10:17,617000,median,30,33
+"Concerto for Violin, Strings, and Continuo in A major, RV 817",3,10:17,617000,median,3,3
+"Sonata in G minor, op. 2 no. 1, RV 27",4,10:17,617000,median,64,64
+"Concerto for Recorder, Oboe, Violin, Bassoon and Continuo in D, RV 94",3,10:16,616000,median,39,39
+"Cantata for Soprano Voice and Continuo, RV 652 ""Aure, voi più non siete""",4,10:15,615000,median,12,12
+"Concerto for Recorder, Violin and Continuo in D, RV 92",3,10:14,614000,median,45,45
+"Cantata for Soprano Voice, Flute, and Continuo, RV 678 ""All'ombra di sospett""",4,10:13,613000,median,48,50
+"Viola d'Amore Concerto in D minor, RV 394",3,10:13,613000,median,42,45
+"Concerto in G major, RV 575",3,10:12,612000,median,24,24
+"Concerto for Cello in G major, RV 414",3,10:11,611000,median,33,33
+"Concerto in G minor, op. 10 no. 2, RV 439 “La notte”",6,10:11,611000,median,556,563
+"Oboe Concerto in C major, RV 450",3,10:11,611000,median,46,49
+"Oboe Concerto in F major, RV 457",3,10:11,611000,median,60,60
+"Violin Concerto in A major, RV 335 ""The Cuckoo""",3,10:11,611000,median,24,24
+"Violin Concerto in E minor, op. 4 no. 2, RV 279",3,10:08,608000,median,51,51
+"Concerto per violino in la maggiore, RV 353",3,10:07,607000,median,12,12
+"Sonata for Violin and Continuo in C major, RV 754",4,10:07,607000,median,20,20
+"Concerto for Violin, Strings, and Continuo in A major, RV 335a ""Il rosignuolo""",3,10:05,605000,median,8,8
+"Trio Sonata in C major, RV 60",5,10:05,605000,median,20,20
+"Bassoon Concerto in B-flat major, RV 503",3,10:04,604000,median,12,12
+"Concerto in E major, op. 8 no. 1, RV 269 “La primavera”",3,10:04,604000,median,1461,1499
+"Sonata for Violin and Continuo in D major, RV 810",4,10:04,604000,median,8,8
+"Violin Concerto in B-flat major, op. 12 no. 5, RV 379",3,10:04,604000,median,24,24
+"Violin Concerto in G minor, op. 9 no. 3, RV 334",3,10:03,603000,median,36,42
+"Concerto in G major for Violin and Cello, RV 814",3,10:01,601000,median,4,4
+"Cantata for Alto voice, Strings, and Continuo, RV 683 “Amor hai vinto”",,14:23,863000,median,1,1
+"Concerto for Violin, 2 Oboes, 2 Horns, Bassoon and Cello in F major, RV 569",,13:22,802000,median,2,2
+"Keyboard Concerto no. 9 in G major after Antonio Vivaldi, BWV 980",,10:05,605000,median,1,1
+"La Folia (Madness) Concerto grosso, after Trio Sonata, op. 1 no. 12",,10:50,650000,median,2,2

@@ -1,0 +1,450 @@
+work,num_movements,duration,duration_ms,stat_used,count_with_length,count_total
+"Requiem in D minor, K. 626",100,6:30:29,23429000,median,1890,1932
+Don Giovanni,117,5:51:18,21078000,median,4505,4551
+"Le nozze di Figaro, K. 492",96,4:54:59,17699000,median,4012,4098
+Così fan tutte,86,3:47:11,13631000,median,2603,2624
+"Idomeneo, rè di Creta, K. 366",70,3:46:19,13579000,median,911,919
+Die Zauberflöte,77,3:40:41,13241000,median,3003,3069
+"Die Entführung aus dem Serail, K. 384",72,3:35:34,12934000,median,1038,1088
+"La finta giardiniera, K. 196",58,3:23:35,12215000,median,260,262
+"Die Gärtnerin aus Liebe, K. 196",55,3:00:51,10851000,median,52,52
+"Lucio Silla, K. 135",47,2:59:46,10786000,median,241,241
+"Mitridate, rè di Ponto, K. 74a/87",52,2:39:48,9588000,median,373,373
+"La finta semplice, K. 46a / KV 51",58,2:37:00,9420000,median,121,121
+"Der Messias, K. 572",60,2:31:48,9108000,median,188,188
+"Ascanio in Alba, K. 111",53,2:31:42,9102000,median,201,201
+"La clemenza di Tito, K. 621",53,2:18:25,8305000,median,755,765
+"Il rè pastore, K. 208",29,1:55:02,6902000,median,129,130
+Die Hochzeit des Figaro,45,1:51:43,6703000,median,213,213
+"Il sogno di Scipione, K. 126",25,1:38:36,5916000,median,59,59
+"Die Schuldigkeit des ersten Gebots in C major, K. 35",19,1:36:16,5776000,median,41,41
+"Missa in c-Moll, K.427/417a ('Große Messe')",19,1:33:13,5593000,median,562,563
+"Zaide, K. 336b/344 (fragment)",30,1:29:57,5397000,median,128,128
+"Das Alexander-Fest, K. 591",38,1:26:51,5211000,median,36,36
+"Apollo et Hyacinthus, K. 38",22,1:23:07,4987000,median,66,66
+"Mass no. 4 for Soloists, Chorus & Orchestra in C minor, K. 47a/139 ""Missa solemnis"", ""Waisenhausmesse""",25,1:19:52,4792000,median,121,121
+"Galimathias musicum for Harpsichord & Orchestra in D major, K. 32 ""Quodlibet""",17,1:16:42,4602000,median,59,63
+"La Betulia liberata, K. 74c/118",20,1:08:05,4085000,median,100,100
+Die Entführung aus dem Serail,20,1:06:52,4012000,median,95,95
+"Oratorio in F major, K. 74c/118 ""La Betulia liberata""",14,1:06:03,3963000,median,72,72
+"Mass no. 7 for Soloists, Chorus & Orchestra in C major, K. 167 ""Trinitatis Messe""",10,1:02:00,3720000,median,59,59
+Missa in C minor K. 427/417a,17,1:00:04,3604000,median,83,83
+"Quintet for Clarinet, 2 Violins, Viola & Cello in A major, K. 581 ""Stadler Quintet""",7,57:23,3443000,median,561,572
+"Serenade no. 7 for Orchestra in D major, K. 248b/250 ""Haffner""",8,53:50,3230000,median,302,305
+12 Variations on French Traditional,28,50:16,3016000,median,278,283
+"Divertimento no. 17 for 2 Horns & Strings in D major, K. 320b/334",7,48:07,2887000,median,211,211
+"Serenade no. 10 for 12 Winds & Contrabass in B‐flat major, K. 370a/361 “Gran partita”",7,48:03,2883000,median,625,626
+"Serenade in B-flat major, K. 370a/361 “Gran Partita”",7,47:11,2831000,median,13,13
+"Serenade no. 9 in D major, K. 320 ""Posthorn""",8,47:10,2830000,median,254,255
+"Ode auf St. Caecilia, K. 592",15,47:06,2826000,median,15,15
+"Requièm Mass in D minor, K. 626",15,46:49,2809000,median,15,15
+"Requiem, K. 626",14,46:41,2801000,median,59,59
+"Mass no. 3 for Soloists, Chorus & Orchestra in C major, K. 66 ""Dominicusmesse""",19,45:41,2741000,median,67,67
+"Davide penitente, K. 469",10,45:40,2740000,median,51,52
+"Requiem in D Minor, K. 626",14,45:11,2711000,median,14,14
+12 Variations on J. C. Fischer,14,44:52,2692000,median,21,21
+"L'oca del Cairo, K. 422 (Erik Smith reconstruction)",13,44:09,2649000,median,13,13
+Le nozze di Figaro,20,43:51,2631000,median,56,56
+"Divertimento for Violin, Viola & Cello in E-flat major, K. 563",6,43:46,2626000,median,144,144
+"Concerto for Piano no. 21 in C major, K. 467",4,41:58,2518000,median,845,867
+"Symphony no. 40 in G minor, K. 550 “Great”",7,41:57,2517000,median,1266,1296
+"Die Zauberflöte, K. 620",20,41:54,2514000,median,57,69
+"Thamos, König in Ägypten, K. 336a / KV 345",7,40:23,2423000,median,57,57
+"Violin Sonata in E-flat major, K. 481",11,40:19,2419000,median,117,117
+"Quartet for Piano no. 1 in G minor, K. 478",4,40:13,2413000,median,187,190
+"Serenade no. 3 for Orchestra in D major, K. 167a/185 ""Antretter""",7,39:19,2359000,median,61,61
+"Bastien und Bastienne, K.50",17,39:17,2357000,median,86,87
+"Missa in c-Moll, K. 427/417a ('Große Messe')",12,38:31,2311000,median,10,10
+9 Variations on Nicolas Dezède,12,38:22,2302000,median,25,25
+"Concerto for Piano no. 20 in D minor, K. 466",4,38:01,2281000,median,606,613
+"Serenade no. 4 for Orchestra in D major, K. 189b/203 ""Colloredo""",8,37:43,2263000,median,126,126
+"Divertimento no. 15 in B-flat major, K. 271H/K3 271b/287 ""Lodron Serenade no. 2""",6,37:12,2232000,median,118,118
+"20 Menuette, K. 61d/103",20,35:34,2134000,median,20,20
+"Serenade no. 5 for Orchestra in D major, K. 213a/204",7,35:31,2131000,median,60,60
+"Symphony After the Serenade in D major, K. 250",5,35:26,2126000,median,15,15
+12 Variations on Antoine-Laurent Baudron,15,35:11,2111000,median,33,33
+"Quintet for 2 Violins, 2 Violas & Cello no. 3 in C major, K. 515",4,35:06,2106000,median,178,182
+"Divertimento no. 2 for Flute, Oboe, Bassoon, 4 Horns & Strings in D major, K. 131",7,35:04,2104000,median,92,92
+"Litaniae de venerabili altaris sacramento, K. 243",9,34:43,2083000,median,71,71
+"Litaniae de venerabili altaris sacramento, K. 125",9,34:39,2079000,median,27,27
+"String Quintet no. 4 in G minor, K. 516",4,34:05,2045000,median,198,202
+"Concerto for Piano no. 22 in E-flat major, K. 482",3,33:59,2039000,median,235,241
+"Piano Concerto no. 25 in C major, KV. 503",3,33:47,2027000,median,3,3
+Grande Fantaisie in C minor,4,33:14,1994000,median,4,4
+"Divertimento no. 10 for 2 Horns, 2 Violins, Viola & Double Bass in F major, K. 247 ""Lodronische Nachtmusik""",6,32:52,1972000,median,157,157
+"Piano Concerto no. 20 in D minor, KV. 466",3,32:45,1965000,median,6,7
+"Symphony no. 39 for Orchestra in E-flat major, K. 543",5,32:44,1964000,median,612,648
+"Divertimento in E-flat major, K. Anh. C 17.04/Anh. 224",6,32:41,1961000,median,6,6
+"Grande Messe en Ut mineur, K. 427 (417a)",8,32:22,1942000,median,9,9
+"Quartet for Strings no. 18 in A major, K. 464 ""Haydn Quartetti""",4,32:18,1938000,median,172,180
+"Piano Concerto no. 24 in C minor, KV. 491",3,31:47,1907000,median,3,3
+"Symphony no. 41 for Orchestra in C major, K. 551 “Jupiter”",4,31:47,1907000,median,1102,1134
+"Concerto for Piano and Orchestra no. 23 in A major, K. 488",4,31:42,1902000,median,615,627
+"Concerto for Piano no. 9 in E-flat major, K. 271 “Jenamy”",3,31:33,1893000,median,352,361
+"Quintet for 2 Violins, 2 Violas and Cello no. 5 in D major, K. 593",5,31:29,1889000,median,123,127
+"Concerto for Piano no. 25 in C major, K. 503",3,31:14,1874000,median,3,3
+"Concerto for Piano no. 26 in D major, K. 537 “Coronation”",3,31:08,1868000,median,210,216
+"Concerto for Piano and Orchestra no. 25 in C major, K. 503",3,31:07,1867000,median,267,273
+"16 Minuets for Orchestra, K. 176",16,31:01,1861000,median,33,33
+"Sinfonia concertante for Violin, Viola and Orchestra in E-flat major, K. 364/320d",3,30:51,1851000,median,339,354
+"Concerto for Piano no. 27 in B-flat major, K. 595",3,30:45,1845000,median,365,369
+8 Variations on Der dumme Gärtn,11,30:33,1833000,median,27,27
+Grande Fantaisie in F minor,3,30:28,1828000,median,3,3
+"Sinfonia concertante in E-flat major for Oboe, Clarinet, Horn, Bassoon & Orchestra, K. 297b / K. Anh.C 14.01",3,30:28,1828000,median,175,181
+"Three Movements for Piano Trio, K. 442",3,30:23,1823000,median,3,3
+"Quartet for Strings no. 19 in C major, K. 465 ""Haydn Quartetti"", ""Dissonance""",4,30:12,1812000,median,302,302
+"Concerto for Piano no. 24 in C minor, K. 491",3,29:59,1799000,median,374,383
+"Mass no. 13 for Soloists, Chorus & Orchestra in C major, K. 246a/262 ""Missa longa""",6,29:59,1799000,median,36,36
+"Concerto for Piano no. 18 in B-flat major, K. 456 ""Paradis""",3,29:39,1779000,median,162,162
+"Concerto for Piano no. 17 in G major, K. 453 ""Second Ployer""",3,29:34,1774000,median,401,412
+"Symphony no. 40 for Orchestra without clarinets in G minor, K. 550 “Great”",4,29:33,1773000,median,50,51
+"Symphony no. 36 for Orchestra in C major, K. 425 “Linz”",4,29:31,1771000,median,410,449
+"Quartet for Strings no. 14 in G major, K. 387 “Haydn Quartetti”, “Spring”",4,29:11,1751000,median,220,224
+"Concerto for Piano no. 26 in D major, K. 537 ""Coronation""",3,29:01,1741000,median,4,4
+"Quartet for Piano no. 2 in E-flat major, K. 493",3,28:59,1739000,median,133,133
+"Violin Concerto in E minor, K. 470a",3,28:54,1734000,median,6,6
+"Concerto for Violin and Orchestra no. 5 in A major, K. 219 “Turkish”",3,28:46,1726000,median,499,512
+"Concerto for Clarinet in A major, K. 622",3,28:26,1706000,median,765,782
+"Symphony After the Serenade in D major, K. 185",4,28:24,1704000,median,8,8
+"Vesperae de Dominica for Soloists, Chorus & Orchestra in C major, K. 321",6,28:22,1702000,median,67,67
+"Antiphon for Soprano, Chorus & Orchestra in C major, K. 74d/108",5,28:19,1699000,median,41,41
+"Concerto in C major for Flute, Harp & Orchestra, K. 297c/299",3,28:11,1691000,median,427,445
+"Litaniae Lauretanae B.M.V., K. 186d/195",5,28:07,1687000,median,43,43
+"Violin Sonata in F major, K. 374e/377",10,27:59,1679000,median,138,138
+"Divertimento no. 7 for 2 Horns, Bassoon & Strings in D major, K. 167A/205",7,27:55,1675000,median,97,97
+"Symphony no. 38 for Orchestra in D major, K. 504 ""Prague""",3,27:48,1668000,median,3,3
+"Symphony no. 38 for Orchestra in D major, K. 504 “Prague”",3,27:46,1666000,median,400,411
+"12 Minuets for Orchestra, K. 585",12,27:41,1661000,median,26,26
+"Concerto for Violin and Orchestra no. 7 in D major, K. 271i/K2 271a",3,27:39,1659000,median,55,58
+"Cadenza for Sinfonia concertante for Violin, Viola and Orchestra in E-flat major, K. 364/320d",3,27:29,1649000,median,3,3
+"Concerto for Piano and Orchestra no. 19 in F major, K. 459",3,27:27,1647000,median,208,211
+"Concertone for 2 Violins & Orchestra in C major, K. 186E/190",3,27:27,1647000,median,103,106
+"Quartet for Strings no. 15 in D minor, K. 417b/421 ""Haydn Quartetti""",4,27:21,1641000,median,228,228
+"Sinfonia concertante in E-flat major for Oboe, Flute, Horn, Bassoon & Orchestra, K. 297B/Anh 9",3,27:12,1632000,median,17,17
+Symphonie no. 39 en mi bémol majeur K 543 (arr. of Mozart by Hummel),4,27:09,1629000,median,4,4
+"Concerto for Piano no. 19 in F major, K. 459",3,27:07,1627000,median,3,3
+"Quartet for Strings no. 16 in E-flat major, K. 421b/428 ""Haydn Quartetti""",4,27:06,1626000,median,182,186
+"Quartet for Strings no. 23 in F major, K. 590 ""Quartetti Prussian""",4,27:06,1626000,median,139,139
+"12 Minuets for Orchestra, K. 568",12,27:02,1622000,median,26,26
+"Concerto for Violin and Piano in D major, K. 315f/Anh. 56",3,26:50,1610000,median,9,9
+"Sonata for Piano with 4 Hands in F major, K. 497",3,26:48,1608000,median,67,67
+"Quintet for 2 Violins, 2 Violas and Cello no. 1 in B-flat major, K. 174",4,26:43,1603000,median,95,95
+"Symphony After the Serenade in D major, K. 203",4,26:41,1601000,median,8,8
+"Serenade no. 1 for Orchestra in D major, K. 62a/100",8,26:28,1588000,median,60,68
+"Missa in C, K. 257 “Credo”",6,26:21,1581000,median,42,42
+"Concerto for Piano no. 13 in C major, K. 387b/415",3,26:10,1570000,median,172,181
+"Quartet for Strings no. 20 in D major, K. 499 ""Hoffmeister""",4,26:03,1563000,median,108,108
+"Quartet for Strings no. 17 in B-flat major, K. 458 ""Haydn Quartetti"", ""Hunt""",4,26:02,1562000,median,243,251
+"Vesperae solennes de confessore, K. 339",6,25:48,1548000,median,287,303
+"Great Mass in C minor, K. 427",5,25:46,1546000,median,12,12
+"Missa in C, K. 317 “Krönungs-Messe”",6,25:35,1535000,median,334,343
+"Violin Sonata in F major, K. 547 ""For Beginners""",10,25:35,1535000,median,80,81
+"Piano Concerto no. 10 in E-flat major, K. 365",3,25:10,1510000,median,3,3
+"Trio for Piano no. 2 in G major, K. 496",3,25:06,1506000,median,61,61
+"Concerto for Flute and Orchestra in G major, K. 313/285c",3,25:04,1504000,median,340,352
+"Concerto for Piano no. 12 in A major, K. 385p / K3 386a / KV 414",3,24:55,1495000,median,259,262
+"Symphony After the Serenade in D major, K. 204",4,24:48,1488000,median,4,4
+"Quintet for 2 Violins, 2 Violas and Cello no. 6 in E-flat major, K. 614",4,24:42,1482000,median,104,108
+"Concerto for 2 Pianos & Orchestra no. 10 in E-flat major, K. 316a/365",3,24:33,1473000,median,195,201
+"Concerto for Piano and Orchestra no. 15 in B-flat major, K. 450",3,24:33,1473000,median,152,155
+"Quintet for Piano, Oboe, Clarinet, Horn & Bassoon in E-flat major, K. 452",3,24:31,1471000,median,155,155
+"Serenade no. 11 for Winds in E-flat major, K. 375",5,24:15,1455000,median,137,137
+"Cassation for Orchestra in G major, K. 63",7,24:14,1454000,median,54,54
+"Quintet for 2 Violins, 2 Violas and Cello no. 2 in C minor, K. 516b / 406",4,24:08,1448000,median,124,128
+"Divertimento no. 11 for Oboe, 2 Horns & Strings in D major, K. 251 ""Nannerl Septet""",6,24:05,1445000,median,164,170
+"Symphony no. 29 for Orchestra in A major, K. 186a / 201",4,24:00,1440000,median,470,483
+"Sonata for Piano with 4 Hands in C major, K. 521",3,23:57,1437000,median,68,68
+"Symphony no. 40 in G minor, K. 550 ""Great""",4,23:54,1434000,median,4,4
+Nonetto,3,23:51,1431000,median,3,3
+"12 German Dances for Orchestra, K. 586",12,23:48,1428000,median,82,82
+"Concerto for Violin and Orchestra no. 6 in E-flat major, K. 268/365b/Anh. C. 14.04",3,23:47,1427000,median,25,29
+"Sonata for Piano no. 15 in F major, K. 533",3,23:47,1427000,median,247,254
+"Cantata on the Holy Grave of Christ for Soloists, Choir & Orchestra in C major, K. 35a/42 ""Grabmusik""",8,23:43,1423000,median,37,38
+"Violin Sonata in A major, K. 293d/305",9,23:43,1423000,median,83,83
+"Piano Concerto no. 10 in E-flat major, KV. 365",3,23:40,1420000,median,9,9
+"Quartet for Strings no. 21 in D major, K. 575 ""Quartetti Prussian""",4,23:38,1418000,median,161,161
+"Quintet no. 2 in C minor, K. 516b/406",4,23:38,1418000,median,8,8
+"Sonata for 2 Pianos in D major, K. 375a/448",3,23:34,1414000,median,167,170
+"Cadenza to Piano Concerto no. 27, K. 595",2,23:19,1399000,median,6,6
+"Quintet in C minor, K. 516b (arr.)",4,23:19,1399000,median,4,4
+"Concerto for Violin and Orchestra no. 3 in G major, K. 216 “Straßburg”",3,23:18,1398000,median,523,533
+"Parthia für Bläser F-Dur, K. Anh. C 17.05/Anh. 225",4,23:18,1398000,median,8,8
+The Magic Flute,7,23:16,1396000,median,44,44
+"Violin Sonata in A major, K. 526",3,23:14,1394000,median,122,125
+"Quartet for Strings no. 22 in B-flat major, K. 589 ""Quartetti Prussian""",4,23:11,1391000,median,153,153
+"Concerto for Violin and Orchestra no. 4 in D major, K. 218",3,23:08,1388000,median,447,466
+"Divertimento in B-flat major, K. Anh.229/439b no. 3",5,23:03,1383000,median,5,5
+"Serenade no. 12 for Winds in C minor, K. 384a/388 ""Nacht musique""",4,23:02,1382000,median,196,197
+8 Variations on André Ernest Modeste Grétry,10,23:01,1381000,median,17,17
+"Cassation, K. Anh. C 17.11",5,23:01,1381000,median,5,5
+"Concerto for Piano no. 16 in D major, K. 451",3,22:59,1379000,median,102,111
+Dorfmusikantensextett von Mozart,5,22:58,1378000,median,4,4
+"Symphony After the Serenade in D major, K. 320",3,22:54,1374000,median,3,3
+"12 Menuette, K. 61d/103",12,22:51,1371000,median,24,24
+"Concerto for 3 (or 2) Pianos and Orchestra no. 7 in F major, K. 242 “Lodron”",3,22:49,1369000,median,113,122
+"String Quintet in B-flat major, K. 46",4,22:48,1368000,median,8,8
+"Der Schauspieldirektor, K. 486",5,22:39,1359000,median,71,77
+"Divertimento No. 3 for 3 Basset Horns, K. 439b/3/KV Anh 229/3",5,22:31,1351000,median,5,5
+"Trio for Piano no. 3 in B-flat major, K. 502",3,22:31,1351000,median,76,79
+"Cassation for Orchestra in B-flat major, K. 63a/99",7,22:22,1342000,median,53,53
+"Les petits riens, K. 299b",15,22:15,1335000,median,139,139
+"Symphony no. 20 in D major, K. 133",4,22:15,1335000,median,81,81
+"Twelve duos for 2 Horns in C major, K. 496a/487 ""Kegelduette""",12,22:15,1335000,median,82,82
+"Concerto for Piano and Orchestra no. 8 in C major, K. 246 “Lutzow”",3,22:13,1333000,median,122,125
+"Quartet in F major, K. 496",3,22:13,1333000,median,13,13
+"Concerto for Piano no. 11 in F major, K. 387a/413",3,22:11,1331000,median,126,129
+"Violin Sonata in D major, K. 300l/306",3,22:06,1326000,median,89,92
+"Violin Sonata in B-flat major, K. 454",3,22:01,1321000,median,182,182
+"Concerto for Piano no. 14 in E‐flat major, K. 449 “First Ployer”",3,21:51,1311000,median,195,198
+"Sonata for Piano no. 13 in B-flat major, K. 315c/333",3,21:48,1308000,median,327,338
+"Symphony no. 25 for Orchestra in G minor, K. 173dB/183 ""Little G Minor""",4,21:45,1305000,median,300,308
+"Missa in C, K. 337 “Solemnis”",6,21:42,1302000,median,57,57
+"Concerto for Violin and Orchestra in D ""Adelaide"", K. Anh. C 14.05/Anh. 294a",3,21:40,1300000,median,15,15
+"Mass no. 6 for Soloists, Chorus & Orchestra in F major, K. 186f/192 ""Missa brevis""",6,21:38,1298000,median,39,39
+"Symphony no. 31 in D major, K. 300a/297 ""Paris""",4,21:38,1298000,median,202,205
+"Symphony no. 33 for Orchestra in B-flat major, K. 319",4,21:29,1289000,median,237,245
+"Concerto for Piano and Orchestra no. 5 in D major, K. 175",3,20:57,1257000,median,97,100
+"Divertimento in B-flat major, K.Anh.229/439b no. 3",5,20:50,1250000,median,63,63
+"Symphony no. 34 in C major, K. 338",3,20:30,1230000,median,142,145
+"Concerto for Violin and Orchestra no. 1 in B-flat major, K. 207",3,20:22,1222000,median,228,237
+"Trio for Piano no. 5 in C major, K. 548",3,20:18,1218000,median,63,66
+"Oboe Concerto in C major, K. 314 / 271k",3,20:13,1213000,median,265,271
+"Trio for Piano no. 1 in B-flat major, K. 254",3,20:10,1210000,median,54,54
+"Concerto for Piano and Orchestra no. 6 in B-flat major, K. 238",3,20:09,1209000,median,112,118
+"Divertimento (no. 7) in B-flat major, K. deest",6,20:01,1201000,median,7,7
+"Trio for Clarinet, Viola & Piano in E-flat major, K. 498 ""Kegelstatt""",3,20:00,1200000,median,122,125
+"Concerto for Violin and Orchestra no. 2 in D major, K. 211",3,19:59,1199000,median,266,266
+"Sextet in E-flat major, K. Anh. 183",4,19:53,1193000,median,4,4
+"Symphony no. 18 in F major, K. 130",4,19:53,1193000,median,97,97
+"Concerto for Oboe no. 2 in D major, K. 271k (reconstruction from K. 285d/314)",3,19:49,1189000,median,3,3
+"Concerto for Flute no. 2 in D major, K. 285d/314",3,19:46,1186000,median,287,294
+"Idomeneo, K. 366",5,19:45,1185000,median,12,12
+La Clemenza di Tito,6,19:43,1183000,median,6,6
+"Sketches of a Ballet Intermezzo, K. 299c / KV deest (Erik Smith completion)",8,19:42,1182000,median,8,8
+"Sonata for Piano no. 14 in C minor, K. 457",3,19:37,1177000,median,344,353
+"Cadenza to Piano Concerto no. 19, K. 459",2,19:22,1162000,median,2,2
+"Mass no. 14 for Soloists, Chorus & Orchestra in B-flat major, K. 272b/275 ""Missa brevis""",6,19:20,1160000,median,71,71
+"Concerto for Cello and Orchestra in D major, K. 447",3,19:17,1157000,median,3,3
+"Missa brevis in D major, K. 186h/194",6,19:17,1157000,median,61,61
+"Symphony no. 14 in A major, K. 114",5,19:16,1156000,median,80,80
+"Symphony no. 35 for Orchestra in D major, K. 385 “Haffner”",4,19:16,1156000,median,634,644
+"Symphony no. 28 in C major, K. 189k/200",4,19:15,1155000,median,197,197
+"Violin Sonata in B-flat major, K. 317d/378",3,19:12,1152000,median,160,160
+"Trio for Piano no. 4 in E major, K. 542",3,19:01,1141000,median,74,77
+"Symphony no. 19 in E-flat major, K. 132",4,19:00,1140000,median,108,108
+"Music to a Pantomime for Orchestra in D major, K. 416d / KV 446 (Franz Beyer completion)",5,18:46,1126000,median,5,5
+"Sonata for Piano no. 12 in F major, K. 300k/332",3,18:41,1121000,median,353,363
+"Idomeneo, re di Creta, K. 366",11,18:40,1120000,median,13,13
+"Mass no. 1 for Soloists, Chorus & Orchestra in G major, K. 47d/49 ""Missa brevis""",6,18:34,1114000,median,18,18
+"Symphony no. 21 in A major, K. 134",4,18:34,1114000,median,113,113
+"Violin Sonata in E-flat major, K. 374f/380",3,18:34,1114000,median,99,99
+"Sonata for Piano no. 7 in C major, K. 284b/309",3,18:28,1108000,median,184,187
+"Divertimento in E-flat major, K. Anh. C 17.01/Anh. 226",5,18:24,1104000,median,30,30
+Harmoniemusik on Mozart’s “Le nozze di Figaro”,6,18:22,1102000,median,12,12
+"Sonata for Piano no. 10 in C major, K. 300h/330",3,18:19,1099000,median,368,375
+"Concerto for Bassoon in B-flat major, K. 186e/191",3,18:09,1089000,median,273,283
+"Symphony no. 30 in D major, K. 186b/202",4,18:00,1080000,median,124,125
+"Sonata for Piano no. 8 in A minor, K. 300d/310",3,17:54,1074000,median,402,405
+"Il dissoluto punito, ossia il Don Giovanni, K. 527",20,17:53,1073000,median,13,13
+"Sonata for Piano no. 17 in B-flat major, K. 570",3,17:39,1059000,median,318,324
+"Cadenza to Concerto for 2 Pianos, K. 365",2,17:38,1058000,median,2,2
+6 Variations on Antonio Salieri,8,17:33,1053000,median,20,20
+"Lo sposo deluso, ossia La rivalità di tre donne per un solo amante, K. 424a/430 (Erik Smith Completion)",4,17:20,1040000,median,4,4
+"Serenade no. 13 for Strings in G major, K. 525 „Eine kleine Nachtmusik“",4,17:17,1037000,median,1537,1602
+"Violin Sonata in G major, K. 373a/379",2,17:06,1026000,median,88,90
+"Divertimento in B-flat major, K. Anh. 229/439b no. 2",5,17:05,1025000,median,81,81
+"Laut verkünde unsre Freude, K. 623",5,17:05,1025000,median,35,39
+"Mass no. 9 for Soloists, Chorus & Orchestra in C major, K. 196b/220 ""Missa brevis"", ""Spatzenmesse""",6,16:59,1019000,median,63,63
+"Sonata for Piano no. 3 in B-flat major, K. 189f/281",3,16:58,1018000,median,196,196
+"Symphony After the Serenade in D major, K. 100",5,16:52,1012000,median,10,10
+"7 Menuette, K. 61b",7,16:50,1010000,median,16,16
+"Sonata for Piano no. 11 in A major, K. 300i/331 “Alla Turca”",3,16:48,1008000,median,947,976
+"Quartet for Strings no. 3 in G major, K. 134b/156 ""Quartetti Milanesi""",4,16:47,1007000,median,53,53
+"Violin Sonata in F major, K. 374d/376",3,16:47,1007000,median,126,126
+"Mass no. 11 for Soloists, Chorus & Orchestra in C major, K. 258 ""Missa brevis"", ""Spaurmesse""",6,16:46,1006000,median,36,36
+"Quintet for Horn, Violin, 2 Violas and Cello in E-flat major, K. 386c/407",3,16:46,1006000,median,122,125
+"Divertimento No. 2 for 3 Basset Horns, K. 439b/2/KV Anh 229/2",4,16:42,1002000,median,4,4
+"Missa brevis in G major, K. Anh. C 1.12/140",6,16:40,1000000,median,30,30
+"Fantasia no. 4 in C minor, KV 475",5,16:35,995000,median,23,23
+"Concerto for Piano no. 1 in F major, K. 37",3,16:31,991000,median,61,61
+"Divertimento for 2 Horns & Strings in F major, K. 522 ""Ein musikalischer Spaß""",3,16:28,988000,median,95,101
+"Sonata for Piano no. 9 in D major, K. 284c/311",3,16:24,984000,median,217,226
+"Concerto for Horn no. 4 in E-flat major, K. 495",3,16:22,982000,median,331,339
+"Violin Sonata in C major, K. 296",3,16:20,980000,median,113,113
+"Divertimento no. 16 for 2 Oboes, 2 Bassoons & 2 Horns in E-flat major, K. 289/271g",4,16:14,974000,median,27,27
+"Sonata for Piano no. 5 in G major, K. 189h/283",3,16:12,972000,median,247,249
+"Bassoon Concerto in B‐flat major, K. 191/186e",3,16:08,968000,median,3,3
+"Symphony no. 12 in G major, K. 75b/110",4,16:07,967000,median,77,77
+"Trio for Piano no. 6 in G major, K. 564",3,16:01,961000,median,80,80
+"Duo for Violin & Viola no. 1 in G major, K. 423",3,16:00,960000,median,42,42
+Sérénade KV 286 « Notturno » ,3,15:55,955000,median,3,3
+"Quartet for Strings no. 13 in D minor, K. 173 ""Quartetti Vienna""",4,15:52,952000,median,46,46
+The Marriage of Figaro,5,15:40,940000,median,82,82
+"Serenade no. 8 in D major, K. 269a/286 ""Notturno for Four Orchestras""",3,15:35,935000,median,40,40
+"Exsultate, jubilate, K. 158a/165",5,15:31,931000,median,271,272
+"Symphony for Orchestra in B-flat major, K. Anh C 11.03/K3 74g/Anh 216",4,15:30,930000,median,20,20
+"Symphony no. 27 in G major, K. 161b / K3 162a / 199",3,15:10,910000,median,96,96
+"Quartet for Strings no. 12 in B-flat major, K. 172 ""Quartetti Vienna""",4,15:09,909000,median,45,45
+"Concerto for Horn no. 3 in E-flat major, K. 447",3,15:07,907000,median,320,329
+"Quartet for Flute, Violin, Viola & Cello no. 3 in C major, K. 285b/Anh 171",2,15:05,905000,median,128,128
+"Sonata for Piano with 4 Hands in B-flat major, K. 186c/358",3,15:03,903000,median,49,52
+"6 Minuets for Orchestra, K. 599",6,14:59,899000,median,21,21
+"Divertimento No. 6 for 2 Clarinets, 2 Horns & Bassoon, K. deest (spurious)",5,14:57,897000,median,13,13
+"Concerto for Violin, Piano and Orchestra in D major, K. Anh. 56/315f",1,14:55,895000,median,2,2
+"Sonata for Piano no. 2 in F major, K. 189e/280",3,14:55,895000,median,235,236
+"Trio in B-flat major, K. 271f/266",2,14:54,894000,median,4,4
+Concerto for Bassoon and Orchestra in B-flat major,3,14:53,893000,median,4,4
+"Quartet for Strings no. 1 in G major, K. 73f/80 ""Quartetti Milanesi"", ""Lodi""",4,14:53,893000,median,67,67
+"Duo in G major, KV 423",3,14:50,890000,median,3,3
+"Duet for 2 Flutes, K. Anh. 156 no. 2",3,14:47,887000,median,3,3
+"Violin Sonata in G major, K. 9",3,14:41,881000,median,24,24
+"Quartet for Oboe, Violin, Viola & Cello in F major, K. 368b/370",3,14:36,876000,median,176,179
+"Sonata for Piano no. 18 in D major, K. 576 ""Trumpet"", ""Hunt""",3,14:33,873000,median,325,328
+"Quartet for Strings no. 11 in E-flat major, K. 171 ""Quartetti Vienna""",4,14:32,872000,median,45,45
+"Sonata for Piano with 4 Hands in D major, K. 123a/381",3,14:31,871000,median,66,69
+"Variations in G major on “La bergère Célimène”, K359",12,14:30,870000,median,36,36
+La Flûte enchantée ,4,14:29,869000,median,6,6
+"Larghetto and Variations, op. 164",2,14:28,868000,median,2,2
+"Quartet for Strings no. 9 in A major, K. 169 ""Quartetti Vienna""",4,14:27,867000,median,51,51
+"Quartet for Strings no. 10 in C major, K. 170 ""Quartetti Vienna""",4,14:25,865000,median,48,48
+"Sextett B-dur, K. Anh. C 17.09",5,14:25,865000,median,5,5
+"Antiphon for Soprano, Chorus & Orchestra in B-flat major, K. 127 ""Regina coeli""",3,14:23,863000,median,16,16
+"Sonata for Piano no. 1 in C major, K. 189d/279",3,14:23,863000,median,182,183
+"Quartet for Strings no. 5 in F major, K. 158 ""Quartetti Milanesi""",3,14:22,862000,median,37,37
+"Concerto for Piano no. 2 in B-flat major, K. 39",3,14:21,861000,median,58,58
+"Symphony no. 6 in F major, K. 43",4,14:10,850000,median,92,96
+"Divertimento in B-flat major, K. Anh. 229/439b no. 1",5,14:09,849000,median,71,71
+"Quartet for Flute, Violin, Viola & Cello no. 1 in D major, K. 285",3,14:09,849000,median,207,213
+6 Variations on Giovanni Paisiello,8,14:05,845000,median,35,35
+"Missa brevis in C major, K. 259",6,14:03,843000,median,51,51
+"Recitative and Aria for Soprano and Orchestra in F major, K. 368",2,14:00,840000,median,4,4
+7 Variations on Dutch Traditional,9,13:59,839000,median,20,20
+"Quartet for Strings no. 8 in F major, K. 168 ""Quartetti Vienna""",4,13:47,827000,median,53,53
+"Sonata for Piano no. 4 in E-flat major, K. 189g/282",3,13:43,823000,median,265,268
+"Sonata for Piano no. 6 in D major, K. 205b/284 ""Dürnitz""",4,13:41,821000,median,256,263
+"Symphony no. 43 in F major, K. 42a/76",4,13:38,818000,median,55,55
+"Mass no. 2 for Soloists, Chorus & Orchestra in D minor, K. 61a/65 ""Missa brevis""",6,13:37,817000,median,25,25
+"Duet for 2 Flutes, K. Anh. 157 no. 1",3,13:36,816000,median,3,3
+"Concerto for Horn no. 2 in E-flat major, K. 417",3,13:35,815000,median,283,295
+"Symphony no. 2 in B-flat major, K. 17",4,13:34,814000,median,8,8
+"9 Variations for Piano in D major on a Menuet by Duport, K. 573",10,13:32,812000,median,63,64
+"Symphony no. 42 in F major, K. 75",4,13:32,812000,median,60,60
+"Concerto after J. C. Bach no. 1 in D major, K. 107 no. 1",3,13:29,809000,median,37,37
+"Cantata for Tenor, Men's Chorus & Orchestra in E-flat major, K. 471",3,13:28,808000,median,11,12
+"Ballet Music for Idomeneo, rè di Creta in D major, K. 367",2,13:26,806000,median,11,11
+"Divertimento in B-flat major, K. Anh. 229/439b no. 4",5,13:21,801000,median,61,61
+"Ganz kleine Nachtmusik, K. 648",7,13:18,798000,median,23,23
+"Divertimento no. 9 for 2 Oboes, 2 Horns & 2 Bassoons in B-flat major, K. 240",4,13:15,795000,median,61,61
+"Violin Sonata in C major, K. 6",4,13:14,794000,median,23,24
+"Violin Sonata in G major, K. 293a/301",2,13:11,791000,median,90,90
+"Concerto for Piano no. 4 in G major, K. 41",3,13:10,790000,median,59,63
+"Variations on a Theme by Gluck, K. 455",11,13:08,788000,median,55,55
+"Concerto for Piano no. 3 in D major, K. 40",3,13:07,787000,median,56,56
+Sonate in B für Violoncello (Fagott) und Klavier nach KV 292 (196c),3,13:07,787000,median,3,3
+"Duet for 2 Flutes, K. Anh. 157 no. 2",2,13:05,785000,median,2,2
+"Symphony no. 13 in F major, K. 112",4,13:05,785000,median,96,96
+"Sechs deutsche Tänze, K. 509",6,13:00,780000,median,34,34
+"Symphony no. 8 in D major, K. 48",4,12:56,776000,median,100,100
+"Thamos, König in Ägypten, KV 345",3,12:56,776000,median,5,5
+"Duet for 2 Flutes, K. Anh. 156 no. 3",2,12:55,775000,median,2,2
+"Serenade no. 6 in D major, K. 239 “Serenata notturna”",3,12:53,773000,median,262,268
+"Antiphon for Soprano, Chorus & Orchestra in B-flat major, K. 127",2,12:52,772000,median,3,3
+"Divertimento for Wind Ensemble in B-flat major, K. Anh. C 17.02/(K3) 196f/Anh. 227",5,12:51,771000,median,35,35
+"Symphony no. 15 in G major, K. 124",4,12:51,771000,median,76,76
+Ornamentation Cadenza for Johann Christian Bach,1,12:50,770000,median,1,1
+Symphony in A minor “Odense”,3,12:48,768000,median,6,6
+"Adagio and Rondo for Glass Harmonica, Flute, Oboe, Viola & Cello in C minor, K. 617",2,12:47,767000,median,34,34
+"Sonata for Piano no. 16 in C major, K. 545 “Sonata semplice”",3,12:46,766000,median,14,14
+"Sonata for Bassoon and Cello in B-flat major, K. 196c/292",3,12:44,764000,median,15,15
+"Violin Sonata in E minor, K. 300c/304",2,12:38,758000,median,107,107
+"Divertimento for String Quartet in D major, K. 125a/136 “Salzburg Symphony no. 1”",3,12:37,757000,median,264,272
+"Symphony no. 16 in C major, K. 128",3,12:37,757000,median,91,91
+"Aria for Soprano & Orchestra in B-flat major, K. 73e/77",1,12:36,756000,median,6,6
+"Quartet for Strings no. 6 in B-flat major, K. 159 ""Quartetti Milanesi""",3,12:35,755000,median,39,39
+"6 German Dances for Orchestra, K. 600",6,12:33,753000,median,70,72
+"Symphony in B-flat major, K. 45b / Anh 214",4,12:32,752000,median,68,68
+"Symphony in E-flat major, op. 7 no. 6",3,12:30,750000,median,17,17
+"Duo for Violin & Viola no. 2 in B-flat major, K. 424",3,12:29,749000,median,57,57
+"Symphony no. 1 in E-flat major, K. 16",3,12:29,749000,median,90,93
+"Divertimento no. 1 for 2 Clarinets, 2 Horns & Strings in E-flat major, K. 113",4,12:28,748000,median,41,41
+"Violin Sonata in F major, K 55",3,12:26,746000,median,3,3
+"Symphony no. 46 in C major, K. 111b/96",4,12:22,742000,median,57,57
+"Violin Sonata in C major, K. 403/385c",3,12:19,739000,median,21,21
+"Symphony in F major, K. 19a / Anh 223",3,12:18,738000,median,48,51
+8 Variations on Chr. E. Graaf,10,12:14,734000,median,24,24
+"6 Minuets for Orchestra, K. 130a/164",6,12:13,733000,median,17,17
+"Adagio and Rondo in C minor, K. 617",2,12:12,732000,median,4,4
+"Duet for 2 Flutes, K. Anh. 157 no. 3",2,12:03,723000,median,2,2
+"Suite in C major/C minor, K. 399/385i",4,12:01,721000,median,44,45
+"6 Minuets for Orchestra, K. 61f/105",6,12:00,720000,median,12,12
+"Quartet for Strings no. 4 in C major, K. 157 ""Quartetti Milanesi""",3,11:59,719000,median,49,49
+"Konzertrondo für Klavier und Orchester D-Dur, KV 382",3,11:58,718000,median,16,16
+"Symphony no. 17 in G major, K. 129",3,11:58,718000,median,67,67
+"Duet for 2 Flutes, K. Anh. 156 no. 1",2,11:57,717000,median,2,2
+"Aria for Tenor and Orchestra in B-flat major, K. 295 (first version)",1,11:56,716000,median,1,1
+"Divertimento no. 3 for Wind Ensemble in E-flat major, K. 159d/166",5,11:55,715000,median,50,50
+"6 Minuets for Orchestra, K. 61e/104",6,11:53,713000,median,12,12
+"Symphony no. 9 in C major, K. 75a/73",4,11:52,712000,median,102,102
+"Violin Sonata in E-flat major, K. 293b/302",2,11:52,712000,median,39,39
+Horn Concerto no. '0' in E-flat major,2,11:49,709000,median,4,4
+"Divertimento for String Quartet in B-flat major, K. 125b/137 ""Salzburg Symphony no. 2""",3,11:47,707000,median,168,169
+"Recitative and Aria for Soprano and Orchestra in G major, K. 61c/70",2,11:47,707000,median,2,2
+"Divertimento No. 5 for 3 Basset Horns, K. 439b/5/KV Anh 229/5",5,11:46,706000,median,5,5
+"Divertimento in B-flat major, K.Anh.229/439b no. 5",5,11:43,703000,median,51,51
+"Aria for Tenor & Orchestra in B-flat major, K. 295",1,11:41,701000,median,7,7
+"6 Minuets for Orchestra, K. 61h/deest",6,11:40,700000,median,13,13
+"Violin Sonata in B-flat major, K. 10",3,11:37,697000,median,29,29
+"Litaniae Lauretanae, K. 74e/109",5,11:29,689000,median,25,25
+"Violin Sonata in E minor, K 60",2,11:27,687000,median,3,3
+"Recitative and Aria for Soprano & Orchestra in C minor, K. 272",1,11:24,684000,median,29,29
+"Symphony no. 45 in D major, K. 73n/95",4,11:19,679000,median,65,65
+"Violin Sonata in A major, K. 385e/402",2,11:19,679000,median,15,15
+"Symphony no. 7a in G major, K. 45a/Anh 221 ""Alte Lambacher""",3,11:18,678000,median,55,55
+"Symphony no. 7 in D major, K. 45",4,11:16,676000,median,84,84
+"Divertimento no. 12 for 2 Oboes, 2 Horns & 2 Bassoons in E-flat major, K. 240a/252",4,11:14,674000,median,71,71
+"Symphony no. 50 in D major, K. 141a",4,11:13,673000,median,35,38
+"Divertimento no. 14 for 2 Oboes, 2 Horns & 2 Bassoons in B-flat major, K. 270",4,11:12,672000,median,100,100
+"Prelude (Fantasia) and Fugue in C major, K. 394 (383a)",1,11:11,671000,median,1,1
+"Sonata for Piano with 4 Hands in C major, K. 19d/deest",3,11:10,670000,median,43,46
+"Violin Sonata in D major, K. 7",3,11:04,664000,median,15,15
+"Divertimento no. 4 for Wind Ensemble in B-flat major, K. 159b/186",5,10:58,658000,median,60,60
+"Quartet for Flute, Violin, Viola & Cello no. 4 in A major, K. 298",3,10:58,658000,median,157,161
+"Violin Sonata in F major, K. 13",3,10:54,654000,median,41,41
+"6 Minuets for Orchestra, K. 448a/461",5,10:48,648000,median,18,18
+"Divertimento in B-flat major, K. Anh. 229/439b no. 5",5,10:47,647000,median,5,5
+"Dixit et Magnificat, K. 193/186g",2,10:46,646000,median,11,11
+"Divertimento for String Quartet in F major, K. 125c/138 ""Salzburg Symphony no. 3""",3,10:44,644000,median,203,203
+"Quartet for Strings no. 7 in E-flat major, K. 159a/160 ""Quartetti Milanesi""",3,10:43,643000,median,37,37
+Divertimento in B-flat,5,10:37,637000,median,5,5
+Trio No. 2,4,10:37,637000,median,4,4
+"Divertimento no. 8 for 2 Oboes, 2 Horns & 2 Bassoons in F major, K. 213",4,10:36,636000,median,71,71
+"Recitative and Aria for Soprano & Orchestra in C major, K. 300b/316",2,10:32,632000,median,4,4
+"Prelude & Fugue for Violin, Viola, & Bass no. 4 in F major, K. 404a/deest",2,10:25,625000,median,6,6
+"Dir, Seele des Weltalls, K. 468a/429",3,10:19,619000,median,13,16
+"Sonata for Violin & Piano no. 27 in G major, K. 373a/379",7,10:17,617000,median,37,37
+"6 German Dances for Orchestra, K. 571",6,10:08,608000,median,56,56
+"Larghetto and Allegro, K. deest",2,10:06,606000,median,2,2
+"Violin Sonata in C major, K 56",3,10:03,603000,median,3,3
+"Violin Sonata in C major, K. 293c/303",2,10:03,603000,median,43,43
+"Ballet Music for Idomeneo, rè di Creta, K. 367",3,10:01,601000,median,15,15
+"Recitative and Aria for Soprano, Piano & Orchestra in E-flat major, K. 505",1,10:01,601000,median,55,55
+"Symphony no. 44 in D major, K. 73l/81",3,10:01,601000,median,49,49
+"Sonata for Violin & Piano no. 38 in C major, K. 385c/403",2,10:00,600000,median,9,9
+"10 Variations on ""Unser dummer Pöbel meint"", K.455",,13:26,806000,median,21,21
+12 Variations for Piano on “Je suis Lindor”,,11:48,708000,median,4,4
+"12 Variations for Violin & Piano in G major, K. 374a/359 ""La bergère Célimene""",,14:02,842000,median,9,9
+"8 Minuets for Clavier, K. 315a/315g",,15:08,908000,median,1,1
+"Cadenza for the First Movement of the Piano Concerto in A major (K. 488), K. 626aI/61, KV 624/31",,11:16,676000,median,2,2
+Dies Irae (Amadeus),,11:15,675000,median,1,1
+Divertimento in B-flat (2),,10:49,649000,median,1,1
+"Fantasia for Mechanical Organ in F minor, BV B 91",,10:04,604000,median,7,8
+"Fantasia in F minor, K. 608",,13:29,809000,median,1,1
+"Offertorium ""Salve Regina"", K. deest",,11:33,693000,median,1,1
+"Quintet Movement in F major, K. 580b/Anh. 90",,11:41,701000,median,4,4
+"Rondo in A minor, K. 511. Andante",,10:11,611000,median,101,103
+"Sinfonia concertante in E-flat major for Oboe, Clarinet, Horn, Bassoon and Orchestra, K. Anh. 9 / Anh. C 14.01",,16:16,976000,median,2,3
+"Six Variations on Original Theme, K. Anh. 137",,10:36,636000,median,1,1
+"Sonata in a Major, K. 331 Andante Grazioso Theme and Variations I, III, IV, V, VI",,12:03,723000,median,1,1
+"Symphony no. 2 in B-flat major, LMV VII:B6",,11:07,667000,median,1,1
+"Theme, Variations and Rondo Pastorale",,10:52,652000,median,3,3
+"Three Trio Movements for Clavier, Violin and Violoncello, K. 442",,10:31,631000,median,1,1

@@ -1,0 +1,550 @@
+work,num_movements,duration,duration_ms,stat_used,count_with_length,count_total
+"Goldberg Variations, BWV 988",125,5:22:15,19335000,median,322,322
+"Markus-Passion, BWV 247",157,4:51:12,17472000,median,158,158
+"The Well-Tempered Clavier, Book II",72,4:41:59,16919000,median,3918,3924
+"The Well-Tempered Clavier, Book I",89,4:13:06,15186000,median,5482,5520
+"Matthäus-Passion, BWV 244",125,4:04:38,14678000,median,5345,5571
+"Die Kunst der Fuge, BWV 1080",56,4:03:00,14580000,median,2018,2038
+"Goldberg-Variationen, BWV 988",92,3:28:40,12520000,median,7953,8123
+"St. Matthew Passion, BWV 244",79,3:01:06,10866000,median,88,88
+"Johannes-Passion, BWV 245",81,2:42:28,9748000,median,3147,3301
+"Weihnachts-Oratorium, BWV 248",68,2:33:35,9215000,median,3658,3802
+St. Matthew Passion,59,2:03:46,7426000,median,57,57
+"Lukas Passion, BWV 246",103,1:51:43,6703000,median,214,214
+"Matthäus-Passion, BWV 244 (1841 Version)",41,1:51:40,6700000,median,41,41
+"h-Moll-Messe, BWV 232",27,1:50:02,6602000,median,2286,2334
+"Goldberg-Variationen, BWV 988, BV B 35",32,1:33:46,5626000,median,42,42
+"Johannes-Passion, BWV 245.1",31,1:20:30,4830000,median,62,62
+"Aria, BWV 1127 ""Alles mit Gott und nichts ohn' ihn""",12,1:14:16,4456000,median,16,16
+"Köthener Trauermusik, BWV 244a",24,1:13:50,4430000,median,52,52
+"Preludes and Fugues by J. S. Bach, S. 462",18,1:08:46,4126000,median,74,74
+"Musikalisches Opfer, BWV 1079",17,50:44,3044000,median,699,733
+Musical Offering,17,48:13,2893000,median,17,17
+"Oster-Oratorium, BWV 249",12,47:46,2866000,median,221,223
+"Kantate, BWV 201 ""Geschwinde, ihr wirbelnden Winde""",15,47:10,2830000,median,121,121
+11 Movements from the Sonatas and Partitas,11,46:18,2778000,median,11,11
+"Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”",18,45:44,2744000,median,340,342
+"Kantate, BWV 213 ""Laßt uns sorgen, laßt uns wachen""",13,45:09,2709000,median,94,94
+"Kantate, BWV 146 ""Wir müssen durch viel Trübsal""",9,43:07,2587000,median,69,69
+"Sinfonia in F major, BWV 1046a",7,40:57,2457000,median,22,22
+"Violin Partita no. 2 in D minor, BWV 1004",8,40:17,2417000,median,969,983
+"Concerto d-Moll nach Antonio Vivaldi, op. 3 no. 11, BWV 596",12,39:38,2378000,median,238,238
+"Kantate, BWV 21 ""Ich hatte viel Bekümmernis""",11,39:34,2374000,median,185,185
+"Kantate, BWV 206 ""Schleicht, spielende Wellen, und murmelt gelinde!""",11,39:06,2346000,median,77,77
+"Kantate, BWV 205 ""Zerreißet, zersprenget, zertrümmert die Gruft""",15,38:54,2334000,median,137,138
+"Kantate, BWV 194 ""Höchsterwünschtes Freudenfest""",12,38:53,2333000,median,80,80
+"Kantate, BWV 21.3 ""Ich hatte viel Bekümmernis""",11,38:50,2330000,median,11,11
+"Orchestral Suite no. 2 in B minor, BWV 1067",10,38:19,2299000,median,29,32
+"Motette, BWV 1083 ""Tilge, Höchster, meine Sünden""",14,37:42,2262000,median,126,126
+"Ouvertüre nach französischer Art h-Moll, BWV 831",11,37:41,2261000,median,687,687
+"Kantate, BWV 21.2 ""Ich hatte viel Bekümmernis""",11,37:32,2252000,median,11,11
+"Orchestersuite Nr. 1 C-Dur, BWV 1066",11,37:12,2232000,median,653,660
+"Kantate, BWV 134a ""Die Zeit, die Tag und Jahre macht""",8,36:09,2169000,median,24,24
+"Kantate, BWV 30.2 ""Freue dich, erlöste Schar""",12,35:27,2127000,median,115,115
+"Kantate, BWV 198 ""Laß, Fürstin, laß noch einen Strahl""",10,35:16,2116000,median,159,159
+"Kantate, BWV 30.1 ""Angenehmes Wiederau""",13,34:40,2080000,median,52,52
+"St Matthew Passion, BWV 244",5,34:03,2043000,median,10,10
+"Kantate, BWV 207 ""Vereinigte Zwietracht der wechselnden Saiten""",11,33:51,2031000,median,56,56
+"Magnificat Es-Dur, BWV 243a",16,33:48,2028000,median,220,221
+"Magnificat D-Dur, BWV 243",14,33:22,2002000,median,660,696
+"Kantate, BWV 76 ""Die Himmel erzählen die Ehre Gottes""",14,33:03,1983000,median,130,131
+"Kantate, BWV 210 ""O holder Tag, erwünschte Zeit""",10,32:44,1964000,median,82,92
+"Kantate, BWV 207a ""Auf, schmetternde Töne der muntern Trompeten""",11,32:40,1960000,median,48,48
+"Englische Suite Nr. 6 d-Moll, BWV 811",8,32:33,1953000,median,330,330
+"Kantate, BWV 215 ""Preise dein Glücke, gesegnetes Sachsen""",9,32:33,1953000,median,54,54
+"Brandenburgisches Konzert Nr. 1 F-Dur, BWV 1046",6,32:00,1920000,median,722,731
+"Suite no. 3 in C major, BWV 1009",9,31:44,1904000,median,25,25
+"Kantate, BWV 127 ""Herr Jesu Christ, wahr' Mensch und Gott""",7,31:37,1897000,median,61,61
+"Messe A-Dur, BWV 234",6,31:22,1882000,median,110,110
+"Partita no. 4 in D major, BWV 828",7,31:21,1881000,median,655,669
+"Partita no. 1 in B minor, BWV 1002",8,31:16,1876000,median,16,16
+"Partita no. 6 in E minor, BWV 830",7,30:56,1856000,median,632,639
+"Kantate, BWV 12 ""Weinen, Klagen, Sorgen, Zagen""",8,30:41,1841000,median,130,131
+"Sonata no. 1 in G minor, BWV 1001",8,30:37,1837000,median,17,17
+"Kantate, BWV 75 ""Die Elenden sollen essen""",14,30:27,1827000,median,132,132
+"Kantate, BWV 147 „Herz und Mund und Tat und Leben“",10,30:22,1822000,median,327,344
+"Kantate, BWV 204 ""Ich bin in mir vergnügt""",8,30:18,1818000,median,50,50
+"Suite no. 6 in D major, BWV 1012",7,30:18,1818000,median,26,26
+"Kantate, BWV 113 ""Herr Jesu Christ, du höchstes Gut""",9,30:12,1812000,median,49,49
+"Kantate, BWV 212 ""Mer hahn en neue Oberkeet""",24,29:55,1795000,median,422,446
+"O angenehme Melodei, BWV 210a",10,29:45,1785000,median,10,10
+"Kantate, BWV 92 ""Ich hab in Gottes Herz und Sinn""",9,29:42,1782000,median,75,75
+"Kantate, BWV 120.2 ""Herr Gott, Beherrscher aller Dinge""",8,29:36,1776000,median,21,21
+"Kantate, BWV 80 ""Ein feste Burg ist unser Gott""",9,29:17,1757000,median,187,196
+"Suite for Violin and Harpsichord in A major, BWV 1025",7,29:14,1754000,median,57,57
+"Suite für Violoncello solo no. 6 D-Dur, BWV 1012",6,29:10,1750000,median,891,905
+"Kantate, BWV 66 ""Erfreut euch, ihr Herzen""",6,29:09,1749000,median,49,49
+"Kantate, BWV 36 “Schwingt freudig euch empor”",8,29:07,1747000,median,116,116
+"Cello Suite no. 6 in D major, BWV 1012",6,29:03,1743000,median,11,11
+"Suite für Violoncello solo no. 5 c-Moll, BWV 1011",7,28:57,1737000,median,928,940
+"Violin Sonata no. 2 in A minor, BWV 1003",5,28:55,1735000,median,457,461
+"Kantate, BWV 115 ""Mache dich, mein Geist, bereit""",7,28:39,1719000,median,68,68
+"Kantate, BWV 131 ""Aus der Tiefen rufe ich, Herr, zu dir""",6,28:32,1712000,median,108,108
+"Kantate, BWV 197 ""Gott ist unsre Zuversicht""",10,28:30,1710000,median,75,75
+"Suite no. 5 in C minor, BWV 1011",7,28:30,1710000,median,27,27
+"Violin Partita no. 1 in B minor, BWV 1002",8,28:30,1710000,median,949,950
+"Suite for Lute in G minor, BWV 995",7,28:28,1708000,median,203,203
+"Himmelfahrts-Oratorium, BWV 11",11,28:18,1698000,median,210,210
+"Suite no. 4 in E-flat major, BWV 1010",7,28:13,1693000,median,20,20
+"Kantate, BWV 186 ""Ärgre dich, o Seele, nicht""",11,27:59,1679000,median,78,78
+"Messe g-Moll, BWV 235",6,27:57,1677000,median,102,102
+"Kantate, BWV 182 ""Himmelskönig, sei willkommen""",8,27:54,1674000,median,130,130
+"Kantate, BWV 110 ""Unser Mund sei voll Lachens""",8,27:53,1673000,median,103,103
+"Orchestersuite Nr. 4 D-Dur, BWV 1069",7,27:50,1670000,median,440,454
+"Kantate, BWV 63 ""Christen, ätzet diesen Tag""",7,27:46,1666000,median,105,105
+"Messe G-Dur, BWV 236",6,27:15,1635000,median,111,111
+"Kantate, BWV 7 ""Christ unser Herr zum Jordan kam""",8,27:12,1632000,median,61,61
+"Cello Suite no. 5 in C minor, BWV 1011",7,27:04,1624000,median,7,7
+"Kantate, BWV 134 ""Ein Herz, das seinen Jesum lebend weiß""",6,27:02,1622000,median,50,50
+"Kantate, BWV 78 ""Jesu, der du meine Seele""",8,27:02,1622000,median,147,149
+"Passacaglia and Fugue in C minor, BWV 582",4,27:02,1622000,median,114,115
+"Kantate, BWV 42 ""Am Abend aber desselbigen Sabbats""",7,26:57,1617000,median,70,70
+"Englische Suite Nr. 1 A-Dur, BWV 806",8,26:41,1601000,median,350,352
+"Kantate, BWV 211 ""Schweigt stille, plaudert nicht""",10,26:41,1601000,median,196,206
+"Violin Sonata no. 4 in D minor, BWV 1004",5,26:39,1599000,median,5,5
+"Cello Suite no. 3 in C major, BWV 1009",6,26:36,1596000,median,6,6
+"Kantate, BWV 20, ""O Ewigkeit, du Donnerwort""",11,26:34,1594000,median,91,91
+"Orchestersuite Nr. 2 h-Moll, BWV 1067",9,26:28,1588000,median,1169,1194
+"Messe F-Dur, BWV 233",6,26:18,1578000,median,112,112
+"Kantate, BWV 94 ""Was frag ich nach der Welt""",8,26:16,1576000,median,49,49
+"Kantate, BWV 97 ""In allen meinen Taten""",9,26:14,1574000,median,56,56
+St John Passion,9,26:12,1572000,median,10,10
+"Kantate, BWV 140 “Wachet auf, ruft uns die Stimme”",7,26:11,1571000,median,257,257
+"Partita no. 2 in D minor, BWV 1004",5,26:09,1569000,median,10,10
+"Kantate, BWV 101 ""Nimm von uns, Herr, du treuer Gott""",7,25:59,1559000,median,53,53
+"Englische Suite Nr. 2 a-Moll, BWV 807",7,25:58,1558000,median,405,407
+"Partita in E minor, BWV 1002",8,25:55,1555000,median,16,16
+"Kantate, BWV 41 ""Jesu, nun sei gepreiset""",6,25:49,1549000,median,56,56
+"Kantate, BWV 106 ""Gottes Zeit ist die allerbeste Zeit""",8,25:48,1548000,median,259,259
+"Kantate, BWV 35 ""Geist und Seele wird verwirret""",7,25:48,1548000,median,129,135
+"Mein Odem ist schwach, BWV 222",6,25:39,1539000,median,6,6
+"English Suite No. 1 in A Major, BWV 806",9,25:33,1533000,median,9,9
+"Kantate, BWV 33 ""Allein zu dir, Herr Jesu Christ""",7,25:31,1531000,median,66,66
+"Suite E-Dur, BWV 1006.2",7,25:03,1503000,median,210,212
+"Suite no. 2 in D minor, BWV 1008",8,25:02,1502000,median,20,20
+"Kantate, BWV 214 ""Tönet, ihr Pauken! Erschallet, Trompeten!""",9,24:57,1497000,median,63,63
+"Kantate, BWV 49 ""Ich geh und suche mit Verlangen""",6,24:53,1493000,median,67,67
+"Kantate, BWV 36.1 ""Schwingt freudig euch empor""",9,24:40,1480000,median,37,37
+"Kantate, BWV 114 ""Ach lieben Christen, seid getrost""",7,24:23,1463000,median,45,45
+"Suite no. 1 in G major, BWV 1007",8,24:12,1452000,median,21,21
+"Englische Suite Nr. 5 e-Moll, BWV 810",7,24:11,1451000,median,272,274
+"Kantate, BWV 188 ""Ich habe meine Zuversicht""",6,24:07,1447000,median,36,36
+"Kantate, BWV 199 ""Mein Herze schwimmt im Blut""",8,24:05,1445000,median,209,209
+"Denn du wirst meine Seele nicht in der Hölle lassen, BWV 15",10,24:04,1444000,median,11,21
+"Kantate, BWV 177 ""Ich ruf zu dir, Herr Jesu Christ""",5,24:00,1440000,median,48,48
+"Orchestersuite Nr. 3 D-Dur, BWV 1068",6,23:55,1435000,median,1202,1229
+"Suite für Violoncello solo no. 4 Es-Dur, BWV 1010",6,23:55,1435000,median,871,888
+"Kantate, BWV 109 ""Ich glaube, lieber Herr, hilf meinem Unglauben""",6,23:50,1430000,median,42,42
+"Kantate, BWV 70 ""Wachet! betet! betet! wachet!""",11,23:49,1429000,median,129,130
+"Englische Suite Nr. 4 F-Dur, BWV 809",7,23:41,1421000,median,269,269
+"Concerto for Harpsichord, Strings & Continuo No. 1 in D Minor, BWV 1052 (Arr. for two Guitars and Orchestra)",3,23:39,1419000,median,3,3
+"Kantate, BWV 169 ""Gott soll allein mein Herze haben""",7,23:34,1414000,median,131,138
+"Kantate, BWV 129 ""Gelobet sei der Herr""",6,23:31,1411000,median,44,44
+"Kantate, BWV 119 ""Preise, Jerusalem, den Herrn""",9,23:26,1406000,median,66,66
+"Kantate, BWV 57 ""Selig ist der Mann""",8,23:26,1406000,median,97,97
+"Suite no. 6 D-Dur, BWV 1012",5,23:26,1406000,median,89,89
+"Violin Sonata no. 3 in C major, BWV 1005",4,23:21,1401000,median,484,488
+"Brandenburgisches Konzert Nr. 6 B-Dur, BWV 1051",4,23:13,1393000,median,518,529
+"Kantate, BWV 3 ""Ach Gott, wie manches Herzeleid""",6,23:13,1393000,median,37,37
+"Kantate, BWV 125 ""Mit Fried und Freud ich fahr dahin""",6,23:06,1386000,median,45,45
+"Kantate, BWV 180 ""Schmücke dich, o liebe Seele""",7,23:03,1383000,median,96,96
+"Kantate, BWV 105 ""Herr, gehe nicht ins Gericht mit deinem Knecht""",6,23:02,1382000,median,75,75
+"Kantate, BWV 29 ""Wir danken dir, Gott, wir danken dir""",8,22:59,1379000,median,90,91
+"Cello Suite solo no. 1 major, BWV 1007",6,22:53,1373000,median,6,6
+"Erwählte Pleißenstadt, BWV 216.2",7,22:52,1372000,median,14,14
+"Suite E-Dur, BWV 1006a",7,22:52,1372000,median,169,169
+"Konzert für Orgel, Oboen, Streicher und Basso Continuo D-moll",3,22:51,1371000,median,3,3
+"Kantate, BWV 1 “Wie schön leuchtet der Morgenstern”",6,22:48,1368000,median,88,88
+"Keyboard Concerto in D minor, BWV 1052",3,22:45,1365000,median,458,464
+"Partita in C minor, BWV 997.1",5,22:43,1363000,median,127,127
+"Violin Partita no. 3 in E major, BWV 1006",7,22:40,1360000,median,201,201
+"Suite no. 4 Es-Dur, BWV 1010",6,22:33,1353000,median,129,129
+"Suite no. 5 c-Moll, BWV 1011",6,22:33,1353000,median,108,114
+"Kantate, BWV 102 ""Herr, deine Augen sehen nach dem Glauben""",7,22:31,1351000,median,72,72
+"Sonata in G minor, BWV 1030b",4,22:29,1349000,median,29,29
+"Kantate, BWV 170 ""Vergnügte Ruh! beliebte Seelenlust!""",5,22:26,1346000,median,138,142
+"Kantate, BWV 209 ""Non sa che sia dolore""",5,22:22,1342000,median,80,80
+"Concerto in D minor, BWV 1052",3,22:18,1338000,median,3,3
+"Kantate, BWV 32 ""Liebster Jesu, mein Verlangen""",6,22:18,1338000,median,57,58
+"Kantate, BWV 39 ""Brich dem Hungrigen dein Brot""",7,22:18,1338000,median,72,72
+"Brandenburgisches Konzert Nr. 3 G-Dur, BWV 1048",5,22:15,1335000,median,612,629
+"Suite für Violoncello solo no. 3 C-Dur, BWV 1009",6,22:11,1331000,median,836,855
+"Kantate, BWV 184 ""Erwünschtes Freudenlicht""",6,22:07,1327000,median,43,43
+"Suite in C minor, BWV 997",5,21:58,1318000,median,208,208
+"Suite no. 3 C-Dur, BWV 1009",6,21:50,1310000,median,198,205
+"Englische Suite Nr. 3 g-Moll, BWV 808",7,21:42,1302000,median,453,453
+"Kantate, BWV 13 ""Meine Seufzer, meine Tränen""",6,21:41,1301000,median,58,58
+"Kantate, BWV 82a ""Ich habe genug""",5,21:39,1299000,median,105,105
+"Concerto for Flute, Violin, Harpsichord, Strings and Continuo in A minor, BWV 1044 ""Triple Concerto""",3,21:34,1294000,median,201,201
+"Kantate, BWV 74 ""Wer mich liebet, der wird mein Wort halten""",8,21:33,1293000,median,70,70
+"Sarabande h-Moll, BWV 990",16,21:33,1293000,median,49,49
+"Violin Concerto in D minor, BWV 1052R",3,21:31,1291000,median,82,82
+"Kantate, BWV 187 ""Es wartet alles auf dich""",7,21:30,1290000,median,60,60
+"Sonata for Flute & Keyboard in B minor, BWV 1030",4,21:30,1290000,median,188,191
+"Kantate, BWV 100 ""Was Gott tut, das ist wohlgetan""",6,21:28,1288000,median,49,51
+"Kantate, BWV 202 ""Weichet nur, betrübte Schatten""",9,21:24,1284000,median,282,296
+"Kantate, BWV 181 ""Leichtgesinnte Flattergeister""",7,21:23,1283000,median,37,37
+"Violin Sonata no. 1 in G minor, BWV 1001",4,21:19,1279000,median,4,4
+"Kantate, BWV 183 ""Sie werden euch in den Bann tun""",6,21:16,1276000,median,38,38
+"Sonata no. 3 in C major, BWV 1005",4,21:16,1276000,median,104,108
+"Suite in E-flat major, BWV 1010",7,21:16,1276000,median,8,8
+"Kantate, BWV 5 ""Wo soll ich fliehen hin""",7,21:15,1275000,median,53,53
+"Violin Partita no. 3 in E major, BWV 1006.1/1006",7,21:12,1272000,median,945,961
+"Kantate, BWV 117 ""Sei Lob und Ehr dem höchsten Gut""",9,21:09,1269000,median,57,57
+"Fantasia and Fugue in G minor, BWV 542",3,21:06,1266000,median,5,5
+"Kantate, BWV 175 ""Er rufet seinen Schafen mit Namen""",8,21:06,1266000,median,58,58
+"Brandenburgisches Konzert Nr. 5 D-Dur, BWV 1050",3,21:04,1264000,median,703,719
+"Partita no. 5 in G major, BWV 829",7,21:03,1263000,median,583,591
+"Kantate, BWV 174 „Ich liebe den Höchsten von ganzem Gemüte“",5,21:02,1262000,median,44,44
+"Partita no. 1 in B-flat major, BWV 825",7,21:00,1260000,median,848,857
+"Sonata a-Moll nach Johann Adam Reincken, BWV 965",7,20:59,1259000,median,66,66
+"Concerto in D minor, BWV 1052R",3,20:56,1256000,median,8,8
+"Violin Sonata no. 5 in C major, BWV 1005",4,20:54,1254000,median,4,4
+"Kantate, BWV 68 ""Also hat Gott die Welt geliebt""",6,20:53,1253000,median,61,67
+"Kantate, BWV 31 ""Der Himmel lacht! die Erde jubilieret""",9,20:51,1251000,median,92,101
+"Kantate, BWV 47 ""Wer sich selbst erhöhet, der soll erniedriget werden""",5,20:51,1251000,median,41,41
+"Suite in C minor, BWV 1011",7,20:49,1249000,median,8,8
+"Jesu, meine Freude, BWV 227",11,20:44,1244000,median,408,417
+"Kantate, BWV 120.1 ""Gott, man lobet dich in der Stille""",6,20:35,1235000,median,37,37
+"Kantate, BWV 10 ""Meine Seel erhebt den Herren""",7,20:30,1230000,median,86,86
+"Kantate, BWV 123 ""Liebster Immanuel, Herzog der Frommen""",6,20:27,1227000,median,39,39
+"Partita no. 2 in C minor, BWV 826",6,20:26,1226000,median,627,633
+"English Suite No. 2 in A Minor, BWV 807",6,20:24,1224000,median,12,12
+"Suite in D major, BWV 1012",7,20:23,1223000,median,15,15
+"Kantate, BWV 179 ""Siehe zu, daß deine Gottesfurcht nicht Heuchelei sei""",7,20:21,1221000,median,51,51
+"Kantate, BWV 9 ""Es ist das Heil uns kommen her""",7,20:17,1217000,median,57,58
+"Kantate, BWV 4 ""Christ lag in Todesbanden""",8,20:13,1213000,median,215,223
+"Wer sucht die Pracht, wer wünscht den Glanz, BWV 221",9,20:04,1204000,median,9,9
+"Sonata no. 2 in B minor, BWV 1002",4,20:02,1202000,median,4,4
+"Suite für Violoncello solo no. 2 d-Moll, BWV 1008",6,20:00,1200000,median,946,968
+"Sonata in D minor, BWV 964",4,19:58,1198000,median,99,99
+"Kantate, BWV 178 ""Wo Gott der Herr nicht bei uns hält""",7,19:57,1197000,median,57,57
+"Kantate, BWV 43 ""Gott fähret auf mit Jauchzen""",11,19:57,1197000,median,103,103
+"Kantate, BWV 69 ""Lobe den Herrn, meine Seele""",6,19:48,1188000,median,36,36
+"Kantate, BWV 193 ""Ihr Tore zu Zion""",6,19:47,1187000,median,13,13
+"Kantate, BWV 19 ""Es erhub sich ein Streit""",7,19:45,1185000,median,82,83
+"Orchestersuite Nr. 5 g-Moll, BWV 1070",5,19:45,1185000,median,40,40
+"Kantate, BWV 87 ""Bisher habt ihr nichts gebeten in meinem Namen""",7,19:38,1178000,median,57,64
+"Keyboard Concert for Piano & Strings in D minor after BWV 1052, BV B 28",3,19:35,1175000,median,9,9
+"Keyboard Concerto no. 2 in E major, BWV 1053",3,19:35,1175000,median,207,207
+Preludes and Fugues from Bach's Well-Tempered Clavier,5,19:24,1164000,median,6,6
+"Sonata no. 3 in A minor, BWV 1003",4,19:24,1164000,median,4,4
+"Partite diverse sopra ""Sei gegrüßet, Jesu gütig"", BWV 768.2",12,19:23,1163000,median,335,335
+"Kantate, BWV 93 ""Wer nur den lieben Gott läßt walten""",7,19:22,1162000,median,67,70
+"Partita no. 3 in A minor, BWV 827",7,19:22,1162000,median,564,571
+"Kantate, BWV 133 ""Ich freue mich in dir""",6,19:21,1161000,median,77,77
+"Kantate, BWV 121 ""Christum wir sollen loben schon""",6,19:20,1160000,median,69,69
+"Kantate, BWV 161 ""Komm, du süße Todesstunde""",6,19:18,1158000,median,90,90
+"Kantate, BWV 173a ""Durchlauchtster Leopold""",8,19:18,1158000,median,49,49
+"Kantate, BWV 157 ""Ich lasse dich nicht, du segnest mich denn!""",5,19:15,1155000,median,32,32
+"Concerto in F major for Oboe, Strings and Basso Continuo",3,19:14,1154000,median,3,3
+"Kantate, BWV 56 ""Ich will den Kreuzstab gerne tragen""",5,19:14,1154000,median,150,155
+"Suite no. 2 d-Moll, BWV 1008",6,19:12,1152000,median,183,183
+"Kantate, BWV 149 ""Man singet mit Freuden vom Sieg""",7,19:09,1149000,median,57,57
+"Kantate, BWV 28 ""Gottlob! nun geht das Jahr zu Ende""",7,19:09,1149000,median,53,53
+Konzert F-Dur nach BWV 49 & 169,3,19:09,1149000,median,3,3
+"Kantate, BWV 195 ""Dem Gerechten muß das Licht""",6,19:03,1143000,median,36,36
+"Oboe Concerto in F major, BWV 1053R",3,19:01,1141000,median,75,77
+Konzert für Oboe d'amore nach BWV 209,3,18:59,1139000,median,6,6
+"Kantate, BWV 6 ""Bleib bei uns, denn es will Abend werden""",6,18:57,1137000,median,85,85
+"Kantate, BWV 45 ""Es ist dir gesagt, Mensch, was gut ist""",7,18:54,1134000,median,71,71
+"Kantate, BWV 88 ""Siehe, ich will viel Fischer aussenden""",7,18:51,1131000,median,46,46
+"Kantate, BWV 8 ""Liebster Gott, wenn werd ich sterben?""",6,18:41,1121000,median,76,76
+"Kantate, BWV 71 ""Gott ist mein König von altersher""",7,18:40,1120000,median,56,56
+"Kantate, BWV 62 ""Nun komm, der Heiden Heiland""",6,18:34,1114000,median,92,98
+"Concerto C-Dur (nach A. Vivaldi, RV 208), BWV 594",3,18:32,1112000,median,126,126
+"Kantate, BWV 52 ""Falsche Welt, dir trau ich nicht""",7,18:32,1112000,median,70,70
+"Kantate, BWV 83 ""Erfreute Zeit im neuen Bunde""",5,18:32,1112000,median,38,38
+"Kantate, BWV 64 ""Sehet, welch eine Liebe hat uns der Vater erzeiget""",8,18:31,1111000,median,92,92
+Suite no. 6 for Full Orchestra,6,18:30,1110000,median,6,6
+"Mass in C minor, BWV Anh. 26",10,18:28,1108000,median,10,10
+"Kantate, BWV 18 ""Gleichwie der Regen und Schnee vom Himmel fällt""",7,18:26,1106000,median,58,58
+"Kantate, BWV 82 ""Ich habe genung""",5,18:26,1106000,median,178,178
+"Konzert für Oboe, Streicher und Basso continuo",4,18:26,1106000,median,4,4
+Sechs Choräle von Verschiedener Art (Schübler-Choräle),6,18:24,1104000,median,480,487
+"Kantate, BWV 96 ""Herr Christ, der einge Gottessohn""",6,18:22,1102000,median,58,58
+"Kantate, BWV 104 ""Du Hirte Israel, höre""",6,18:21,1101000,median,62,62
+"Französische Suite no. 3 h-Moll, BWV 814",7,18:20,1100000,median,327,327
+"Orchestral Suite no. 3 in D major, BWV 1068",4,18:10,1090000,median,20,22
+"Kantate, BWV 111 ""Was mein Gott will, das gscheh allzeit""",6,18:08,1088000,median,49,49
+"Kantate, BWV 152 ""Tritt auf die Glaubensbahn""",6,18:08,1088000,median,80,80
+"Concerto D-Dur, BWV 1050a",3,18:06,1086000,median,24,24
+"Kantate, BWV 95 ""Christus, der ist mein Leben""",7,18:00,1080000,median,60,60
+"Kantate, BWV 38 ""Aus tiefer Not schrei ich zu dir""",6,17:59,1079000,median,58,58
+"Kantate, BWV 139 ""Wohl dem, der sich auf seinen Gott""",6,17:55,1075000,median,51,51
+"Kantate, BWV 132 ""Bereitet die Wege, bereitet die Bahn""",6,17:53,1073000,median,62,62
+"Suite für Violoncello solo no. 1 G-Dur, BWV 1007",6,17:51,1071000,median,1155,1169
+"Kantate, BWV 167 ""Ihr Menschen, rühmet Gottes Liebe""",5,17:50,1070000,median,34,34
+"Sonata no. 6 in E major, BWV 1006",6,17:49,1069000,median,6,6
+"Concerto for 3 violins, strings and basso continuo, BWV 1064",3,17:46,1066000,median,6,6
+"Französische Suite Nr. 5 G-dur, BWV 816",7,17:42,1062000,median,519,528
+"Toccata and Fugue in D minor, BWV 565",4,17:42,1062000,median,19,19
+"Kantate, BWV 107 ""Was willst du dich betrüben""",7,17:40,1060000,median,59,59
+"Kantate, BWV 51 ""Jauchzet Gott in allen Landen""",5,17:39,1059000,median,226,227
+"Concerto C-Dur, BWV 1061a",3,17:35,1055000,median,9,9
+"Französische Suite Nr. 1 d-Moll, BWV 812",6,17:35,1055000,median,325,325
+"Sonata no. 2 in A minor, BWV 1003",3,17:34,1054000,median,6,6
+"Concerto in C major for Two Harpsichords, BWV 1061",3,17:33,1053000,median,155,155
+"English Suite No. 3 in G Minor, BWV 808",6,17:32,1052000,median,29,29
+"Kantate, BWV 23 ""Du wahrer Gott und Davids Sohn""",4,17:31,1051000,median,43,43
+"Sonata in C major, BWV 966",8,17:31,1051000,median,17,17
+"Konzert für Violine und Orchester E-Dur, BWV 1042",3,17:29,1049000,median,531,566
+"Partita, BWV 771 ""Allein Gott in der Höh sei Ehr""",17,17:27,1047000,median,35,35
+"Toccata, Adagio and Fugue in C major, BWV 564, BV B 29 no. 1",3,17:27,1047000,median,64,64
+"Suite no. 1 G-Dur, BWV 1007",6,17:22,1042000,median,349,355
+"Kantate, BWV 138 ""Warum betrübst du dich, mein Herz""",7,17:17,1037000,median,63,63
+"Kantate, BWV 172 ""Erschallet, ihr Lieder, erklinget, ihr Saiten""",6,17:17,1037000,median,60,61
+"Kantate, BWV 34.2 ""O ewiges Feuer, o Ursprung der Liebe""",5,17:17,1037000,median,64,69
+"Kantate, BWV 46 ""Schauet doch und sehet, ob irgendein Schmerz sei""",6,17:17,1037000,median,42,42
+"Partita in A major, BWV 1006",7,17:15,1035000,median,14,14
+"Kantate, BWV 44 ""Sie werden euch in den Bann tun""",7,17:14,1034000,median,77,77
+"Kantate, BWV 190 ""Singet dem Herrn ein neues Lied""",7,17:13,1033000,median,44,44
+"Italienisches Konzert F-Dur, BWV 971",4,17:11,1031000,median,524,525
+"Kantate, BWV 148 ""Bringet dem Herrn Ehre seines Namens""",6,17:07,1027000,median,51,51
+"Kantate, BWV 126 ""Erhalt uns Herr bei deinem Wort""",6,17:04,1024000,median,46,46
+"Kantate, BWV 2 ""Ach Gott, vom Himmel sieh darein""",6,17:04,1024000,median,52,52
+"Kantate, BWV 91 ""Gelobet seist du, Jesu Christ""",6,17:03,1023000,median,56,56
+"Sonate für Violine und Klavier f-Moll, BWV 1018",4,17:03,1023000,median,282,286
+"Kantate, BWV 99 ""Was Gott tut, das ist wohlgetan""",6,17:01,1021000,median,66,66
+"Partita in D-minor, BWV 1004",1,16:59,1019000,median,2,2
+"Kantate, BWV 55 ""Ich armer Mensch, ich Sündenknecht""",6,16:57,1017000,median,75,76
+"Kantate, BWV 156 ""Ich steh mit einem Fuß im Grabe""",6,16:56,1016000,median,88,88
+"Sonate für Violine und Klavier c-Moll, BWV 1017",4,16:55,1015000,median,307,315
+Three Bach Transcriptions,3,16:54,1014000,median,3,3
+"Concerto in C major for Three Harpsichords, BWV 1064",3,16:53,1013000,median,133,133
+"Präludium und Fuge Es-Dur, BWV 552, BV B 22",2,16:48,1008000,median,22,22
+"Kantate, BWV 164 ""Ihr, die ihr euch von Christo nennet""",6,16:46,1006000,median,44,44
+Doppelchöriges Orchesterkonzert D-Dur (nach BWV 42/ 66),3,16:45,1005000,median,3,3
+"Kantate, BWV 166 ""Wo gehest du hin""",6,16:45,1005000,median,38,38
+"Kantate, BWV 22 ""Jesus nahm zu sich die Zwölfe""",5,16:43,1003000,median,48,48
+"Kantate, BWV 128 ""Auf Christi Himmelfahrt allein""",5,16:41,1001000,median,40,40
+"Kantate, BWV 72 ""Alles nur nach Gottes Willen""",6,16:38,998000,median,42,42
+"Kantate, BWV 151 ""Süßer Trost, mein Jesus kömmt""",5,16:34,994000,median,74,75
+"Kantate, BWV 16 ""Herr Gott, dich loben wir""",6,16:31,991000,median,49,49
+"Concerto for 3 Violins in D major, BWV 1064R",3,16:29,989000,median,77,77
+"Sonata no. 1 in G minor for Violin Solo, BWV 1001",4,16:29,989000,median,566,576
+"Kantate, BWV 116 ""Du Friedefürst, Herr Jesu Christ""",6,16:28,988000,median,55,55
+"Kantate, BWV 81 ""Jesus schläft, was soll ich hoffen""",7,16:28,988000,median,74,74
+"Kantate, BWV 85 ""Ich bin ein guter Hirt""",6,16:28,988000,median,70,70
+"Sonate für Violine und Cembalo G-dur, BWV 1019.3",5,16:27,987000,median,359,359
+"Kantate, BWV 162 ""Ach! ich sehe, itzt, da ich zur Hochzeit gehe""",6,16:23,983000,median,40,40
+"Kantate, BWV 18.2 ""Gleichwie der Regen und Schnee vom Himmel fällt""",5,16:17,977000,median,5,5
+"Suite Es-Dur, BWV 819",6,16:11,971000,median,77,77
+"Kantate, BWV 26 ""Ach wie flüchtig, ach wie nichtig""",6,16:10,970000,median,80,80
+"Sonata in G major, BWV 1005",3,16:09,969000,median,9,9
+"Concerto for Keyboard and Orchestra no. 3 in D major, BWV 1054",3,16:07,967000,median,228,232
+"Suite in E minor, BWV 996",6,16:07,967000,median,242,242
+"Wachet auf, ruft uns die Stimme, BWV 140",4,16:07,967000,median,79,80
+"Sonate für Violine und Klavier E-Dur, BWV 1016",4,16:05,965000,median,328,336
+"Kantate, BWV 24 ""Ein ungefärbt Gemüte""",6,16:02,962000,median,42,42
+"Präludium und Fuge Es-Dur, BWV 552",2,16:01,961000,median,146,151
+"Kantate, BWV 14 ""Wär Gott nicht mit uns diese Zeit""",5,16:00,960000,median,37,37
+"Siehe, es hat überwunden, TWV 1:1328, BWV 219",5,15:58,958000,median,5,5
+"Kantate, BWV 65 ""Sie werden aus Saba alle kommen""",7,15:54,954000,median,84,84
+"Keyboard Concerto no. 6 in F major, BWV 1057",3,15:54,954000,median,166,166
+"Kantate, BWV 17 ""Wer Dank opfert, der preiset mich""",7,15:50,950000,median,70,70
+"Brandenburgisches Konzert Nr. 4 G-Dur, BWV 1049",3,15:49,949000,median,564,575
+"French Suite no. 6 in E major, BWV 817",8,15:47,947000,median,453,453
+"Concerto for 2 Violins in D minor, BWV 1043",3,15:46,946000,median,620,632
+"Brandenburgisches Konzert Nr. 2 F-Dur, BWV 1047",4,15:43,943000,median,716,730
+"Kantate, BWV 37 ""Wer da gläubet und getauft wird""",6,15:42,942000,median,44,44
+"Kantate, BWV 171 ""Gott, wie dein Name, so ist auch dein Ruhm""",6,15:41,941000,median,45,45
+"Kantate, BWV 27 ""Wer weiß, wie nahe mir mein Ende?""",6,15:38,938000,median,67,67
+"O Gott, du frommer Gott, BWV 767",9,15:38,938000,median,203,203
+"Kantate, BWV 40 ""Darzu ist erschienen der Sohn Gottes""",8,15:34,934000,median,86,86
+"Gedenke, Herr, wie es uns gehet, BWV 217",5,15:33,933000,median,5,5
+"Kantate, BWV 130 ""Herr Gott, dich loben alle wir""",6,15:33,933000,median,66,66
+"Five Studies, anh. Ia/1",1,15:28,928000,median,23,23
+"Kantate, BWV 136 ""Erforsche mich, Gott, und erfahre mein Herz""",6,15:27,927000,median,36,36
+"Die Kunst der Fuge, BWV 1080.1",3,15:25,925000,median,11,12
+"Kantate, BWV 60 ""O Ewigkeit, du Donnerwort""",5,15:25,925000,median,48,48
+"Partita in A minor, BWV 1013",4,15:25,925000,median,51,55
+"Kantate, BWV 25 ""Es ist nichts Gesundes an meinem Leibe""",6,15:21,921000,median,43,43
+"Kantate, formerly BWV 189, ""Meine Seele rühmt und priest""",5,15:17,917000,median,15,15
+"Kantate, BWV 108 ""Es ist euch gut, daß ich hingehe""",6,15:16,916000,median,58,58
+"Kantate, BWV 163 ""Nur jedem das Seine""",6,15:16,916000,median,36,36
+Transcribed in the Light of Harpsichord Technique,2,15:14,914000,median,2,2
+"Aria variata, BWV 989",11,15:13,913000,median,202,202
+"Kantate, BWV 191 ""Gloria in excelsis Deo""",3,15:13,913000,median,33,33
+"Kantate, BWV 77 ""Du sollt Gott, deinen Herren, lieben""",6,15:13,913000,median,38,38
+"Kantate, BWV 79 ""Gott der Herr ist Sonn und Schild""",6,15:13,913000,median,69,69
+"Concerto a-Moll (nach A. Vivaldi, op. 3 Nr. 8), BWV 593",4,15:10,910000,median,181,184
+"Kantate, BWV 159 ""Sehet, wir gehn hinauf gen Jerusalem""",5,15:09,909000,median,55,55
+"Kantate, BWV 154 ""Mein liebster Jesus ist verloren""",8,15:07,907000,median,73,73
+"Kantate, BWV 103 ""Ihr werdet weinen und heulen""",6,15:06,906000,median,57,57
+"Kantate, BWV 61 “Nun komm, der Heiden Heiland”",6,15:00,900000,median,109,109
+"Toccata, Adagio, and Fugue in C major, BWV 564",3,14:56,896000,median,239,251
+"Kantate, BWV 48 ""Ich elender Mensch, wer wird mich erlösen""",7,14:55,895000,median,55,55
+"Prelude and Fugue in E-flat major, BWV 552",2,14:50,890000,median,9,9
+"Kantate, BWV 135 ""Ach Herr, mich armen Sünder""",6,14:46,886000,median,53,53
+"Sonate für Viola da Gamba und Cembalo g-Moll, BWV 1029",3,14:46,886000,median,191,191
+Three Chorale Preludes,3,14:43,883000,median,9,9
+"Kantate, BWV 150 ""Nach dir, Herr, verlanget mich""",7,14:41,881000,median,134,134
+"Lobt ihn mit Herz und Munde, BWV 220",5,14:40,880000,median,5,5
+"Suite in G minor, WoO 41",5,14:37,877000,median,5,5
+"Kantate, BWV 67 ""Halt im Gedächtnis Jesum Christ""",7,14:33,873000,median,87,87
+"Triosonate für Orgel Nr. 5 C-Dur, BWV 529",3,14:32,872000,median,195,195
+"Concerto for 3 harpsichords, strings & continuo in D minor, BWV 1063",3,14:31,871000,median,150,150
+"Sonate für Viola da Gamba und Cembalo D-Dur, BWV 1028",4,14:27,867000,median,252,252
+"Concerto in C minor for Two Harpsichords, BWV 1062",3,14:25,865000,median,111,112
+"Kantate, BWV 185 ""Barmherziges Herze der ewigen Liebe""",6,14:24,864000,median,36,36
+"Suite in g-Moll, BWV 822",8,14:24,864000,median,44,45
+"Concerto for two Violins, Strings and Basso Continuo in D Minor, BWV 1043 (Arr. for two Guitars and Orchestra in A Minor)",3,14:18,858000,median,4,4
+"Kantate, BWV 173 ""Erhöhtes Fleisch und Blut""",6,14:18,858000,median,54,54
+"Violin Concerto in A minor, BWV 1041",3,14:18,858000,median,528,567
+"Präludium und Fuge e-Moll, BWV 548",2,14:17,857000,median,101,101
+"Kantate, BWV 18.1 ""Gleichwie der Regen und Schnee vom Himmel fällt""",5,14:15,855000,median,5,5
+"Toccata und Fuge F-Dur, BWV 540",2,14:11,851000,median,103,105
+"Kantate, BWV 122 ""Das neugeborne Kindelein""",6,14:09,849000,median,64,64
+"Kantate, BWV 124 ""Meinen Jesum laß ich nicht""",6,14:07,847000,median,44,44
+"Concerto in A minor, BWV 1041",3,14:05,845000,median,9,9
+"Mass in C major, BWV Anh. 25",7,14:04,844000,median,7,7
+"Kantate, BWV 137 ""Lobe den Herren, den mächtigen König der Ehren""",5,14:03,843000,median,65,65
+"Sonata for Flute and Continuo in E minor, BWV 1034",4,14:01,841000,median,230,230
+"Sonata in D minor, BWV 1001",4,14:01,841000,median,9,9
+"Concerto for Violin & Oboe in C minor, BWV 1060R",3,13:59,839000,median,348,358
+"Kantate, BWV 84 ""Ich bin vergnügt mit meinem Glücke""",5,13:59,839000,median,60,60
+"Chromatic Fantasia and Fugue in D minor, BV B 38",2,13:58,838000,median,2,2
+"Oboe d’Amore Concerto in A major, BWV 1055R",3,13:58,838000,median,110,112
+"Triosonate für Orgel Nr. 3 d-Moll, BWV 527",3,13:50,830000,median,171,171
+"Concerto in A major for Oboe d'Amore, Strings and Basso Continuo",3,13:49,829000,median,12,12
+"Concerto in C minor for Two Harpsichords, BWV 1060",3,13:49,829000,median,163,165
+"Französische Suite no. 2 c-Moll, BWV 813",6,13:47,827000,median,370,370
+"Keyboard Concerto in D minor, BWV 1052a",2,13:47,827000,median,2,2
+"Sonata in E minor, BWV 1034",4,13:47,827000,median,7,7
+"Merk auf, mein Herz und sieh dorthin, BWV Anh. 163",7,13:46,826000,median,7,7
+"Sonate für Violine und Klavier A-Dur, BWV 1015",4,13:46,826000,median,282,286
+"Suite a-Moll, BWV 818a",6,13:46,826000,median,96,96
+"Trio Sonata in C major, BWV 529",3,13:43,823000,median,4,4
+"Kantate, BWV 98 ""Was Gott tut, das ist wohlgetan""",5,13:41,821000,median,44,47
+"Keyboard Concerto no. 4 in A major, BWV 1055",3,13:40,820000,median,255,257
+"Kantate, BWV 153 ""Schau lieber Gott, wie meine Feind""",9,13:38,818000,median,76,76
+"Kantate, BWV 168 ""Tue Rechnung! Donnerwort""",6,13:37,817000,median,43,43
+"Concerto for Keyboard and Orchestra no. 7 in G minor, BWV 1058",3,13:36,816000,median,165,168
+"Einige canonische Veränderungen über das Weihnachtslied Vom Himmel hoch, da komm ich her, BWV 769a",5,13:36,816000,median,47,47
+"Kantate, BWV 58 ""Ach Gott, wie manches Herzeleid""",5,13:33,813000,median,39,39
+"Triosonate Nr. 3 d-Moll, BWV 527",3,13:33,813000,median,63,63
+"Kantate, BWV 58.2 ""Ach Gott, wie manches Herzeleid""",5,13:31,811000,median,10,10
+"Kantate, BWV 86 ""Wahrlich, wahrlich, ich sage euch""",6,13:31,811000,median,42,42
+"Kantate, BWV 143 ""Lobe den Herrn, meine Seele""",7,13:29,809000,median,54,54
+"Concerto in C Minor for Violin & Oboe, BWV 1060R (Arr. for two Guitars and Orchestra in G Minor)",3,13:26,806000,median,3,3
+"Partite diverse für Orgel sopra ""Ach, was soll ich Sünder machen"", BWV 770",11,13:22,802000,median,152,152
+"Kantate, BWV 112 ""Der Herr ist mein getreuer Hirt""",5,13:20,800000,median,38,38
+"Sonate für Violine und Klavier h-Moll, BWV 1014",4,13:20,800000,median,274,278
+"Kantate, BWV 203 ""Amore traditore""",3,13:19,799000,median,30,30
+"Concerto in A major, BWV 1055R",3,13:18,798000,median,11,11
+"Französische Suite no. 4 Es-Dur, BWV 815",6,13:18,798000,median,317,317
+"Kantate, BWV 73 ""Herr, wie du willt, so schicks mit mir""",5,13:18,798000,median,58,58
+"Sonata for Violin and Basso Continuo in A major, BWV Anh.153",5,13:18,798000,median,10,10
+"Sonate für Viola da Gamba und Cembalo G-Dur, BWV 1027",4,13:15,795000,median,248,250
+"Triosonate Nr. 5 C-Dur, BWV 529",3,13:14,794000,median,66,69
+"Violin Concerto in A major, BWV1055",3,13:11,791000,median,3,3
+"Triosonate für Orgel Nr. 1 Es-Dur, BWV 525",3,13:09,789000,median,179,179
+"Partita für Flöte in a-Moll, BWV 1013",4,13:08,788000,median,218,222
+"Violin Sonata in E minor, BWV 1023, P. 85",4,13:08,788000,median,7,7
+"Kantate, BWV 90 ""Es reißet euch ein schrecklich Ende""",5,13:07,787000,median,49,49
+"Kantate, BWV 144 ""Nimm, was dein ist, und gehe hin""",6,13:06,786000,median,51,51
+"Concerto Pour Clavecin, BWV 1058",3,13:04,784000,median,3,3
+"Singet dem Herrn ein neues Lied, BWV 225",3,13:04,784000,median,110,110
+"Sonata in E minor, BWV 1034 [trans. G minor]",4,13:03,783000,median,10,10
+"Triosonate für Orgel Nr. 6 G-Dur, BWV 530",3,13:00,780000,median,182,185
+"Kantate, BWV 155 ""Mein Gott, wie lang, ach lange""",5,12:59,779000,median,38,38
+"Toccata and Fugue in D minor ""Dorian"", BWV 538",2,12:55,775000,median,113,114
+"Triosonate Nr. 6 G-Dur, BWV 530",3,12:55,775000,median,52,55
+"Kleines Magnificat in A minor, BWV Anh. 21",10,12:53,773000,median,10,10
+"Concerto Pour Deux Clavecins, BWV 1060",3,12:52,772000,median,6,6
+"Suite a-Moll, BWV 818",5,12:52,772000,median,33,33
+"Kantate, BWV 165 ""O heilges Geist- und Wasserbad""",6,12:48,768000,median,38,38
+"Concerto for harpsichord, oboe, strings & continuo no. 8 in D minor (incomplete), BWV 1059",3,12:43,763000,median,23,23
+"Präludium und Fuge h-Moll, BWV 544",2,12:41,761000,median,87,91
+"Chromatische Fantasie d-Moll, BWV 903a",2,12:39,759000,median,5,5
+"Concerto in c-Moll, BWV 1060",3,12:39,759000,median,3,3
+"Präludium und Fuge D-Dur, BWV 532, BV B 20",2,12:33,753000,median,31,31
+"Sonata for Flute and Harpsichord in A major, BWV 1032",3,12:33,753000,median,129,132
+"Fantasia, Adagio e Fuga, BWV 906/968, BV B 37",3,12:31,751000,median,9,9
+"Sonate für Violine und Basso continuo c-moll, BWV 1024",4,12:31,751000,median,45,45
+"Ouverture no. 2 in A minor, BWV 1067[a]",6,12:30,750000,median,6,6
+"Pastorale F-Dur / Pastorella F-Dur, BWV 590",4,12:26,746000,median,141,142
+"Trio Sonata in G major, BWV 1039",4,12:26,746000,median,95,95
+"Praeludium, Fuge und Allegro Es-Dur, BWV 998",3,12:22,742000,median,99,99
+"Sonata in E minor, BWV 1023",4,12:19,739000,median,6,6
+"Italian Concerto in F major, BWV 971",3,12:18,738000,median,6,6
+"Flute Sonata in E major, BWV 1035",4,12:17,737000,median,219,219
+"Concerto for Oboe, Strings and Basso Continuo in D minor, BWV 1059R",3,12:16,736000,median,62,64
+"Kantate, BWV 54 ""Widerstehe doch der Sünde""",3,12:14,734000,median,79,79
+"Präludium und Fuge c-Moll, BWV 546",2,12:14,734000,median,81,81
+Tre Corali,3,12:13,733000,median,8,8
+"Einige canonische Veränderungen über das Weihnachtslied Vom Himmel hoch, da komm ich her, BWV 769",5,12:12,732000,median,92,92
+"Kantate, BWV 59 ""Wer mich liebet, der wird mein Wort halten""",5,11:55,715000,median,43,43
+"Concerto in D minor for Oboe, Strings and Basso Continuo",3,11:52,712000,median,3,3
+"Triosonate Nr. 1 Es-Dur, BWV 525",3,11:50,710000,median,56,62
+"Triosonate für Orgel Nr. 2 c-Moll, BWV 526",3,11:49,709000,median,156,156
+"Violin Sonata in E minor, BWV 1023",4,11:49,709000,median,120,124
+"Fantasie (Praeludium) und Fuge g-Moll, BWV 542",2,11:44,704000,median,133,134
+"Sonata in G minor, H. 542.5",3,11:39,699000,median,140,146
+"Kantate, BWV 89 ""Was soll ich aus dir machen, Ephraim?""",6,11:36,696000,median,49,49
+"Chromatische Fantasie und Fuge d-Moll, BWV 903",2,11:35,695000,median,185,185
+Canonische Veränderungen,1,11:31,691000,median,20,20
+"Kantate, BWV 196 ""Der Herr denket an uns""",5,11:31,691000,median,55,55
+"Kantate, BWV 192 ""Nun danket alle Gott""",3,11:29,689000,median,25,25
+6 kleine Präludien,6,11:28,688000,median,187,188
+"Concerto in a-Moll nach Antonio Vivaldi, op. 3 no. 8, BWV 593",3,11:23,683000,median,7,7
+"Fantasy and Fugue in G minor, S. 463/1 (BWV 542)",2,11:23,683000,median,4,4
+"Cantata ""Ich weiss, dass mein Erlöser lebt"", TWV 1:877 ",5,11:19,679000,median,19,24
+9 kleine Präludien,10,11:16,676000,median,199,200
+"Kantate, BWV 197a ""Ehre sei Gott in der Höhe""",4,11:12,672000,median,7,7
+"Keyboard Concerto no. 8 in B minor, BWV 979 after Giuseppe Torelli",6,11:12,672000,median,46,46
+"Melodisch-Kontrapunktische Studien, op. 137",4,11:10,670000,median,5,5
+"Toccata D-Dur, BWV 912a",2,11:09,669000,median,6,6
+"Kantate, BWV 176 ""Es ist ein trotzig und verzagt Ding""",6,11:08,668000,median,43,43
+"Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992",6,11:06,666000,median,245,245
+"Flute Sonata in C major, BWV 1033",5,11:06,666000,median,215,215
+"Fantasy and Fugue in G minor, S. 463/2 (BWV 542)",2,11:02,662000,median,18,18
+"Concerto in G major, BWV 980",3,10:58,658000,median,45,45
+"Concerto in C minor, BWV 981",4,10:57,657000,median,48,48
+"Organ Trio Sonata in C major, BWV529",2,10:55,655000,median,2,2
+"Konzert g-Moll für 3 Violinen, Streicher und Continuo, BWV 1056",3,10:54,654000,median,5,5
+"3 Corali, P. 167",3,10:53,653000,median,5,5
+"Kantate, BWV 158 ""Der Friede sei mit dir""",4,10:52,652000,median,76,76
+"Chorale Variations on the Christmas Carol ""Von Himmel hoch, da komm' ich her"" (J. S. Bach)",6,10:49,649000,median,27,27
+"Präludium und Fuge D-Dur, BWV 532",2,10:48,648000,median,94,96
+"Trio Sonata in D minor, Wq. 145, H.569, (BWV 1036)",4,10:48,648000,median,24,24
+"Fantasie und Fuge g-Moll, BWV 542",2,10:41,641000,median,18,18
+Brandenburg Suite,3,10:35,635000,median,3,3
+"Concerto in A minor for Four Harpsichords and Orchestra, BWV 1065",3,10:33,633000,median,3,3
+"Präludium und Fuge a-Moll, BWV 894",2,10:31,631000,median,35,35
+"Concerto in D minor after Alessandro Marcello, BWV 974",3,10:29,629000,median,96,97
+"Sonate für Violine und Cembalo F-dur, BWV 1022",4,10:28,628000,median,28,28
+"Gott der Hoffnung erfülle euch, TWV 1:634, BWV 218",5,10:25,625000,median,5,5
+"Prelude & Fugue for Violin, Viola, & Bass no. 4 in F major, K. 404a/deest",2,10:25,625000,median,6,6
+"Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992, BV B 34",6,10:23,623000,median,31,31
+"Concerto in C major, BWV 976",3,10:23,623000,median,61,61
+"Triosonate für Orgel Nr. 4 e-Moll, BWV 528",3,10:21,621000,median,177,177
+"Flute Sonata in E-flat major, BWV 1031",3,10:20,620000,median,157,164
+"Kantate, BWV 145 ""Ich lebe, mein Herze, zu deinem Ergötzen""",6,10:06,606000,median,34,34
+"Triosonate Nr. 2 c-Moll, BWV 526",3,10:05,605000,median,40,40
+"Concerto for Flute in A minor, BWV1056",3,10:00,600000,median,10,10
+Bach Portrait,,14:36,876000,median,1,1
+Chaconne,,13:27,807000,median,1,1
+Chaconne for piano and violin,,14:38,878000,median,2,2
+"Chaconne from Partita, BWV 1004",,15:03,903000,median,2,2
+Chaconne in D minor,,17:56,1076000,median,6,6
+"Chaconne, BWV 1004, BV B24",,14:47,887000,median,72,74
+Chorale Prelude BWV653 'An Wasserflüssen Babylon',,11:28,688000,median,1,1
+"Ciaccona in D minor, BWV 1004",,11:43,703000,median,2,2
+Ciaconna,,13:08,788000,median,1,1
+Contrapunctus XIV,,12:47,767000,median,1,1
+"Keyboard Concerto no. 10 in C minor after Benedetto Marcello, BWV 981",,13:08,788000,median,1,1
+"Keyboard Concerto no. 8 in B minor after Giuseppe Torelli, BWV 979",,11:14,674000,median,1,1
+"Keyboard Concerto no. 9 in G major after Antonio Vivaldi, BWV 980",,10:05,605000,median,1,1
+"Passacaglia and Fugue in C minor, BWV 582, P. 159",,13:15,795000,median,4,4
+"Passacaglia in C minor, BWV 582",,12:59,779000,median,1,1
+"Präludium (Toccata) und Fuge für Orgel E-Dur, BWV 566",,10:26,626000,median,31,31
+"Quodlibet, BWV 524",,10:43,643000,median,6,6
+Reaver Mansion,,11:13,673000,median,1,1
+Sechs Choräle von verschiedener Art,,18:23,1103000,median,2,2
+"String Quartet no. 4, op. 62 “Tribute to J. S. Bach”",,12:22,742000,median,2,2
+"Toccata and Fugue in F-sharp major, BWV 910",,11:24,684000,median,2,2
+"Toccata in D major, BWV 912",,10:50,650000,median,77,77
+"Toccata in D minor, BWV 913a",,13:26,806000,median,2,2
+"Trio Sonata in C major, DürG 13 (BWV 1037)",,13:02,782000,median,1,1
