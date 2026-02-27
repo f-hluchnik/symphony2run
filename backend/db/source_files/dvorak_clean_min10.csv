@@ -1,0 +1,120 @@
+work,num_movements,duration,duration_ms,stat_used,count_with_length,count_total
+"Requiem v B-moll, op. 89, B. 165",18,1:40:50,6050000,median,163,163
+"Stabat Mater, op. 58, B. 71",10,1:22:38,4958000,median,279,279
+"Svatební košile, op. 69, B. 135",19,1:18:57,4737000,median,76,76
+"String Quartet no. 3 in D major, B. 18",4,1:04:00,3840000,median,20,20
+"Poetické nálady (Poetic Tone Pictures), op. 85, B. 161",13,56:28,3388000,median,78,78
+"Cello Concerto in A major, B. 10",3,55:44,3344000,median,3,3
+"Symphonic Variations, op. 78, B. 70",29,55:35,3335000,median,146,146
+"Symfonie č. 2 B dur, op. 4",4,50:50,3050000,median,100,100
+"Symfonie č. 1 c moll, B. 9 „Zlonické zvony“",4,48:34,2914000,median,84,84
+"String Quartet no. 2 in B-flat major, B. 17",4,47:00,2820000,median,20,20
+"Slavonic Dances, op. 72",10,44:28,2668000,median,447,453
+"Symphony no. 6 in D major, op. 60",4,42:52,2572000,median,180,182
+"Mše, op. 86, B. 175",6,41:16,2476000,median,18,18
+"Legends, op. 59, B. 122",10,41:07,2467000,median,155,155
+"Cello Concerto in B minor, op. 104",4,40:30,2430000,median,388,398
+"Symfonie č. 4 d moll, op. 13",4,40:28,2428000,median,93,97
+"Symfonie č. 9 e moll, op. 95 „Z Nového světa“",4,40:19,2419000,median,1269,1301
+"Symphony no. 5 in F major, op. 76",4,40:06,2406000,median,127,131
+"Piano Trio no. 3 in F minor, op. 65, B. 130",4,39:57,2397000,median,142,142
+"String Quintet in G major, B. 49, op. 77",5,39:12,2352000,median,66,71
+"Piano Quintet no. 2 in A major, op. 81",4,38:45,2325000,median,222,226
+"Legends, op. 59, B. 117",10,38:41,2321000,median,32,32
+"String Quartet no. 11 in C major, op. 61, B. 121",4,38:40,2320000,median,48,48
+"Piano Concerto in G minor, op. 33, B. 63",3,38:39,2319000,median,95,95
+"Cypřiše, B. 11",18,38:30,2310000,median,19,19
+"String Quartet no. 13 in G major, op. 106, B. 192",4,38:12,2292000,median,100,100
+"String Quartet no. 1 in A major, op. 2, B. 8",4,37:42,2262000,median,24,24
+"Symphony no. 7 in D minor, op. 70",4,37:35,2255000,median,362,364
+"Slavonic Dances, op. 46, B. 83",8,37:15,2235000,median,595,607
+"Symphony no. 8 in G major, op. 88",4,36:33,2193000,median,509,524
+"Mše, op. 86, B. 153",6,36:01,2161000,median,71,71
+"Piano Quartet no. 2 in E-flat major, op. 87, B. 162",4,35:47,2147000,median,73,73
+Cello Concerto in A major,3,35:08,2108000,median,9,9
+"Symfonie č. 3 Es dur, op. 10",3,34:55,2095000,median,70,70
+"String Quartet no. 4 in E minor, B. 19",3,34:53,2093000,median,18,18
+"Cypresses, B. 152",12,34:02,2042000,median,160,160
+"Piano Quartet no. 1 in D major, op. 23, B. 53",3,33:55,2035000,median,26,26
+"Smyčcový kvartet č. 9 d moll, op. 34",4,33:52,2032000,median,36,36
+"Piano Trio no. 1 in B-flat major, op. 21, B. 51",4,33:33,2013000,median,90,90
+"Gypsy Songs, op. 55",7,33:32,2012000,median,9,11
+"Smyčcový sextet A dur, op. 48, B. 80",4,33:10,1990000,median,75,75
+"String Quintet in E-flat major, op. 97 ""American""",4,32:55,1975000,median,102,102
+"String Quartet no. 14 in A-flat major, op. 105, B. 193",4,32:37,1957000,median,87,91
+"String Quartet no. 10 in E-flat major, op. 51, B. 92",4,32:23,1943000,median,102,106
+"Violin Concerto in A minor, op. 53",3,31:38,1898000,median,226,229
+"String Quartet no. 5 in F minor, op. 9, B. 37",4,31:33,1893000,median,25,25
+"Moravské dvojzpěvy, op. 32, B. 62",14,31:27,1887000,median,68,68
+"Piano Trio no. 4 in E minor, op. 90, B. 166 “Dumky”",6,31:14,1874000,median,323,323
+"Piano Trio no. 2 in G minor, op. 26, B. 56",4,30:40,1840000,median,100,100
+"String Quartet no. 7 in A minor, op. 16, B. 45",4,29:37,1777000,median,24,24
+"String Quartet no. 6 in A minor, op. 12, B. 40",4,29:17,1757000,median,22,22
+"Serenade for Strings in E major, op. 22, B. 52",5,28:16,1696000,median,439,440
+"String Quartet no. 8 in E major, op. 80, B. 57",4,27:38,1658000,median,24,24
+"Smyčcový kvintet č. 1 a moll, op. 1, B7",3,27:28,1648000,median,12,12
+"Piano Quintet no. 1 in A major, op. 5",3,26:52,1612000,median,31,31
+"Ze Šumavy, op. 68, B. 133",6,26:50,1610000,median,29,29
+"Dimitrij, op. 64, B. 127",4,26:14,1574000,median,27,27
+"String Quartet no. 12 in F major, op. 96, B. 179 “American”",4,26:12,1572000,median,325,331
+"Waltzes, op. 54, B. 101",8,25:44,1544000,median,48,48
+"Rusalka, op. 114, B. 203",5,25:09,1509000,median,323,325
+"Serenade for Winds and Strings in D minor, op. 44, B. 77",4,24:46,1486000,median,136,137
+"Serenade in D minor, op. 44",4,24:32,1472000,median,4,4
+"Quintette en fa majeur d’après le quatuor, op.96",4,24:21,1461000,median,8,8
+"Sonata for Violin and Piano in F major, op. 57, B. 106",3,23:26,1406000,median,31,31
+"Sedm meziaktních skladeb, B. 15",7,23:16,1396000,median,7,7
+"Tschechische Suite D-Dur, op. 39",5,22:57,1377000,median,124,124
+"Suite in A major, op. 98b, B. 190 “American”",5,21:12,1272000,median,77,82
+"Te Deum, op. 103",4,19:59,1199000,median,25,25
+"Silhouettes, op. 8, B. 98",12,19:50,1190000,median,77,77
+"Terzetto in C major for Two Violin and Viola, op. 74, B. 148",4,19:49,1189000,median,47,47
+"Král a uhlíř, op. 14, B. 151",4,19:33,1173000,median,27,27
+"Six Pieces, op. 52, B. 110",6,19:19,1159000,median,24,24
+"Sonatina for Violin & Piano in G major, op. 100, B. 183",4,19:13,1153000,median,135,135
+Preludes and Fugues,8,18:40,1120000,median,10,10
+"Suita A dur, op. 98, B. 184",5,18:26,1106000,median,35,35
+"Bagatelles, op. 47, B. 79",5,17:46,1066000,median,72,73
+"Four Eclogues, B. 103",4,16:39,999000,median,16,16
+"The Cunning Peasant, op. 37, B. 67, Act II, Scene 1",3,15:44,944000,median,3,3
+"Theme with Variations in A-flat major, op. 36, B. 65",9,15:41,941000,median,27,27
+"Miniatures, op. 75a, B. 149",4,14:15,855000,median,24,24
+"4 Romantic Pieces for Violin & Piano, op. 75, B. 150",4,14:11,851000,median,143,143
+"V přírodě, op. 63, B. 126",5,13:37,817000,median,15,15
+"Cigánské melodie, op. 55",7,13:30,810000,median,103,103
+"V národním tónu, B. 146, op. 73",5,13:25,805000,median,25,25
+"Dimitrij, op. 64",1,13:07,787000,median,1,1
+"5 Partsongs, op. 27, B. 87",5,12:48,768000,median,14,14
+"Slavonic Dances, op. 46",3,12:14,734000,median,3,3
+"The American Flag, op. 102, B. 177",4,11:45,705000,median,8,8
+"Večerní písně, op. 3, B. 61",4,11:43,703000,median,11,11
+"Two Furiants, op. 42, B. 85",2,11:41,701000,median,10,10
+"Two Minuets, op. 28, B. 58",2,11:39,699000,median,7,7
+"Večerní písně, op. 31, B. 61",5,11:21,681000,median,6,6
+The New World Symphony,1,11:11,671000,median,1,2
+"Jakobín, op. 84, B. 200",3,11:01,661000,median,3,3
+"Z kytice národních písní slovanských, op. 43",3,10:34,634000,median,9,9
+"Čert a Káča, op. 112, B. 201",3,10:01,601000,median,59,59
+"Carnival Overture, op. 92",,10:16,616000,median,1,1
+Dedicové Bilé hory (The Heirs of the White Mountain),,17:56,1076000,median,2,2
+Eklogen,,12:51,771000,median,1,1
+"Holoubek, op. 110",,19:13,1153000,median,28,28
+"Husitská, dramatická ouvertura, op. 67, B. 132",,13:44,824000,median,15,15
+"In Nature's Realm Overture, op. 91, B. 168 ""V přírodě""",,14:23,863000,median,33,34
+"New World Symphony, mvt. I",,13:38,818000,median,1,1
+"New World Symphony, mvt. II",,11:56,716000,median,1,1
+"Othello, op. 93, B. 174",,14:35,875000,median,29,29
+"Polednice, op. 108, B. 196",,13:28,808000,median,35,35
+"Píseň bohatýrská, op. 111",,20:14,1214000,median,10,10
+"Romance in F minor, op. 11, B. 38",,11:50,710000,median,5,5
+Rusalka Fantasy,,20:11,1211000,median,1,1
+"Scherzo capriccioso, op. 66, B. 131",,13:04,784000,median,42,43
+"Serenáda pro dechové nástroje, op. 44, B. 77",,26:58,1618000,median,1,1
+"Slavonic Rhapsody in A-flat major, op. 45 no. 3",,13:19,799000,median,15,15
+"Slavonic Rhapsody in D major, op. 45 no. 1",,12:30,750000,median,7,7
+"Slavonic Rhapsody in G minor, op. 45 no. 2",,13:07,787000,median,8,8
+"Symphonic Poem (Rhapsody) in A minor, op. 14, B. 44",,17:34,1054000,median,2,2
+"Symphony no. 9 in E minor, Op. 95 “From the New World”",,11:22,682000,median,1,1
+"Tragic Overture, B. 16a",,14:18,858000,median,2,2
+"Vodník, op. 107, B. 195",,20:24,1224000,median,23,23
+"Zlatý kolovrat, op. 109, B. 197",,25:52,1552000,median,21,21

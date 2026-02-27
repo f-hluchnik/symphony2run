@@ -1,0 +1,38 @@
+work,num_movements,duration,duration_ms,stat_used,count_with_length,count_total
+"Symphony no. 3 in D minor, WAB 103",14,3:30:44,12644000,median,241,241
+"Symphony no. 8 in C-minor, WAB 108",9,3:09:35,11375000,median,356,365
+"Symphony no. 2 in C minor, WAB 102",10,2:20:42,8442000,median,117,117
+"Symphony no. 4 in E-flat major, WAB 104 “Romantische”",6,1:32:01,5521000,median,264,264
+"Symphony no. 5 in B-flat major, WAB 105 ""Tragische""",5,1:24:25,5065000,median,248,252
+"Symphony no. 9 in D-minor, WAB 109",5,1:12:44,4364000,median,360,368
+"Symphony no. 4 in E-flat major, WAB 104",4,1:07:27,4047000,median,8,8
+"Symphony no. 4 in E-flat major, WAB 104 ""Romantische""",4,1:06:24,3984000,median,206,206
+"Symphony no. 7 in E-major, WAB 107",4,1:05:39,3939000,median,340,340
+Symphony no. 7,4,59:52,3592000,median,4,4
+"Messe Nr. 3 in f-Moll, WAB 28",6,59:48,3588000,median,94,95
+"Symphony no. 7 in E major, WAB 107",4,57:04,3424000,median,5,5
+"Symphony no. 6 in A-major, WAB 106",4,56:06,3366000,median,228,228
+"Symphony no. 0 in D minor, WAB 100 ""Nullte""",4,45:21,2721000,median,93,93
+"Mass no. 1 in D minor, WAB 26",6,45:17,2717000,median,24,24
+String Quintet in F major,4,44:42,2682000,median,61,61
+"Symphony no. 00 in F-minor, WAB 99 ""Studiensymphonie""",4,41:59,2519000,median,45,45
+Mass no. 2 in E minor,6,39:54,2394000,median,102,114
+"Symphony no. 1 in C-minor, WAB 101",3,39:15,2355000,median,64,64
+Te Deum in C major,9,37:46,2266000,median,133,133
+Requiem in D minor,10,34:31,2071000,median,31,31
+"Missa Solemnis in B-flat major, WAB 29",15,32:56,1976000,median,16,16
+"Psalm 146, WAB 37",6,30:04,1804000,median,6,6
+"Symphony no. 9 in D‐minor, WAB 109",1,24:06,1446000,median,1,1
+"Streichquartett c-Moll, WAB 111",4,21:48,1308000,median,33,33
+"Symphony no. 1 in C minor, WAB 101",6,16:48,1008000,median,24,24
+Symphony no. 4 in E-flat major “Romantic” (Cohrs A04B),1,16:37,997000,median,1,1
+"Mass for alto, 2 horns & organ in C major (""Windhaager Messe""), WAB 25",6,12:24,744000,median,6,6
+4 Lancier-Quadrilles,4,11:11,671000,median,4,4
+Adagio 1876,,18:20,1100000,median,1,1
+Adagio aus der VI. Symphonie,,17:28,1048000,median,1,1
+Adagio for String Orchestra,,16:02,962000,median,1,1
+Adagio for String Orchestra in G-flat major,,16:00,960000,median,1,1
+Helgoland,,12:59,779000,median,4,4
+"Overture in G minor, WAB 98",,11:22,682000,median,4,4
+"Psalm 112, WAB 35",,10:08,608000,median,3,3
+Symphonie n° 3 (finale),,15:29,929000,median,1,1

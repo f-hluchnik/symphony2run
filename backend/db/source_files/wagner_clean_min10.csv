@@ -1,0 +1,77 @@
+work,num_movements,duration,duration_ms,stat_used,count_with_length,count_total
+"Parsifal, WWV 111",44,3:52:07,13927000,median,1346,1349
+"Die Meistersinger von Nürnberg, WWV 96",22,2:40:59,9659000,median,1220,1227
+"Rienzi, der letzte der Tribunen, WWV 49",28,2:24:02,8642000,median,365,375
+"Götterdämmerung, WWV 86D",17,2:05:02,7502000,median,1793,1794
+Tristan und Isolde,10,1:56:50,7010000,median,131,133
+"Tristan und Isolde, WWV 90",20,1:56:31,6991000,median,1400,1476
+Parsifal,18,1:51:17,6677000,median,36,37
+"Tannhäuser und der Sängerkrieg auf Wartburg, WWV 70",16,1:48:05,6485000,median,1022,1047
+"Die Feen, WWV 32",20,1:30:14,5414000,median,163,163
+Götterdämmerung,8,1:23:07,4987000,median,18,18
+Die Walküre,10,1:22:16,4936000,median,27,28
+"Lohengrin, WWV 75",16,1:20:46,4846000,median,1407,1445
+Parsifal (arr. E. Humperdinck for piano 4 hands),12,1:14:26,4466000,median,12,12
+"Das Liebesverbot, WWV 38",13,1:14:06,4446000,median,110,111
+"Der fliegende Holländer, WWV 63",17,1:10:36,4236000,median,996,1019
+"Die Walküre, WWV 86B",16,1:09:06,4146000,median,2320,2369
+"Symphony no. 9 in D minor, op. 125 “Choral”",4,1:07:12,4032000,median,4,4
+"The Ring, an Orchestral Adventure",14,1:03:14,3794000,median,57,57
+"Siegfried, WWV 86C",15,1:01:55,3715000,median,1780,1789
+"Tristan und Isolde, an Orchestral Passion",7,1:00:25,3625000,median,21,21
+Tannhäuser,5,55:26,3326000,median,28,31
+Die Meistersinger von Nürnberg,7,55:00,3300000,median,13,13
+Das Rheingold,10,51:23,3083000,median,1334,1359
+"Meistersinger, an Orchestral Tribute",11,50:15,3015000,median,24,24
+"Parsifal, an Orchestral Quest",7,49:22,2962000,median,15,15
+Tannhäuser (Paris version),2,39:27,2367000,median,8,10
+Lohengrin,6,39:13,2353000,median,18,19
+"Symphony in C major, WWV 29",4,35:51,2151000,median,30,30
+"Große Sonate A-dur, op. 4 WWV 26",4,33:47,2027000,median,7,7
+Siegfried,3,32:26,1946000,median,60,60
+"Sonate B-dur, op. 1 WWV 21",4,26:09,1569000,median,8,8
+"Excerpt from Götterdämmerung, WWV 86D",3,25:07,1507000,median,312,318
+"Fantasia fis-mol, WWV 22",7,24:11,1451000,median,14,14
+Wesendonck Lieder,5,22:01,1321000,median,7,7
+"Der Rosenkavalier Suite, op. 59, TrV 227",5,21:25,1285000,median,5,5
+Wesendonck-Lieder,5,20:58,1258000,median,168,170
+Tannhäuser und der Sängerkrieg auf Wartburg,2,20:41,1241000,median,4,4
+Scenes from Parsifal,3,19:47,1187000,median,6,6
+"Drei Paraphrasen aus Tristan und Isolde, no. 1",1,18:44,1124000,median,1,1
+"Symphony in E major, WWV 35",2,18:38,1118000,median,7,7
+Die Meistersinger von Nürnberg (Suite from Act 3),5,17:22,1042000,median,20,20
+"Neujahrs-Kantate, WWV 36",5,16:50,1010000,median,5,5
+"Wesendonck‐Lieder, WWV 91",5,16:20,980000,median,5,5
+"7 Kompositionen zu Goethes Faust, WWV 15",7,14:38,878000,median,15,15
+Tanhaeuser,1,13:56,836000,median,2,2
+Aus Richard Wagner’s “Der Ring des Nibelungen”,4,13:25,805000,median,9,9
+Excerpt from,1,13:11,791000,median,39,41
+Deux Entreactes tragiques,2,12:49,769000,median,4,4
+"Musikalische Bilder from Wagner's Ring des Nibelungen, I. Bild",1,11:48,708000,median,1,1
+"Iphigénie en Aulide, Wq. 40",1,11:39,699000,median,1,1
+"Excerpt from Parsifal, WWV 111",1,11:18,678000,median,50,50
+"Excerpt from Die Meistersinger von Nürnberg, WWV 96",3,11:08,668000,median,43,45
+"Excerpt from Tannhäuser und der Sängerkrieg auf Wartburg, WWV 70",2,10:43,643000,median,135,139
+Der fliegende Holländer,1,10:02,602000,median,4,4
+Dawn and Siegfried's Rhine Journey from Gotterdämmerung,,13:14,794000,median,1,1
+"Der Ring des Nibelungen, WWV 86",,29:51,1791000,median,1,1
+Der volkseigene Wagner,,10:31,631000,median,1,1
+Eine Faust-Ouvertüre,,12:27,747000,median,28,28
+"Eine Sonate für das Album von Frau Mathilde Wesendonk As-dur, WWV 85",,10:30,630000,median,10,10
+Fantasia in F-sharp minor,,27:37,1657000,median,2,2
+"Großer Festmarsch, WWV 110",,13:34,814000,median,3,3
+Isoldes Liebestod from “Tristan und Isolde”,,18:35,1115000,median,5,5
+"Overture to ""Die Meistersinger""",,10:35,635000,median,5,5
+"Overture to ""Tannhäuser""",,14:27,867000,median,1,1
+Overture to “Der fliegende Holländer”,,11:06,666000,median,2,2
+Overture to “Tannhäuser”,,15:57,957000,median,1,1
+"Polonia, WWV 39",,12:04,724000,median,2,2
+Prelude to “Parsifal”,,12:13,733000,median,1,1
+Prelude to “Tristan und Isolde”,,14:16,856000,median,4,4
+"Rule Britannia, WWV 42",,12:11,731000,median,3,3
+Siegfried Idyll,,19:02,1142000,median,2,2
+Siegfried Idyll (original version for 13 instruments),,19:28,1168000,median,3,3
+"Siegfried Idyll, WWV 103",,18:13,1093000,median,113,122
+Siegfried-Idyll,,23:32,1412000,median,1,1
+"The Sea, op. 28",,18:19,1099000,median,8,8
+Tristan and Isolde Fantasia,,11:12,672000,median,2,2

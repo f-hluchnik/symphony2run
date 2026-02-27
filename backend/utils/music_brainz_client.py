@@ -55,8 +55,8 @@ _session.headers.update(HEADERS)
 # Use certifi's CA bundle if available (fixes macOS SSL issues)
 try:
     import certifi
-    _SSL_VERIFY = "/usr/local/combined_ca_bundle/combined-ca-bundle.pem"
-    # _SSL_VERIFY = certifi.where()
+    # _SSL_VERIFY = "/usr/local/combined_ca_bundle/combined-ca-bundle.pem"
+    _SSL_VERIFY = certifi.where()
 except ImportError:
     _SSL_VERIFY = True
 
