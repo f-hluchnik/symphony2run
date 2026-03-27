@@ -8,6 +8,7 @@ const message = ref('')
 const duration = ref(null)
 const loading = ref(false)
 const error = ref(null)
+const symphonies = ref([])
 
 onMounted(async () => {
   loading.value = true
@@ -32,11 +33,16 @@ const submitForm = async () => {
 
   loading.value = true
   error.value = null
+  symphonies.value = [] 
   try {
-    const response = await fetch(`${API_BASE}/run/?run_duration=${duration.value}`)
+    const response = await fetch(`${API_BASE}/search/?run_duration=${duration.value}`)
     if (!response.ok) throw new Error(`Server error: ${response.status}`)
     const data = await response.json()
-    message.value = data.message ?? data
+    if (!data || data.length === 0) {
+      message.value = 'No symphonies found for that duration.'
+    } else {
+      symphonies.value = data
+    }
   } catch (e) {
     error.value = 'Something went wrong. Please try again.'
   } finally {
@@ -63,5 +69,11 @@ const submitForm = async () => {
   </div>
 
   <p v-if="error" class="error">{{ error }}</p>
-  <p v-else-if="message">{{ message }}</p>
+  <ul v-if="symphonies.length > 0">
+    <li v-for="(symphony, index) in symphonies" :key="symphony.id">
+      {{ index + 1 }}. {{ symphony.composer }} – {{ symphony.work }} ({{ (symphony.duration_ms / 60000).toFixed(1) }} min)
+    </li>
+  </ul>
+
+<p v-else-if="message">{{ message }}</p>
 </template>
