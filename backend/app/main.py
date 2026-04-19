@@ -1,5 +1,5 @@
 import os, random
-from fastapi import FastAPI, Depends
+from fastapi import APIRouter, FastAPI, Depends
 from sqlalchemy.orm import Session
 from .models import Work
 from .database import get_db
@@ -19,15 +19,17 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/health")
-async def health():
-    return {"status": "ok"}
+router = APIRouter(prefix="/api")
 
-@app.get('/')
+@router.get('/')
 async def root():
     return {'message': 'Welcome. Please enter the duration of your run.'}
 
-@app.get('/search/', response_model=List[WorkSchema])
+@router.get('/health')
+async def health():
+    return {'status': 'ok'}
+
+@router.get('/search/', response_model=List[WorkSchema])
 async def get_symphony(run_duration: int, db: Session = Depends(get_db)) -> str:
     run_duration_ms = run_duration * 60000
     min_duration = int(run_duration_ms * 0.95)
@@ -45,6 +47,8 @@ async def get_symphony(run_duration: int, db: Session = Depends(get_db)) -> str:
 
     return results_sample
 
-@app.get('/works/')
+@router.get('/works/')
 def read_works(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):
     return db.query(Work).offset(skip).limit(limit).all()
+
+app.include_router(router)

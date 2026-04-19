@@ -2,7 +2,7 @@
 import { ref, onMounted } from 'vue'
 import './styles.css'
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:8000'
+const API_BASE = import.meta.env.VITE_API_BASE_URL || '/api'
 
 const message = ref('')
 const duration = ref(null)
