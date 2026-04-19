@@ -1,4 +1,4 @@
-import random
+import os, random
 from fastapi import FastAPI, Depends
 from sqlalchemy.orm import Session
 from .models import Work
@@ -9,13 +9,19 @@ from typing import List
 
 app = FastAPI()
 
+origins = os.getenv("ALLOW_ORIGINS", "http://localhost:5173").split(",")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=['http://localhost:5173'], # The address where Vue runs
+    allow_origins=origins,
     allow_credentials=True,
-    allow_methods=['*'],
-    allow_headers=['*'],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
+
+@app.get("/health")
+async def health():
+    return {"status": "ok"}
 
 @app.get('/')
 async def root():

@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 
 class WorkSchema(BaseModel):
     id: int
@@ -6,5 +6,4 @@ class WorkSchema(BaseModel):
     work: str
     duration_ms: int
 
-    class Config:
-        orm_mode = True
+    model_config = ConfigDict(from_attributes=True)
