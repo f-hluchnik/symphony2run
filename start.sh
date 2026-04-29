@@ -5,6 +5,9 @@ if [ ! -f "/app/db/symphonies.db" ]; then
   cp /app/db_seed/symphonies.db /app/db/symphonies.db
 fi
 
+echo "Running migrations..."
+cd /app && alembic upgrade head
+
 # Kill any existing processes holding our ports
 echo "Cleaning up old processes..."
 fuser -k 8000/tcp 2>/dev/null || true

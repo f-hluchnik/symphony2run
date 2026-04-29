@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import Boolean, Column, Integer, String
 from .database import Base
 
 class Work(Base):
@@ -8,3 +8,5 @@ class Work(Base):
     composer = Column(String)
     work = Column(String)
     duration_ms = Column(Integer, index=True)
+    excluded = Column(Boolean, nullable=False, default=False)
+    verified = Column(Boolean, nullable=False, default=False)
