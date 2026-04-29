@@ -25,6 +25,10 @@ def require_admin(x_admin_secret: str = Header(...)):
     secret = os.getenv('ADMIN_SECRET')
     if not secret or x_admin_secret != secret:
         raise HTTPException(status_code=403, detail='Forbidden')
+    
+@router.get('/admin/verify', dependencies=[Depends(require_admin)])
+async def verify_admin():
+    return {'ok': True}
 
 @router.get('/')
 async def root():

@@ -92,12 +92,23 @@ const formatDuration = (ms) => {
 // ── Admin ──────────────────────────────────────────────────────
 const isAdmin = () => !!adminSecret.value
 
-const loginAdmin = () => {
+const loginAdmin = async () => {
   if (!adminInput.value.trim()) return
-  adminSecret.value = adminInput.value.trim()
-  sessionStorage.setItem('adminSecret', adminSecret.value)
-  adminInput.value = ''
-  adminError.value = ''
+  try {
+    const res = await fetch(`${API_BASE}/admin/verify`, {
+      headers: { 'x-admin-secret': adminInput.value.trim() },
+    })
+    if (res.status === 403) {
+      adminError.value = 'Wrong password.'
+      return
+    }
+    adminSecret.value = adminInput.value.trim()
+    sessionStorage.setItem('adminSecret', adminSecret.value)
+    adminInput.value = ''
+    adminError.value = ''
+  } catch {
+    adminError.value = 'Could not verify. Please try again.'
+  }
 }
 
 const logoutAdmin = () => {
