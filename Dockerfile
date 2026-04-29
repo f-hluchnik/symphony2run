@@ -18,7 +18,9 @@ RUN apt-get update && apt-get install -y nginx psmisc && rm -rf /var/lib/apt/lis
 COPY backend/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 COPY backend/app ./app
-COPY backend/db ./db_seed
+COPY backend/db/symphonies.db ./db_seed/symphonies.db
+COPY backend/alembic ./alembic
+COPY backend/alembic.ini ./alembic.ini
 COPY start.sh ./start.sh
 RUN chmod +x start.sh
 

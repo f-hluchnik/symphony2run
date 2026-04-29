@@ -5,5 +5,7 @@ class WorkSchema(BaseModel):
     composer: str
     work: str
     duration_ms: int
+    verified: bool
+    excluded: bool
 
     model_config = ConfigDict(from_attributes=True)
