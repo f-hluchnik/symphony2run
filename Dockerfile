@@ -11,7 +11,7 @@ FROM python:3.12-slim
 WORKDIR /app
 
 # Install nginx
-RUN apt-get update && apt-get install -y nginx psmisc && rm -rf /var/lib/apt/lists/* \
+RUN apt-get update && apt-get install -y nginx && rm -rf /var/lib/apt/lists/* \
     && rm -f /etc/nginx/sites-enabled/default
 
 # Backend
