@@ -1,5 +1,6 @@
 from pydantic import BaseModel, ConfigDict
 
+
 class WorkSchema(BaseModel):
     id: int
     composer: str

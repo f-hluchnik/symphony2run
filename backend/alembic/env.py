@@ -1,3 +1,4 @@
+import logging
 import os
 import sys
 from logging.config import fileConfig
@@ -8,13 +9,15 @@ from alembic import context
 # Make sure app modules are importable
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from app.database import SQLALCHEMY_DATABASE_URL, Base
-from app.models import Work  # import all models so Base.metadata knows about them
+from app.database import DATABASE_URL
+from app.models import Base
 
 config = context.config
-config.set_main_option('sqlalchemy.url', SQLALCHEMY_DATABASE_URL)
+config.set_main_option('sqlalchemy.url', DATABASE_URL)
 
-if config.config_file_name is not None:
+# Use alembic.ini's logging only when run as the `alembic` command; inside
+# app.bootstrap the app has already configured logging.
+if config.config_file_name is not None and not logging.getLogger().handlers:
     fileConfig(config.config_file_name)
 
 target_metadata = Base.metadata
@@ -42,6 +45,8 @@ def run_migrations_online() -> None:
         context.configure(
             connection=connection,
             target_metadata=target_metadata,
+            # SQLite can't ALTER most things; Alembic rebuilds the table instead.
+            render_as_batch=True,
         )
         with context.begin_transaction():
             context.run_migrations()
