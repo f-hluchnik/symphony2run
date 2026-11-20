@@ -2,7 +2,8 @@
 import { ref, onMounted } from 'vue'
 import './styles.css'
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || '/api'
+// Same origin in production; Vite proxies /api to the backend in development.
+const API_BASE = '/api'
 
 // ── State ──────────────────────────────────────────────────────
 const message       = ref('')
@@ -58,7 +59,9 @@ const submitForm = async () => {
   selectedComposers.value.forEach(c => params.append('composers', c))
 
   try {
-    const response = await fetch(`${API_BASE}/search/?${params}`)
+    // As admin, search also returns excluded works (greyed out), so they can be restored.
+    const headers = isAdmin() ? { 'x-admin-secret': adminSecret.value } : {}
+    const response = await fetch(`${API_BASE}/search/?${params}`, { headers })
     if (!response.ok) throw new Error(`Server error: ${response.status}`)
     const data = await response.json()
     if (!data || data.length === 0) {
@@ -216,6 +219,7 @@ const adminAction = async (workId, action, currentValue) => {
             v-for="(s, i) in symphonies"
             :key="s.id"
             class="suggestion-card"
+            :class="{ 'suggestion-card--excluded': s.excluded }"
             :style="{ animationDelay: `${i * 0.07}s` }"
           >
             <div class="card-main">
@@ -224,6 +228,7 @@ const adminAction = async (workId, action, currentValue) => {
               <div class="card-footer-row">
                 <span class="card-duration">{{ formatDuration(s.duration_ms) }}</span>
                 <span v-if="s.verified" class="badge-verified" title="Verified by the author">✓ verified</span>
+                <span v-if="s.excluded" class="badge-excluded" title="Hidden from visitors">excluded</span>
               </div>
             </div>
 

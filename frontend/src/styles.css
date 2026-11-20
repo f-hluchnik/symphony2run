@@ -3,7 +3,7 @@
    Aesthetic: Concert program meets running journal
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=DM+Sans:wght@300;400;500&display=swap');
+/* Fonts are self-hosted (see main.js), so visitors' browsers never contact Google. */
 
 /* ── Variables ─────────────────────────────────────────────── */
 :root {
@@ -513,6 +513,29 @@ button:active {
   color: #e07070;
   border-color: rgba(224, 112, 112, 0.4);
   background: rgba(224, 112, 112, 0.08);
+}
+
+/* ── Excluded works (admin only) ────────────────────────────── */
+/* Dim the text, not the card: the card's entrance animation owns its opacity,
+   and the admin buttons should stay clear so the work can be restored. */
+.suggestion-card--excluded .card-main {
+  opacity: 0.4;
+}
+
+.suggestion-card--excluded .card-work {
+  text-decoration: line-through;
+  text-decoration-color: rgba(245, 236, 215, 0.4);
+}
+
+.badge-excluded {
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #e07070;
+  border: 1px solid rgba(224, 112, 112, 0.4);
+  border-radius: 99px;
+  padding: 0.1rem 0.5rem;
+  white-space: nowrap;
 }
 
 /* ── Welcome / empty message ────────────────────────────────── */
