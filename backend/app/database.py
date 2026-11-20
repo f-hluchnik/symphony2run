@@ -1,25 +1,17 @@
-import os
+from collections.abc import Iterator
+
 from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker, declarative_base
+from sqlalchemy.orm import Session, sessionmaker
 
-# 1. Engine: the core connection to your DB
-DB_PATH = os.path.join(os.path.dirname(__file__), '../db/symphonies.db')
-SQLALCHEMY_DATABASE_URL = f'sqlite:///{DB_PATH}'
+from .settings import DATABASE_PATH
 
-engine = create_engine(
-    SQLALCHEMY_DATABASE_URL, connect_args={'check_same_thread': False}
-)
+DATABASE_URL = f"sqlite:///{DATABASE_PATH}"
 
-# 2. SessionLocal: a factory to create session objects
-SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
+SessionLocal = sessionmaker(bind=engine, autoflush=False)
 
-# 3. Base class for models
-Base = declarative_base()
 
-# 4. Dependency for FastAPI endpoints
-def get_db():
-    db = SessionLocal()
-    try:
+def get_db() -> Iterator[Session]:
+    """FastAPI dependency: one session per request."""
+    with SessionLocal() as db:
         yield db
-    finally:
-        db.close()

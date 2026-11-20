@@ -294,3 +294,8 @@ staticfiles/
 
 # Docker
 docker-compose.override.yml
+# Symphony2Run
+# Local database (created by `python -m app.bootstrap`; production uses the Fly volume).
+backend/db/
+# Raw MusicBrainz downloads, input to backend/pipeline/clean_works.py.
+backend/data/raw/

@@ -1,4 +1,12 @@
-node_modules
-__pycache__
-.env
 .git
+.github
+.venv
+**/__pycache__
+**/.pytest_cache
+.env
+frontend/node_modules
+frontend/dist
+backend/db
+backend/data/raw
+backend/tests
+backend/pipeline

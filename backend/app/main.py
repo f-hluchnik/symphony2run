@@ -1,93 +1,105 @@
-import os, random
-from fastapi import APIRouter, FastAPI, Depends, HTTPException, Header, Query
+import secrets
+from typing import Annotated
+
+from fastapi import APIRouter, Depends, FastAPI, Header, HTTPException, Query
+from fastapi.staticfiles import StaticFiles
+from sqlalchemy import func, select
 from sqlalchemy.orm import Session
-from .models import Work
+
 from .database import get_db
+from .models import Work
 from .schemas import WorkSchema
-from fastapi.middleware.cors import CORSMiddleware
-from typing import List
+from .settings import STATIC_DIR, admin_secret
 
-app = FastAPI()
+# A search matches works within ±5 % of the run's duration.
+DURATION_TOLERANCE = 0.05
+SUGGESTIONS = 5
 
-origins = os.getenv('ALLOW_ORIGINS', 'http://localhost:5173').split(',')
+app = FastAPI(title="Symphony2Run")
+router = APIRouter(prefix="/api")
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=origins,
-    allow_credentials=True,
-    allow_methods=['*'],
-    allow_headers=['*'],
-)
+DB = Annotated[Session, Depends(get_db)]
 
-router = APIRouter(prefix='/api')
 
-def require_admin(x_admin_secret: str = Header(...)):
-    secret = os.getenv('ADMIN_SECRET')
-    if not secret or x_admin_secret != secret:
-        raise HTTPException(status_code=403, detail='Forbidden')
-    
-@router.get('/admin/verify', dependencies=[Depends(require_admin)])
-async def verify_admin():
-    return {'ok': True}
+def is_admin(x_admin_secret: Annotated[str | None, Header()] = None) -> bool:
+    secret = admin_secret()
+    return bool(secret and x_admin_secret and secrets.compare_digest(x_admin_secret, secret))
 
-@router.get('/')
-async def root():
-    return {'message': 'Welcome. Please enter the duration of your run.'}
 
-@router.get('/health')
-async def health():
-    return {'status': 'ok'}
+def require_admin(admin: Annotated[bool, Depends(is_admin)]) -> None:
+    if not admin:
+        raise HTTPException(status_code=403, detail="Forbidden")
 
-@router.get('/composers/', response_model=List[str])
-async def get_composers(db: Session = Depends(get_db)):
-    rows = db.query(Work.composer).distinct().order_by(Work.composer).all()
-    return [r[0] for r in rows]
 
-@router.get('/search/', response_model=List[WorkSchema])
-async def get_symphony(
-    run_duration: int,
-    composers: List[str] = Query(default=[]),
+@router.get("/")
+def root() -> dict[str, str]:
+    return {"message": "Welcome. Please enter the duration of your run."}
+
+
+@router.get("/health")
+def health() -> dict[str, str]:
+    return {"status": "ok"}
+
+
+@router.get("/composers/")
+def get_composers(db: DB) -> list[str]:
+    return list(db.scalars(select(Work.composer).distinct().order_by(Work.composer)))
+
+
+@router.get("/search/")
+def search(
+    db: DB,
+    admin: Annotated[bool, Depends(is_admin)],
+    run_duration: Annotated[int, Query(ge=1, le=24 * 60, description="Minutes")],
+    composers: Annotated[list[str], Query()] = [],  # noqa: B006 (FastAPI copies it)
     verified_only: bool = False,
-    db: Session = Depends(get_db)
-) -> str:
-    run_duration_ms = run_duration * 60000
-    min_duration = int(run_duration_ms * 0.95)
-    max_duration = int(run_duration_ms * 1.05)
+) -> list[WorkSchema]:
+    """Up to five random works whose duration fits the run.
 
-    query = (
-        db.query(Work)
-        .filter(Work.duration_ms.between(min_duration, max_duration))
-        .filter(Work.excluded == False)
+    The admin also sees excluded works, so an exclusion can be undone.
+    """
+    run_ms = run_duration * 60_000
+    query = select(Work).where(
+        Work.duration_ms.between(
+            int(run_ms * (1 - DURATION_TOLERANCE)), int(run_ms * (1 + DURATION_TOLERANCE))
+        )
     )
+    if not admin:
+        query = query.where(Work.excluded.is_(False))
     if composers:
-        query = query.filter(Work.composer.in_(composers))
+        query = query.where(Work.composer.in_(composers))
     if verified_only:
-        query = query.filter(Work.verified == True)
+        query = query.where(Work.verified.is_(True))
+    return list(db.scalars(query.order_by(func.random()).limit(SUGGESTIONS)))
 
-    results = query.limit(100).all()
-    return random.sample(results, min(5, len(results)))
 
-@router.patch('/works/{work_id}/verified', dependencies=[Depends(require_admin)])
-async def set_verified(work_id: int, value: bool, db: Session = Depends(get_db)):
-    work = db.query(Work).filter(Work.id == work_id).first()
-    if not work:
-        raise HTTPException(status_code=404, detail='Work not found')
-    work.verified = value
+@router.get("/admin/verify", dependencies=[Depends(require_admin)])
+def verify_admin() -> dict[str, bool]:
+    return {"ok": True}
+
+
+def _set_flag(db: Session, work_id: int, flag: str, value: bool) -> dict:
+    work = db.get(Work, work_id)
+    if work is None:
+        raise HTTPException(status_code=404, detail="Work not found")
+    setattr(work, flag, value)
     db.commit()
-    return {'id': work_id, 'verified': value}
+    return {"id": work_id, flag: value}
 
 
-@router.patch('/works/{work_id}/excluded', dependencies=[Depends(require_admin)])
-async def set_excluded(work_id: int, value: bool, db: Session = Depends(get_db)):
-    work = db.query(Work).filter(Work.id == work_id).first()
-    if not work:
-        raise HTTPException(status_code=404, detail='Work not found')
-    work.excluded = value
-    db.commit()
-    return {'id': work_id, 'excluded': value}
+@router.patch("/works/{work_id}/verified", dependencies=[Depends(require_admin)])
+def set_verified(work_id: int, value: bool, db: DB) -> dict:
+    return _set_flag(db, work_id, "verified", value)
 
-@router.get('/works/')
-def read_works(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):
-    return db.query(Work).offset(skip).limit(limit).all()
+
+@router.patch("/works/{work_id}/excluded", dependencies=[Depends(require_admin)])
+def set_excluded(work_id: int, value: bool, db: DB) -> dict:
+    return _set_flag(db, work_id, "excluded", value)
+
 
 app.include_router(router)
+
+# The built frontend, served from the same origin as the API. Mounted last so
+# /api routes take precedence. Absent in local development (Vite serves it).
+if STATIC_DIR.is_dir():
+    app.mount("/", StaticFiles(directory=STATIC_DIR, html=True), name="frontend")

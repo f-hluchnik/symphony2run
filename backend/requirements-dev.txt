@@ -1,0 +1,5 @@
+# Local development: tests and the data pipeline (backend/pipeline).
+-r requirements.txt
+httpx==0.28.1
+pytest==9.2.0
+requests==2.32.5
